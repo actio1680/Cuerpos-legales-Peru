@@ -25,7 +25,7 @@
 >
 > Código Civil 1936
 > 
-> [Artículo 100.-](other_file.md)
+> [Artículo 100.-](cuerpos_legales_peru/Codigo-Civil/1936/Libro-V.md#artículo-100-) 
 > AAAAAAAAA AAAAAAAAAAAAA 
 
 ##### Artículo 884.-NORMAS QUE RIGEN LA PROPIEDAD INCORPORAL

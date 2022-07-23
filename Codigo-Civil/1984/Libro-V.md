@@ -25,8 +25,9 @@
 >
 > Código Civil 1936
 > 
-> [Artículo 100.-](cuerpos_legales_peru/Codigo-Civil/1936/Libro-V.md#artículo-100-) 
-> AAAAAAAAA AAAAAAAAAAAAA 
+> [Artículo 100.-](https://github.com/Will5678/cuerpos_legales_peru/blob/main/Codigo-Civil/1936/Libro-V.md#art%C3%ADculo-100-) 
+> - AAAAAAAAA AAAAAAAAAAAAA 
+> <a href="https://github.com/lee-dohm/test-repo/blob/master/other-directory/README.md#section" target="_blank">comment</a>
 
 ##### Artículo 884.-NORMAS QUE RIGEN LA PROPIEDAD INCORPORAL
 - Las propiedades incorporales se rigen por su legislación especial.

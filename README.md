@@ -1,1 +1,1 @@
-# cuerpos_legales_peru
+# Descripción general del proyecto

@@ -19,6 +19,14 @@
 > 
 > Artículo 883.- DEROGADO.
 
+> ***[CORRESPONDENCIAS]***
+>
+> Código Civil 1936
+> 
+> [Artículo 852.-]([cuerpos_legales_peru/Codigo-Civil/1936/Libro-V.md#art%C3%ADculo-852-](https://github.com/Will5678/cuerpos_legales_peru/blob/main/Codigo-Civil/1936/Libro-IV.md#de-las-varias-clases-de-bienes)) 
+> - Por los actos jurídicos sólo pueden establecerse los derechos reales reconocidos en este Código. No se 
+> puede establecer la prohibición de enajenar, salvo en los casos permitidos por la ley.
+
 ##### Artículo 884.-NORMAS QUE RIGEN LA PROPIEDAD INCORPORAL
 - Las propiedades incorporales se rigen por su legislación especial.
 ---
@@ -48,11 +56,4 @@
 
 -----------------------
 
-> ***[CORRESPONDENCIAS]***
->
-> Código Civil 1936
-> 
-> [Artículo 852.-](cuerpos_legales_peru/Codigo-Civil/1936/Libro-V.md#art%C3%ADculo-852-) 
-> - Por los actos jurídicos sólo pueden establecerse los derechos reales reconocidos en este Código. No se 
-> puede establecer la prohibición de enajenar, salvo en los casos permitidos por la ley.
 

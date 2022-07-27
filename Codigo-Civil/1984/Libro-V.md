@@ -1,11 +1,8 @@
-| Primera publicación del Código Civil del Perú en 1984 |
+| Código Civil del Perú 1984: Antecedentes y actualizaciones |
 | --- |
 
-## LIBRO V. DERECHOS REALES
-
-### SECCIÓN PRIMERA
-
-#### DISPOSICIONES GENERALES
+### LIBRO V. Derechos reales
+#### SECCIÓN PRIMERA. Disposciones generales
 
 ##### Artículo 881.- NOCIÓN DE DERECHOS REALES
 - Son derechos reales los regulados en este Libro y otras leyes.
@@ -32,17 +29,14 @@
 
 ##### Artículo 884.-NORMAS QUE RIGEN LA PROPIEDAD INCORPORAL
 - Las propiedades incorporales se rigen por su legislación especial.
----
 
-### SECCIÓN SEGUNDA
-#### BIENES
-#### TÍTULO I
-#### CLASES DE BIENES
 
+#### SECCIÓN SEGUNDA. Bienes
+#### TÍTULO I. Clases de bienes
 
 ##### Artículo 885.- BIENES INMUEBLES
 
-- Son inmuebles:
+Son inmuebles:
 
 1. El suelo, el subsuelo y el sobresuelo.
 2. El mar, los lagos, los ríos, los manantiales, las corrientes de agua y las aguas vivas o estanciales.

@@ -24,24 +24,35 @@ Con cargo de dar cuenta al Congreso;
 
 Ha dado el Decreto Legislativo siguiente:
 
-Artículo 1.- Promúlgase el CÓDIGO CIVIL aprobado por la Comisión Revisora creada
+ARTÍCULO 1.- Promúlgase el CÓDIGO CIVIL aprobado por la Comisión Revisora creada
 por la Ley Nº 23403, según el texto adjunto, que consta de 2,132 artículos distribuidos
 en doce partes, como sigue:
 
 TITULO PRELIMINAR: Artículo I a X;
+
 LIBRO I: Derechos de las Personas: Artículos de 1 al 139;
+
 LIBRO II: Acto Jurídico: Artículos 140 a 232;
+
 LIBRO III: Derecho de Familia: Artículos 233 a 659;
+
 LIBRO IV: Derecho de Sucesiones: Artículos 660 a 880;
+
 LIBRO V: Derechos Reales: Artículos 881 a 1131;
+
 LIBRO VI: Las Obligaciones: Artículos 1132 a 1350;
+
 LIBRO VII: Fuente de las Obligaciones: Artículos 1351 a 1988;
+
 LIBRO VIII: Prescripción y Caducidad: Artículos 1989 a 2007;
+
 LIBRO IX: Registros Públicos: Artículos 2008 a 2045;
+
 LIBRO X: Derecho Internacional Privado: Artículos 2046 a 2111;
+
 TITULO FINAL: Artículos 2112 a 2122.
 
-Artículo 2.- El nuevo Código Civil entrará en vigor el 14 de noviembre de 1984.
+ARTÍCULO 2.- El nuevo Código Civil entrará en vigor el 14 de noviembre de 1984.
 
 POR TANTO:
 

@@ -1,3 +1,6 @@
+| Primera publicación del Código Civil del Perú en 1984 |
+| --- |
+
 ## LIBRO V. DERECHOS REALES
 
 ### SECCIÓN PRIMERA

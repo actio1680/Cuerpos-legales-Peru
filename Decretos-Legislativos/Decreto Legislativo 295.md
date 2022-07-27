@@ -1,5 +1,5 @@
 
-DECRETO LEGISLATIVO 295
+DECRETO LEGISLATIVO 295[^1]
 
 EL PRESIDENTE DE LA REPÚBLICA
 
@@ -65,3 +65,5 @@ Presidente Constitucional de la República
 
 MAX ARIAS SCHREIBER PEZET
 Ministro de Justicia
+
+[^1]: [https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00295.pdf](https://www.leyes.congreso.gob.pe/Documentos/DecretosLegislativos/00295.pdf)

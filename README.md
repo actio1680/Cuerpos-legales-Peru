@@ -1,1 +1,1 @@
-# Descripción general del proyecto
+## Descripción general del proyecto

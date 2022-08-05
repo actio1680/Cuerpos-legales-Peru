@@ -13,13 +13,13 @@
 ##### Artículo 883.- NORMAS QUE RIGEN LOS PREDIOS RÚSTICOS
 - Los derechos reales sobre predios rústicos se rigen por la legislación de la materia.
 
-> ***[MODIFICACIONES]***
+> ***[Modificación]***
 >
 > (D. Leg. 653, DOEP - 1 de agosto de 1991)
 > 
 > Artículo 883.- DEROGADO.
 
-> ***[CORRESPONDENCIAS]***
+> ***[Anterior]***
 >
 > Código Civil 1936
 > 

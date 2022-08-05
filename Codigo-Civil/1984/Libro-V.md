@@ -4,7 +4,7 @@
 ### LIBRO V. Derechos reales
 #### SECCIÓN PRIMERA. Disposciones generales
 
-##### Artículo 881.- NOCIÓN DE DERECHOS REALES
+##### ARTÍCULO 881.- Noción de derechos reales
 - Son derechos reales los regulados en este Libro y otras leyes.
 
 ##### Artículo 882.- IMPROCEDENCIA DE PROHIBICIÓN DE ENAJENAR O GRAVAR

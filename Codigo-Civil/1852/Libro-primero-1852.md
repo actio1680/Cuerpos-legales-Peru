@@ -1,18 +1,18 @@
-#### CONTENIDO: LIBRO PRIMERO - CÓDIGO CIVIL DEL PERÚ 1852
+### CÓDIGO CIVIL DEL PERÚ 1852
+#### CONTENIDO
+**LIBRO PRIMERO. De las personas y sus derechos**
 
-##### LIBRO PRIMERO. De las personas y sus derechos
+**SECCIÓN PRIMERA: De las personas según su estado natural**
 
-- SECCIÓN PRIMERA: De las personas según su estado natural
+**SECCIÓN SEGUNDA: De las personas según el estado civil**
 
-- SECCIÓN SEGUNDA: De las personas según el estado civil
+**SECCIÓN TERCERA: Del matrimonio**
 
-- SECCIÓN TERCERA: Del matrimonio
+**SECCIÓN CUARTA. De la paternidad**
 
-- SECCIÓN CUARTA. De la paternidad
+**SECCIÓN QUINTA. De los guardadores; y de sus escusas, remoción, responsabilidad, fianzas y cuentas**
 
-- SECCIÓN QUINTO. De los guardadores; y de sus escusas, remoción, responsabilidad, fianzas y cuentas
-
-- SECCIÓN SEXTA. De los registros del estado civil
+**SECCIÓN SEXTA. De los registros del estado civil**
 
 ---
 
@@ -107,8 +107,7 @@
 - Los tíos y los hermano solo pueden pedir la interdicción para favorecer al cónyuge o a los descendientes o descendientes del pródigo.
 
 ##### ARTÍCULO  25. 
-- Al declarar los jueces la interdicción judicial por causa de prodigalidad, pueden, según las circunstancias: o poner al prodigo bajo la dirección de una persona nombrada por el consejo de familia, sin consentimiento de la cual no podrá dar ni recibir prestado, transigir, ni dar cartas de pago, enajenar ni hipotecar sus bienes, o privarle absolutamente de la
-administración de sus bienes, proveyéndole de guardador.
+- Al declarar los jueces la interdicción judicial por causa de prodigalidad, pueden, según las circunstancias: o poner al prodigo bajo la dirección de una persona nombrada por el consejo de familia, sin consentimiento de la cual no podrá dar ni recibir prestado, transigir, ni dar cartas de pago, enajenar ni hipotecar sus bienes, o privarle absolutamente de la administración de sus bienes, proveyéndole de guardador.
 
 ##### ARTÍCULO  26. 
 - Los incapaces por locura o fatuidad son reputados menores no pueden ejercer, por así sus derechos civiles, no salen de la patria potestad, y muerto el padre, viven como menores bajo la protección de sus guardadores.
@@ -180,7 +179,7 @@ TITULO II. DE LOS PERUANOS Y EXTRANJEROS
 
 #### TÍTULO III. De los vecinos y ausentes
 
-De los vecinos
+#### De los vecinos
 
 ##### ARTÍCULO 44.
 - Es vecino de un pueblo, la persona que tiene en el su domicilio
@@ -221,7 +220,7 @@ De los vecinos
 ##### ARTÍCULO 55. 
 - Los transeúntes no gozan de los derechos ni están sujetos a las cargas del vecino.
 
-De los ausentes
+#### De los ausentes
 
 ##### ARTÍCULO 56. 
 - Cuando una persona se halla ausente del lugar de su domicilio ó residencia, su apoderado, y no habiéndolo, su cónyuge, y á falta de este, sus hijos, se encargarán de la administración de sus bienes y derechos, si el ausente no dispuso otra cosa.
@@ -229,82 +228,68 @@ De los ausentes
 ##### ARTÍCULO 57. 
 - Si el ausente no hubiese dejado apoderado, cónyuge, ni hijos, pero se hallare dentro de la República, se le harán las citaciones convenientes, siempre que sea necesario.
 
-Art. 58. Si el ausente esta fuera de la República, sin que tenga apoderado, ni cónyuge ,
-ni hijos, ni guardador de su persona cuando él fuere menor, se nombrará por el juez un
-guardador para sus bienes, probada y declarada previamente conforme al código de
-enjuiciamiento, la necesidad de proveer á la adquisición. Lo mismo se verificará con el ausente
-cuyo domicilio se ignore.
+##### ARTÍCULO 58. 
+- Si el ausente esta fuera de la República, sin que tenga apoderado, ni cónyuge, ni hijos, ni guardador de su persona cuando él fuere menor, se nombrará por el juez un guardador para sus bienes, probada y declarada previamente conforme al código de enjuiciamiento, la necesidad de proveer á la adquisición. Lo mismo se verificará con el ausente cuyo domicilio se ignore.
 
-Art. 59. Pueden pedir guardadores para los bienes del ausente:
-  1. Todos los parientes ó personas que tengan derecho á ellos;
-  2. Los síndicos procuradores ó el ministerio fiscal;
-  3. Cualquiera del pueblo á falta de parientes.
+##### ARTÍCULO 59. 
+- Pueden pedir guardadores para los bienes del ausente:
+   1. Todos los parientes ó personas que tengan derecho á ellos;
+   2. Los síndicos procuradores ó el ministerio fiscal;
+   3. Cualquiera del pueblo á falta de parientes.
 
-Art. 60. Todos los que puedan pedir el nombramiento de guardadores para los
-huérfanos, cuyos padres han fallecido, tienen la misma facultad en favor de los hijos menores
-ausentes.
+##### ARTÍCULO 60. 
+- Todos los que puedan pedir el nombramiento de guardadores para los huérfanos, cuyos padres han fallecido, tienen la misma facultad en favor de los hijos menores ausentes.
 
-Art. 61. El guardador, antes de encargarse de la administración de los bienes,
-practicará inventario y tasación judicial de ellos, y prestará fianza por su valor.
+##### ARTÍCULO 61. 
+- El guardador, antes de encargarse de la administración de los bienes, practicará inventario y tasación judicial de ellos, y prestará fianza por su valor.
 
-Art. 62. Las facultades del guardador son de pura administración: no podrá sin embargo
-enajenar ni hipotecar los bienes raíces; podrá sin embargo enajenar los bienes muebles con
-licencia judicial.
+##### ARTÍCULO 62. 
+- Las facultades del guardador son de pura administración: no podrá sin embargo enajenar ni hipotecar los bienes raíces; podrá sin embargo enajenar los bienes muebles con licencia judicial.
 
-Art. 63. Los productos de los bienes raíces, el valor de los muebles que se venden, y
-las rentas que cobren, se colocaran á interés.
+##### ARTÍCULO 63. 
+- Los productos de los bienes raíces, el valor de los muebles que se venden, y las rentas que cobren, se colocaran á interés.
 
-Art. 64. El guardador gozará, por su trabajo, de la misma indemnización que los
-guardadores de menores; y dará cuenta de su administración cuando se le ordene
-judicialmente, y cuando termine el cargo.
+##### ARTÍCULO 64. 
+- El guardador gozará, por su trabajo, de la misma indemnización que los guardadores de menores; y dará cuenta de su administración cuando se le ordene judicialmente, y cuando termine el cargo.
 
-Art. 65. Termina el cargo del guardador:
-  1. Cuando vuelva el ausente constituye apoderado;
-  2. Cuando se da la posesión provisional a los herederos ausentes;
-  3. Cuando renuncia ó es removido, según las reglas establecidas para el guardador de menores.
+##### ARTÍCULO 65. 
+- Termina el cargo del guardador:
+   1. Cuando vuelva el ausente constituye apoderado;
+   2. Cuando se da la posesión provisional a los herederos ausentes;
+   3. Cuando renuncia ó es removido, según las reglas establecidas para el guardador de menores.
 
-Art. 66. A todo ausente de la república, que no tenga apoderado, ni cónyuge, ni hijos
-mayores, ni guardador, se le nombrara por el consejo de familia defensor, para los casos en
-que deba responder á una demanda ó hacer valer algo en juicio. Cesará el cargo de defensor,
-desde que termine el asunto para que fue nombrado, ó desde que, por hacerse necesario, se
-provea de guardador al ausente.
+##### ARTÍCULO 66. 
+- A todo ausente de la república, que no tenga apoderado, ni cónyuge, ni hijos mayores, ni guardador, se le nombrara por el consejo de familia defensor, para los casos en que deba responder á una demanda ó hacer valer algo en juicio. Cesará el cargo de defensor, desde que termine el asunto para que fue nombrado, ó desde que, por hacerse necesario, se provea de guardador al ausente.
 
-Art. 67. Si no se tiene, durante diez años, noticia alguna de un ausente, sus herederos
-testamentarios ó legales, podrán pedir la posesión provisional de sus bienes, conforme al
-código de enjuiciamientos.
+##### ARTÍCULO 67. 
+- Si no se tiene, durante diez años, noticia alguna de un ausente, sus herederos testamentarios ó legales, podrán pedir la posesión provisional de sus bienes, conforme al código de enjuiciamientos.
 
-Art. 68. Al concederse la posesión provisional se hará partición de bienes de la
-sociedad conyugal.
+##### ARTÍCULO 68. 
+- Al concederse la posesión provisional se hará partición de bienes de la sociedad conyugal.
 
-Art. 69. El heredero que obtiene la posesión provisional está obligado, como el
-guardador á practicar inventario y tasación de los bienes, á dar fianza por su valor, y á no
-enajenar ni hipotecar, en ningún caso, los bienes raíces; pero podrá enajenar los muebles con
-licencia judicial.
+##### ARTÍCULO 69. 
+- El heredero que obtiene la posesión provisional está obligado, como el guardador á practicar inventario y tasación de los bienes, á dar fianza por su valor, y á no enajenar ni hipotecar, en ningún caso, los bienes raíces; pero podrá enajenar los muebles con licencia judicial.
 
-Art. 70. El poseedor provisional hace suya la mitad de los frutos naturales, industriales
-y civiles, reservando la otra mitad para el dueño de los bienes.
+##### ARTÍCULO 70. 
+- El poseedor provisional hace suya la mitad de los frutos naturales, industriales y civiles, reservando la otra mitad para el dueño de los bienes.
 
-Art. 71. Si se tuviese prueba de la muerte de un ausente, ó hubiese transcurrido, sin
-haber noticia suya, el tiempo suficiente para que cumpliera la edad de ochenta años, podrá su
-heredero testamentario ó legal, pedir la posesión definitiva de la herencia.
+##### ARTÍCULO 71. 
+- Si se tuviese prueba de la muerte de un ausente, ó hubiese transcurrido, sin haber noticia suya, el tiempo suficiente para que cumpliera la edad de ochenta años, podrá su heredero testamentario ó legal, pedir la posesión definitiva de la herencia.
 
-Art. 72. Obtenida la posesión definitiva, el heredero entra en el goce de todos los
-derechos de sucesión, incluyéndose en la masa hereditaria los frutos reservados según el
-artículo 70.
+##### ARTÍCULO 72. 
+- Obtenida la posesión definitiva, el heredero entra en el goce de todos los derechos de sucesión, incluyéndose en la masa hereditaria los frutos reservados según el artículo 70.
 
-Art. 73. La mujer del ausente tendrá en todo caso la patria potestad de los hijos de
-ambos.
+##### ARTÍCULO 73. 
+- La mujer del ausente tendrá en todo caso la patria potestad de los hijos de ambos.
 
-Art. 74. Si el marido ausente dejase hijos menores de un matrimonio anterior, se les proveerá
-de guardador para sus bienes propios; conservándose los del ausente bajo la administración
-de la mujer. Esta dará, de los bienes que administra lo que falte para los alimentos de aquellos
-hijos, si no bastaren los bienes de ellos.
+##### ARTÍCULO 74. 
+- Si el marido ausente dejase hijos menores de un matrimonio anterior, se les proveerá de guardador para sus bienes propios; conservándose los del ausente bajo la administración de la mujer. Esta dará, de los bienes que administra lo que falte para los alimentos de aquellos hijos, si no bastaren los bienes de ellos.
 
-Art. 75. Todos los que administran bienes del ausente deben proveer de alimentos á los
-que tuvieron derecho de recibirlos.
+##### ARTÍCULO 75. 
+- Todos los que administran bienes del ausente deben proveer de alimentos á los que tuvieron derecho de recibirlos.
 
-Art. 76. Si no hubiese cónyuge, se constituirá á los hijos menores bajo el poder de un
-guardador; y este será también guardador de los bienes del ausente.
+##### ARTÍCULO 76. 
+- Si no hubiese cónyuge, se constituirá á los hijos menores bajo el poder de un guardador; y este será también guardador de los bienes del ausente.
 
 ##### ARTÍCULO 77. 
 - Los legatarios y todos los que, por fallecimiento del ausente tengan algún derecho á sus bienes, podrán hacerlo valer contra el heredero que ha obtenido la posesión definitiva.
@@ -326,236 +311,288 @@ mientras no se haya dado posesión definitiva de sus bienes.
 ##### ARTÍCULO  82. 
 - El guardador y el poseedor provisional, que adquieran para el ausente cualesquiera bienes ó derechos, por sucesión u otro título gratuito, darán fianza de devolverlos á quienes correspondan, si no prueban, dentro de cuatro años, que el ausente vivía al tiempo de la adquisición.
 
-
-
-TITULO IV. DE LOS CLÉRIGOS
+#### TITULO IV. De los clérigos
 
 ##### ARTÍCULO 83. 
 - Clérigo es la persona dedicada al culto divino, en virtud de órdenes menores, ó mayores.
 
 ##### ARTÍCULO 84. 
 - Para que conserven esta calidad los de órdenes menores, se requiere:
-1. Que tengan corona abierta, y vistan hábito talar;
-2. Que estén destinados por el Ordinario al servicio de alguna iglesia, ó que estudien
-en un colegio público ó seminario conciliar.
-##### ARTÍCULO 85. Los clérigos están exentos de los cargos concejiles.
-##### ARTÍCULO 86. Es prohibido á los regulares vivir fuera de sus conventos, sin licencia de sus
-prelados, y conocimiento de la autoridad civil.
-##### ARTÍCULO 87. Es prohibido á las personas de ambos sexos, bajo pena de nulidad, prestar
-votos religiosos antes de haber cumplido veintiocho años de edad.
-##### ARTÍCULO 88. No es válida la renuncia que hagan de sus bienes y derechos los religiosos de
-uno ú otro sexo, si no se verifica dentro del bimestre anterior a su profesión.
-##### ARTÍCULO 89. Queda sin efecto la renuncia, si el religioso no llega á profesar.
-##### ARTÍCULO 90. Si no hay renuncia, se entiende hecha por el acto de la profesión.
-##### ARTÍCULO 91. La renuncia expresa se hará conforme á las leyes sobre testamentos; la tácita
-se arreglará por las de sucesión intestada.
-##### ARTÍCULO 92. Para obtener del Romano Pontífice dispensas, indultos ú otras gracias, es
-necesario ocurrir, con las respectivas preces y por medio del diocesano, al Supremo Gobierno,
-quien les dará la dirección conveniente ó facultara para ello al interesado. Los indultos,
-dispensas y gracias, que se consignan de otra manera se tendrán por no expedidos.
-##### ARTÍCULO 93. Los casos de penitenciaria no están contenidos en el artículo anterior.
-##### ARTÍCULO 94. Los religiosos de ambos sexos tienen desde el día de su secularización, y
-ejercen desde entonces todos los derechos civiles de las personas capaces.
-TITULO V
-DE LOS INGENUOS, SIERVOS Y LIBERTOS
-##### ARTÍCULO 95. Mientras subsisten los efectos de la antigua esclavitud, las personas en el
-estado civil, son también ingenuos, siervos ó libertos.
-##### ARTÍCULO 96. Es ingenuo ó persona libre:
-1. El que nace de madre libre;
-2. El hijo de madre liberta.
-##### ARTÍCULO 97. Solo es siervo o esclavo el que lo fue antes de jurarse la independencia del
-Perú, si después no ha obtenido su libertad.
-##### ARTÍCULO 98. Nadie nace esclavo en el Perú, y el esclavo que venga del exterior se hace
-libre, desde que pisa el territorio de la República.
-##### ARTÍCULO 99. Los amos deben a sus siervos en retribución de sus servicios alimentos,
-protección y asistencia en sus enfermedades.
-##### ARTÍCULO 100. No se aumentará por ninguna causa el precio más bajo que alguna vez
-hubiese tenido el esclavo, so pena de quedar, por el mismo hecho, reducido su valor á la mitad
-del precio ínfimo.
-##### ARTÍCULO 101. Los amos no pueden vender, cambiar ni donar sus esclavos, que sean
-trasladados de un lugar á otro, sin consentimiento de estos, expresado ante la autoridad civil
-del pueblo donde se encuentren.
-##### ARTÍCULO 102. Cesa la prohibición del artículo anterior, cuando haya justa causa,
-manifestada y probada ante el juez respectivo.
-##### ARTÍCULO 103. A ningún esclavo se le puede separar, contra su voluntad, de su cónyuge, ni
-de sus hijos menores.
-##### ARTÍCULO 104. El esclavo tiene derecho á variar de amo.
-1. Por causa de sevicia;
-2. Por obligarse el nuevo comprador a darle libertad pasado algún tiempo de servicio,
-que no exceda de 10 años. Esta obligación constará en la escritura de venta.
-##### ARTÍCULO 105.- Son libertos:
-1. Los que dejaron de ser esclavos por la oblación de su precio, o por gracia de los
-amos o por haberse inutilizado en servicio de estos, ó por declaración judicial con arreglo á
-este código;
-2. Los hijos de madre esclava, nacidos después de jurada la independencia.
-##### ARTÍCULO 106. Los libertos de que habla el inciso 2 del artículo anterior, sirven a sus patrones
-y reciben de ellos alimentos y socorros, conforme a las leyes especiales.
-##### ARTÍCULO 107. El amo alimentara al esclavo y al liberto que se hubiesen inutilizado en su
-servicio, si estos no pueden mantenerse por si mismos.
-##### ARTÍCULO 108. Todo lo que adquieren los esclavos ó libertos por medios lícitos es de su
-exclusiva propiedad.
-##### ARTÍCULO 109. Los libertos sujetos á servicio temporal según las leyes especiales, gozan de
-los mismos derechos civiles que los libres, salvo los servicios que deban a sus patrones: gozan
-también de todos los derechos con que este Código favorece á los esclavos.
-##### ARTÍCULO 110. Termina el patronato sobre los libertos comprendidos en el artículo anterior,
-así el patrón durante un año deja de alimentarlos, vestirlos y educarlos.
-TITULO VI
-DE LA MANUMISIÓN
-##### ARTÍCULO 111. Manumisión es el acto por el cual Señor del esclavo le concede libertad.
-Artículo112.- El amo manumite a sus esclavos o graciosamente, o por que recibe con
-este fin su valor.
-##### ARTÍCULO 113. La primera manumisión se hará por escritura pública, por testamento, por
-declaración judicial o de palabra ante dos testigos; la segunda por los mismos medios a
-excepción del último.
-##### ARTÍCULO 114. Queda libre el esclavo cuando su amo lo instituye heredero.
-##### ARTÍCULO 115. Si otro que el amo instituye heredero al esclavo, este quedara libre,
-satisfaciéndose su precio de la masa hereditaria. Este pago se hará con preferencia a
-cualquiera otra deducción.
-##### ARTÍCULO 116. Es libre el esclavo que salva a su amo de un riesgo en que peligraba su vida.
-##### ARTÍCULO 117. La persona libre que se casa con su esclavo, por el mismo hecho le da la
-libertad.
-##### ARTÍCULO 118. Es libre el esclavo abandonado por su amo durante el término de tres años,
-sea entre presentes o ausentes.
-##### ARTÍCULO 119. El que se hace libre por mera liberalidad de su amo ú otra persona, debe al
-que le dio la libertad:
-1. Alimentos en caso de necesidad, si el liberto tiene medios prestarlos;
-2. Asistencia en su vejez y enfermedades.
-SECCION TERCERA
-DEL MATRIMONIO
-TITULO I
-DE LOS ESPONSALES
-##### ARTÍCULO 120. La promesa de contraer matrimonio, que se hacen mutuamente el varón y la
-mujer, constituye los esponsales.
-##### ARTÍCULO 121. No es necesario que procedan esponsales para contraer matrimonio.
-##### ARTÍCULO 122. Se requiere para los esponsales la misma edad que para el matrimonio.
-##### ARTÍCULO 123. No pueden contraer esponsales los que no pueden casarse.
-##### ARTÍCULO 124. No son validos los esponsales de los menores de edad, si no celebran con el
-mismo consentimiento de sus padres, ó de las personas bajo cuyo poder hallen, que exige este
-código para su matrimonio.
-##### ARTÍCULO 125. Los esponsales, que no consten por escritura pública, no producirán acción
-civil.
-##### ARTÍCULO 126. Son efectos de los esponsales:
-1. La obligación reciproca de casarse los contrayentes;
-2. El derecho que tiene cada uno de ellos de oponerse al matrimonio que el otro quiera
-celebrar con distinta persona;
-3. La responsabilidad de daños y perjuicios a que queda sujeto, a favor del otro
-contrayente, el que rehusé cumplir los esponsales.
-##### ARTÍCULO 127. Pueden los desposados estipular en los esponsales todas las condiciones
-honestas, que sean conformes a la naturaleza y fin del matrimonio, y que no estén prohibidas
-por las leyes, e imponerse una multa pecuniaria para la indemnización de que habla el tercer
-inciso del artículo anterior.
-##### ARTÍCULO 128. Se disuelven los esponsales:
-1. Por mutuo disenso;
-2. Por resultar entre los contrayentes alguna prohibición legal para el matrimonio;
-3. Por haber contraído matrimonio alguno de los desposados;
-4. Por profesión religiosa de alguno de ellos;
-5. Por recibir el esposo ordenes mayores;
-6. Por ausentarse, más de tres años, cualquiera de los obligados;
-7. Por descubrirse en uno de ellos o por sobrevenirle enfermedad habitual, deformidad
-o defecto grave físico o moral, o alguna causa infamatoria;
-8. Por las mismas causas que dan lugar al divorcio.
-##### ARTÍCULO 129. Disueltos los esponsales por alguna de las causas 3, 4, 5, ó 6 del artículo
-anterior, y en general, siempre que no pueda realizarse el matrimonio por culpa de alguno de
-los desposados, habrá derecho de exigir la responsabilidad prescrita por el inciso 3 del artículo
-126.
-##### ARTÍCULO 130. El que se niega, sin justa causa, á cumplir los esponsales, pierde á favor del
-otro contrayente, las donaciones que le haya hecho, y está obligado á devolverle todas las que
-haya recibido.
-##### ARTÍCULO 131. El derecho de pedir la indemnización prescribe por el trascurso de un año
-desde la negativa á contraer el matrimonio prometido.
-TITULO II
-REGLAS GENERALES SOBRE EL MATRIMONIO.
-##### ARTÍCULO 132. Por el matrimonio se unen perpetuamente el hombre y la mujer en una
-sociedad legítima, para hacer vida común, concurriendo a la conservación de la especie
-humana.
-##### ARTÍCULO 133. No hay matrimonio, si los contrayentes no manifiestan, de un modo externo,
-su libre y mutuo consentimiento.
-##### ARTÍCULO 134. El matrimonio legalmente contraído es indisoluble; acábase solo por la muerte
-de alguno de los cónyuges. Todo lo que se pacte en contrario es nulo, y se tiene por no puesto.
-##### ARTÍCULO 135. Puede contraerse el matrimonio por apoderado especialmente autorizado,
-determinándose en el poder la persona con quien ha de verificarse.
-##### ARTÍCULO 136. En cualquier tiempo que se revoque el poder para casarse, si no fuese
-después de celebrado el matrimonio, se acaban las facultades del apoderado, aun cuando este
-ignore la revocación.
-##### ARTÍCULO 137. Serán válidas las condiciones que se estipulen para el matrimonio, si no que
-se oponen á su naturaleza, ni son contrarias á las leyes ó á las buenas costumbres. Las que
-fueren defectuosas por cualquiera de estas tres causas se tendrán por no puestas.
-##### ARTÍCULO 138. Los tribunales eclesiásticos conocerán de las causas relativas al matrimonio y
-al divorcio; y los jueces seculares, de las de esponsales, alimentos, cuidado de los hijos, litis
-expensas, liquidación y devolución de bienes, criminales sobre adulterio, y en general, de todas
-las causas sobre los efectos civiles del matrimonio y del divorcio.
-##### ARTÍCULO 139. Las disposiciones de la ley en lo concerniente al matrimonio, no se extienden
-mas allá de sus efectos civiles, dejando íntegros los deberes que la religión impone.
-##### ARTÍCULO 140. El matrimonio produce parentesco de afinidad entre cada uno de los cónyujes
-y los parientes del otro; y cada cónyuje se halla, por afinidad, en igual grado de parentesco con
-ellos, que lo esta el otro por consanguinidad.
-Los deudos de un cónyuge no adquieren con el del otro ninguna relación de
-parentesco.
-TITULO III
-DE LAS PERSONAS INCAPACES DE CONTRAER MATRIMONIO, Y DE LAS CAUSAS QUE
-IMPIDEN SU CELEBRACIÓN
-##### ARTÍCULO 141. Para que los menores puedan gozar de los efectos civiles, que respecto de
-ellos, produce el matrimonio, se requiere que el varón haya cumplido diez y ocho años de edad
+   1. Que tengan corona abierta, y vistan hábito talar;
+   2. Que estén destinados por el Ordinario al servicio de alguna iglesia, ó que estudien en un colegio público ó seminario conciliar.
+
+##### ARTÍCULO 85. 
+- Los clérigos están exentos de los cargos concejiles.
+
+##### ARTÍCULO 86. 
+- Es prohibido á los regulares vivir fuera de sus conventos, sin licencia de sus prelados, y conocimiento de la autoridad civil.
+
+##### ARTÍCULO 87. 
+- Es prohibido á las personas de ambos sexos, bajo pena de nulidad, prestar votos religiosos antes de haber cumplido veintiocho años de edad.
+
+##### ARTÍCULO 88. 
+- No es válida la renuncia que hagan de sus bienes y derechos los religiosos de uno ú otro sexo, si no se verifica dentro del bimestre anterior a su profesión.
+
+##### ARTÍCULO 89. 
+- Queda sin efecto la renuncia, si el religioso no llega á profesar.
+
+##### ARTÍCULO 90. 
+- Si no hay renuncia, se entiende hecha por el acto de la profesión.
+
+##### ARTÍCULO 91. 
+- La renuncia expresa se hará conforme á las leyes sobre testamentos; la tácita se arreglará por las de sucesión intestada.
+
+##### ARTÍCULO 92. 
+- Para obtener del Romano Pontífice dispensas, indultos ú otras gracias, es necesario ocurrir, con las respectivas preces y por medio del diocesano, al Supremo Gobierno, quien les dará la dirección conveniente ó facultara para ello al interesado. Los indultos, dispensas y gracias, que se consignan de otra manera se tendrán por no expedidos.
+
+##### ARTÍCULO 93. 
+- Los casos de penitenciaria no están contenidos en el artículo anterior.
+
+##### ARTÍCULO 94. 
+- Los religiosos de ambos sexos tienen desde el día de su secularización, y ejercen desde entonces todos los derechos civiles de las personas capaces.
+
+#### TITULO V. De los ingenuos, siervos y libertos
+
+##### ARTÍCULO 95. 
+- Mientras subsisten los efectos de la antigua esclavitud, las personas en el estado civil, son también ingenuos, siervos ó libertos.
+
+##### ARTÍCULO 96. 
+- Es ingenuo ó persona libre:
+   1. El que nace de madre libre;
+   2. El hijo de madre liberta.
+
+##### ARTÍCULO 97. 
+- Solo es siervo o esclavo el que lo fue antes de jurarse la independencia del Perú, si después no ha obtenido su libertad.
+
+##### ARTÍCULO 98. 
+- Nadie nace esclavo en el Perú, y el esclavo que venga del exterior se hace libre, desde que pisa el territorio de la República.
+
+##### ARTÍCULO 99. 
+Los amos deben a sus siervos en retribución de sus servicios alimentos, protección y asistencia en sus enfermedades.
+
+##### ARTÍCULO 100. 
+- No se aumentará por ninguna causa el precio más bajo que alguna vez hubiese tenido el esclavo, so pena de quedar, por el mismo hecho, reducido su valor á la mitad del precio ínfimo.
+
+##### ARTÍCULO 101. 
+- Los amos no pueden vender, cambiar ni donar sus esclavos, que sean trasladados de un lugar á otro, sin consentimiento de estos, expresado ante la autoridad civil del pueblo donde se encuentren.
+
+##### ARTÍCULO 102. 
+- Cesa la prohibición del artículo anterior, cuando haya justa causa, manifestada y probada ante el juez respectivo.
+
+##### ARTÍCULO 103. 
+- A ningún esclavo se le puede separar, contra su voluntad, de su cónyuge, ni de sus hijos menores.
+
+##### ARTÍCULO 104. 
+- El esclavo tiene derecho á variar de amo.
+   1. Por causa de sevicia;
+   2. Por obligarse el nuevo comprador a darle libertad pasado algún tiempo de servicio, que no exceda de 10 años. Esta obligación constará en la escritura de venta.
+
+##### ARTÍCULO 105.
+- Son libertos:
+   1. Los que dejaron de ser esclavos por la oblación de su precio, o por gracia de los amos o por haberse inutilizado en servicio de estos, ó por declaración judicial con arreglo á este código;
+   2. Los hijos de madre esclava, nacidos después de jurada la independencia.
+
+##### ARTÍCULO 106. 
+- Los libertos de que habla el inciso 2 del artículo anterior, sirven a sus patrones y reciben de ellos alimentos y socorros, conforme a las leyes especiales.
+
+##### ARTÍCULO 107. 
+- El amo alimentara al esclavo y al liberto que se hubiesen inutilizado en su servicio, si estos no pueden mantenerse por si mismos.
+
+##### ARTÍCULO 108. 
+- Todo lo que adquieren los esclavos ó libertos por medios lícitos es de su exclusiva propiedad.
+
+##### ARTÍCULO 109. 
+- Los libertos sujetos á servicio temporal según las leyes especiales, gozan de los mismos derechos civiles que los libres, salvo los servicios que deban a sus patrones: gozan también de todos los derechos con que este Código favorece á los esclavos.
+
+##### ARTÍCULO 110. 
+- Termina el patronato sobre los libertos comprendidos en el artículo anterior, así el patrón durante un año deja de alimentarlos, vestirlos y educarlos.
+
+#### TITULO VI. De manumisión
+
+##### ARTÍCULO 111. 
+- Manumisión es el acto por el cual Señor del esclavo le concede libertad.
+
+##### Artículo 112.
+- El amo manumite a sus esclavos o graciosamente, o por que recibe con este fin su valor.
+
+##### ARTÍCULO 113. 
+- La primera manumisión se hará por escritura pública, por testamento, por declaración judicial o de palabra ante dos testigos; la segunda por los mismos medios a excepción del último.
+
+##### ARTÍCULO 114. 
+- Queda libre el esclavo cuando su amo lo instituye heredero.
+
+##### ARTÍCULO 115. 
+- Si otro que el amo instituye heredero al esclavo, este quedara libre, satisfaciéndose su precio de la masa hereditaria. Este pago se hará con preferencia a cualquiera otra deducción.
+
+##### ARTÍCULO 116. 
+- Es libre el esclavo que salva a su amo de un riesgo en que peligraba su vida.
+
+##### ARTÍCULO 117. 
+- La persona libre que se casa con su esclavo, por el mismo hecho le da la libertad.
+
+##### ARTÍCULO 118. 
+- Es libre el esclavo abandonado por su amo durante el término de tres años, sea entre presentes o ausentes.
+
+##### ARTÍCULO 119. 
+- El que se hace libre por mera liberalidad de su amo ú otra persona, debe al que le dio la libertad:
+   1. Alimentos en caso de necesidad, si el liberto tiene medios prestarlos;
+   2. Asistencia en su vejez y enfermedades.
+
+#### SECCION TERCERA. Del matrimonio
+
+#### TITULO I. De los esponsales
+
+##### ARTÍCULO 120. 
+- La promesa de contraer matrimonio, que se hacen mutuamente el varón y la mujer, constituye los esponsales.
+
+##### ARTÍCULO 121. 
+- No es necesario que procedan esponsales para contraer matrimonio.
+
+##### ARTÍCULO 122. 
+- Se requiere para los esponsales la misma edad que para el matrimonio.
+
+##### ARTÍCULO 123. 
+- No pueden contraer esponsales los que no pueden casarse.
+
+##### ARTÍCULO 124. 
+- No son validos los esponsales de los menores de edad, si no celebran con el mismo consentimiento de sus padres, ó de las personas bajo cuyo poder hallen, que exige este código para su matrimonio.
+
+##### ARTÍCULO 125. 
+- Los esponsales, que no consten por escritura pública, no producirán acción civil.
+
+##### ARTÍCULO 126. 
+- Son efectos de los esponsales:
+   1. La obligación reciproca de casarse los contrayentes;
+   2. El derecho que tiene cada uno de ellos de oponerse al matrimonio que el otro quiera celebrar con distinta persona;
+   3. La responsabilidad de daños y perjuicios a que queda sujeto, a favor del otro contrayente, el que rehusé cumplir los esponsales.
+
+##### ARTÍCULO 127. 
+- Pueden los desposados estipular en los esponsales todas las condiciones honestas, que sean conformes a la naturaleza y fin del matrimonio, y que no estén prohibidas por las leyes, e imponerse una multa pecuniaria para la indemnización de que habla el tercer inciso del artículo anterior.
+
+##### ARTÍCULO 128. 
+- Se disuelven los esponsales:
+  1. Por mutuo disenso;
+  2. Por resultar entre los contrayentes alguna prohibición legal para el matrimonio;
+  3. Por haber contraído matrimonio alguno de los desposados;
+  4. Por profesión religiosa de alguno de ellos;
+  5. Por recibir el esposo ordenes mayores;
+  6. Por ausentarse, más de tres años, cualquiera de los obligados;
+  7. Por descubrirse en uno de ellos o por sobrevenirle enfermedad habitual, deformidad o defecto grave físico o moral, o alguna causa infamatoria;
+  8. Por las mismas causas que dan lugar al divorcio.
+
+##### ARTÍCULO 129. 
+- Disueltos los esponsales por alguna de las causas 3, 4, 5, ó 6 del artículo anterior, y en general, siempre que no pueda realizarse el matrimonio por culpa de alguno de los desposados, habrá derecho de exigir la responsabilidad prescrita por el inciso 3 del artículo 126.
+
+##### ARTÍCULO 130. 
+- El que se niega, sin justa causa, á cumplir los esponsales, pierde á favor del otro contrayente, las donaciones que le haya hecho, y está obligado á devolverle todas las que haya recibido.
+
+##### ARTÍCULO 131. 
+- El derecho de pedir la indemnización prescribe por el trascurso de un año desde la negativa á contraer el matrimonio prometido.
+
+#### TITULO II. Reglas generales sobre el matrimonio
+
+##### ARTÍCULO 132. 
+- Por el matrimonio se unen perpetuamente el hombre y la mujer en una sociedad legítima, para hacer vida común, concurriendo a la conservación de la especie humana.
+
+##### ARTÍCULO 133. 
+- No hay matrimonio, si los contrayentes no manifiestan, de un modo externo, su libre y mutuo consentimiento.
+
+##### ARTÍCULO 134. 
+- El matrimonio legalmente contraído es indisoluble; acábase solo por la muerte de alguno de los cónyuges. Todo lo que se pacte en contrario es nulo, y se tiene por no puesto.
+
+##### ARTÍCULO 135. 
+- Puede contraerse el matrimonio por apoderado especialmente autorizado, determinándose en el poder la persona con quien ha de verificarse.
+
+##### ARTÍCULO 136. 
+- En cualquier tiempo que se revoque el poder para casarse, si no fuese después de celebrado el matrimonio, se acaban las facultades del apoderado, aun cuando este ignore la revocación.
+
+##### ARTÍCULO 137. 
+- Serán válidas las condiciones que se estipulen para el matrimonio, si no que se oponen á su naturaleza, ni son contrarias á las leyes ó á las buenas costumbres. Las que fueren defectuosas por cualquiera de estas tres causas se tendrán por no puestas.
+
+##### ARTÍCULO 138. 
+- Los tribunales eclesiásticos conocerán de las causas relativas al matrimonio y al divorcio; y los jueces seculares, de las de esponsales, alimentos, cuidado de los hijos, litis expensas, liquidación y devolución de bienes, criminales sobre adulterio, y en general, de todas las causas sobre los efectos civiles del matrimonio y del divorcio.
+
+##### ARTÍCULO 139. 
+- Las disposiciones de la ley en lo concerniente al matrimonio, no se extienden mas allá de sus efectos civiles, dejando íntegros los deberes que la religión impone.
+
+##### ARTÍCULO 140. 
+- El matrimonio produce parentesco de afinidad entre cada uno de los cónyujes y los parientes del otro; y cada cónyuje se halla, por afinidad, en igual grado de parentesco con ellos, que lo esta el otro por consanguinidad.
+- Los deudos de un cónyuge no adquieren con el del otro ninguna relación de parentesco.
+
+#### TITULO III. De las personas incapaces de contraer matrimonio, y de las causas que impiden su celebración
+
+##### ARTÍCULO 141. 
+- Para que los menores puedan gozar de los efectos civiles, que respecto de ellos, produce el matrimonio, se requiere que el varón haya cumplido diez y ocho años de edad
 y la mujer diez y seis.
-##### ARTÍCULO 142. No pueden contraer absolutamente matrimonio:
-1. Los que son parientes consanguíneos en línea recta de ascendientes ó
-descendientes sin limitación alguna, ni distinción de legítimos o ilegítimos;
-2. Los afines en la misma línea de ascendientes y descendientes;
-3. Los hermanos entre si, sean o no legítimos;
-4. El adoptante con la persona adoptada, y ninguno de ellos con el cónyuge viudo del
-otro;
-5. El casado mientras vive su cónyuge;
-6. El que ha recibido órdenes mayores en el estado eclesiástico;
-7. Los que han profesado en orden monástica, haciendo votos solemnes de castidad, si
-no han alcanzado nulidad o la relajación de sus votos;
-8. La persona que mato á uno de los cónyuges ó fue cómplice en un homicidio, con el
-cónyuge sobreviviente;
-9. El impotente;
-10. El loco y demás personas que están en incapacidad mental.
-##### ARTÍCULO 143. La ley no se encarga, para los efectos civiles, de los demás impedimentos que
-se hallan establecidos por la iglesia, ó que requieren ser dispensados por ella.
-##### ARTÍCULO 144. No se considera libre el consentimiento de la persona robada, para casarse
-con su raptor, si no lo manifiesta después de recobrar su libertad.
-##### ARTÍCULO 145. No se admitirán promesas ni solicitudes para contraer matrimonio entre el
-guardador ó sus hijos con el menor ó la pupila, durante el ejercicio de cargo, ni ántes de que
-estén aprobadas las cuentas de su administración, y entregados los papeles correspondientes.
-TITULO IV
-DEL CONSENTIMIENTO PARA EL MATRIMONIO DE MENORES.
-##### ARTÍCULO 146. Los menores de edad, para contraer matrimonio, necesitan del consentimiento
-expreso de su padre y madre, ó al menos del padre.
-##### ARTÍCULO 147. Si el padre ha muerto ó ha caído en incapacidad mental, bastará el
-consentimiento de la madre que ejerza la patria potestad.
-##### ARTÍCULO 148. Si el padre y la madre hubieren fallecido ó fuesen incapaces, se obtendrá el
-consentimiento de los ascendientes paternos ó maternos más próximos, y á falta de ellos, el
-del consejo de familia.
-##### ARTÍCULO 149. El consentimiento constará por escritura pública, ó por instrumento auténtico.
-##### ARTÍCULO 150. Solo podrá negarse el consentimiento por motivos graves, tales como:
-1. La existencia de alguna prohibición legal que impida el matrimonio;
-2. Enfermedad contagiosa;
-3. La conducta desarreglada e inmortal;
-4. Algún vicio habitual;
-5. Injurias graves inferidas a los padres por la persona que trata de casarse con el
-menor;
-6. La falta de medios de subsistir;
-7. Una gran diferencia de clase y condición social;
-8. Haber sido condenado a pena infamante;
-9. Cualquier otro motivo que de lugar a creer fundamentalmente que el matrimonio será
-desgraciado.
-##### ARTÍCULO 151. En caso de negativa infundada, pueden los menores solicitar licencia judicial,
-conforme al Código de enjuiciamiento.
-##### ARTÍCULO 152. Los hijos ilegítimos están comprendidos en las disposiciones de este título;
-pero no estarán obligados á acreditar el consentimiento que corresponda á la línea paterna,
-cuando su padre natural no los haya reconocido.
-##### ARTÍCULO 153. Tienen derecho a oponerse al matrimonio de los menores, todos lo que están
-llamados por este título á dar su consentimiento.
+
+##### ARTÍCULO 142. 
+- No pueden contraer absolutamente matrimonio:
+  1. Los que son parientes consanguíneos en línea recta de ascendientes ó descendientes sin limitación alguna, ni distinción de legítimos o ilegítimos;
+  2. Los afines en la misma línea de ascendientes y descendientes;
+  3. Los hermanos entre si, sean o no legítimos; 
+  4. El adoptante con la persona adoptada, y ninguno de ellos con el cónyuge viudo del otro;
+  5. El casado mientras vive su cónyuge;
+  6. El que ha recibido órdenes mayores en el estado eclesiástico;
+  7. Los que han profesado en orden monástica, haciendo votos solemnes de castidad, si no han alcanzado nulidad o la relajación de sus votos;
+  8. La persona que mato á uno de los cónyuges ó fue cómplice en un homicidio, con el cónyuge sobreviviente;
+  9. El impotente;
+  10. El loco y demás personas que están en incapacidad mental.
+
+##### ARTÍCULO 143. 
+- La ley no se encarga, para los efectos civiles, de los demás impedimentos que se hallan establecidos por la iglesia, ó que requieren ser dispensados por ella.
+
+##### ARTÍCULO 144. 
+- No se considera libre el consentimiento de la persona robada, para casarse con su raptor, si no lo manifiesta después de recobrar su libertad.
+
+##### ARTÍCULO 145. 
+- No se admitirán promesas ni solicitudes para contraer matrimonio entre el guardador ó sus hijos con el menor ó la pupila, durante el ejercicio de cargo, ni ántes de que estén aprobadas las cuentas de su administración, y entregados los papeles correspondientes.
+
+#### TITULO IV. Del consentimiento para el matrimonio de menores
+
+##### ARTÍCULO 146. 
+- Los menores de edad, para contraer matrimonio, necesitan del consentimiento expreso de su padre y madre, ó al menos del padre.
+
+##### ARTÍCULO 147. 
+- Si el padre ha muerto ó ha caído en incapacidad mental, bastará el consentimiento de la madre que ejerza la patria potestad.
+
+##### ARTÍCULO 148. 
+- Si el padre y la madre hubieren fallecido ó fuesen incapaces, se obtendrá el consentimiento de los ascendientes paternos ó maternos más próximos, y á falta de ellos, el del consejo de familia.
+
+##### ARTÍCULO 149. 
+- El consentimiento constará por escritura pública, ó por instrumento auténtico.
+
+##### ARTÍCULO 150. 
+- Solo podrá negarse el consentimiento por motivos graves, tales como:
+  1. La existencia de alguna prohibición legal que impida el matrimonio;
+  2. Enfermedad contagiosa;
+  3. La conducta desarreglada e inmortal;
+  4. Algún vicio habitual;
+  5. Injurias graves inferidas a los padres por la persona que trata de casarse con el menor;
+  6. La falta de medios de subsistir;
+  7. Una gran diferencia de clase y condición social;
+  8. Haber sido condenado a pena infamante;
+  9. Cualquier otro motivo que de lugar a creer fundamentalmente que el matrimonio será desgraciado.
+
+##### ARTÍCULO 151.
+- En caso de negativa infundada, pueden los menores solicitar licencia judicial, conforme al Código de enjuiciamiento.
+
+##### ARTÍCULO 152. 
+- Los hijos ilegítimos están comprendidos en las disposiciones de este título; pero no estarán obligados á acreditar el consentimiento que corresponda á la línea paterna, cuando su padre natural no los haya reconocido.
+
+##### ARTÍCULO 153. 
+- Tienen derecho a oponerse al matrimonio de los menores, todos lo que están llamados por este título á dar su consentimiento.
+
 ##### ARTÍCULO 154. No tendrán derecho á ser dotados por sus padres, las hijas menores que se
 casen sin consentimiento de ellos.
-##### ARTÍCULO 155. Los menores que contraigan matrimonio sin los requisitos que prescribe este
-título, y los sacerdotes que lo autoricen incurrirán en las penas señaladas en el código penal.
-TITULO V
-DE LA CELEBRIDAD Y SOLEMNIDADES DEL MATRIMONIO.
-##### ARTÍCULO 156. El matrimonio se celebra en la República con las formalidades establecidas
-por la Iglesia en el concilio de Trento.
+
+##### ARTÍCULO 155. 
+- Los menores que contraigan matrimonio sin los requisitos que prescribe este título, y los sacerdotes que lo autoricen incurrirán en las penas señaladas en el código penal.
+
+#### TITULO V. De la celebridad y solemnidades del matrimonio 
+
+##### ARTÍCULO 156. 
+- El matrimonio se celebra en la República con las formalidades establecidas por la Iglesia en el concilio de Trento.
+
 ##### ARTÍCULO 157. Los que sin observar las solemnidades de la Iglesia, sorprenden al sacerdote
 para celebrar matrimonio, y los que favorezcan o autoricen este acto, serán castigadas
 conforme al Código Penal.

@@ -17,7 +17,7 @@
 ---
 
 ### LIBRO PRIMERO. De las personas y sus derechos
-#### SECCIÓN PRIMERA. De las personas según su estado natural 
+#### SECCIÓN PRIMERA. De las personas según su estado natural [Subir](#top)
 #### TÍTULO I. De los nacidos y por nacer 
 
 ##### ARTÍCULO 1.
@@ -115,7 +115,7 @@
 ##### ARTÍCULO  27. 
 - Los actos anteriores a la interpretación del loco o fatuo pueden ser anulados, si la causa de la interdicción existía notoriamente en la época en que se verificaron.
 
-#### SECCIÓN SEGUNDA. De las personas según el estado civil
+#### SECCIÓN SEGUNDA. De las personas según el estado civil [Subir](#top)
 
 #### TITULO I. De la dependencia e independencia de las personas en el ejercicio de sus derechos civiles
 
@@ -438,7 +438,7 @@ Los amos deben a sus siervos en retribución de sus servicios alimentos, protecc
    1. Alimentos en caso de necesidad, si el liberto tiene medios prestarlos;
    2. Asistencia en su vejez y enfermedades.
 
-#### SECCION TERCERA. Del matrimonio
+#### SECCION TERCERA. Del matrimonio [Subir](#top)
 
 #### TITULO I. De los esponsales
 
@@ -808,7 +808,7 @@ habitación, u otras que sean admisibles según la prudencia del juez ó de decl
 ##### ARTÍCULO 217. 
 - La cesación del divorcio no perjudica los derechos de un tercero que hubiese contratado con los cónyuges, cuando ejercían independientes sus derechos civiles.
 
-#### SECCIÓN CUARTA. De la paternidad 
+#### SECCIÓN CUARTA. De la paternidad [Subir](#top)
 
 #### TÍTULO I. De los hijos legítimos
 

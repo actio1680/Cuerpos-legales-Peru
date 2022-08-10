@@ -17,7 +17,7 @@
 ---
 
 ### LIBRO PRIMERO. De las personas y sus derechos
-#### SECCIÓN PRIMERA. De las personas según su estado natural [Subir](#top)
+#### SECCIÓN PRIMERA. De las personas según su estado natural [^](#top)
 #### TÍTULO I. De los nacidos y por nacer 
 
 ##### ARTÍCULO 1.

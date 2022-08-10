@@ -2,13 +2,13 @@
 #### CONTENIDO
 **LIBRO PRIMERO. De las personas y sus derechos**
 
-**[SECCIÓN PRIMERA: De las personas según su estado natural](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-primera-de-las-personas-seg%C3%BAn-su-estado-natural)**
+**[SECCIÓN PRIMERA: De las personas según su estado natural](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-primera-de-las-personas-seg%C3%BAn-su-estado-natural-)**
 
-**[SECCIÓN SEGUNDA: De las personas según el estado civil](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-segunda-de-las-personas-seg%C3%BAn-el-estado-civil)**
+**[SECCIÓN SEGUNDA: De las personas según el estado civil](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-segunda-de-las-personas-seg%C3%BAn-el-estado-civil-)**
 
-**[SECCIÓN TERCERA: Del matrimonio](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#seccion-tercera-del-matrimonio)**
+**[SECCIÓN TERCERA: Del matrimonio](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#seccion-tercera-del-matrimonio-)**
 
-**[SECCIÓN CUARTA. De la paternidad](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-cuarta-de-la-paternidad)**
+**[SECCIÓN CUARTA. De la paternidad](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-cuarta-de-la-paternidad-)**
 
 **SECCIÓN QUINTA. De los guardadores; y de sus escusas, remoción, responsabilidad, fianzas y cuentas**
 
@@ -115,7 +115,7 @@
 ##### ARTÍCULO  27. 
 - Los actos anteriores a la interpretación del loco o fatuo pueden ser anulados, si la causa de la interdicción existía notoriamente en la época en que se verificaron.
 
-#### SECCIÓN SEGUNDA. De las personas según el estado civil [Subir](#top)
+#### SECCIÓN SEGUNDA. De las personas según el estado civil [^](#top)
 
 #### TITULO I. De la dependencia e independencia de las personas en el ejercicio de sus derechos civiles
 
@@ -438,7 +438,7 @@ Los amos deben a sus siervos en retribución de sus servicios alimentos, protecc
    1. Alimentos en caso de necesidad, si el liberto tiene medios prestarlos;
    2. Asistencia en su vejez y enfermedades.
 
-#### SECCION TERCERA. Del matrimonio [Subir](#top)
+#### SECCION TERCERA. Del matrimonio [^](#top)
 
 #### TITULO I. De los esponsales
 
@@ -808,7 +808,7 @@ habitación, u otras que sean admisibles según la prudencia del juez ó de decl
 ##### ARTÍCULO 217. 
 - La cesación del divorcio no perjudica los derechos de un tercero que hubiese contratado con los cónyuges, cuando ejercían independientes sus derechos civiles.
 
-#### SECCIÓN CUARTA. De la paternidad [Subir](#top)
+#### SECCIÓN CUARTA. De la paternidad [^](#top)
 
 #### TÍTULO I. De los hijos legítimos
 

@@ -582,8 +582,8 @@ y la mujer diez y seis.
 ##### ARTÍCULO 153. 
 - Tienen derecho a oponerse al matrimonio de los menores, todos lo que están llamados por este título á dar su consentimiento.
 
-##### ARTÍCULO 154. No tendrán derecho á ser dotados por sus padres, las hijas menores que se
-casen sin consentimiento de ellos.
+##### ARTÍCULO 154. 
+- No tendrán derecho á ser dotados por sus padres, las hijas menores que se casen sin consentimiento de ellos.
 
 ##### ARTÍCULO 155. 
 - Los menores que contraigan matrimonio sin los requisitos que prescribe este título, y los sacerdotes que lo autoricen incurrirán en las penas señaladas en el código penal.
@@ -593,282 +593,319 @@ casen sin consentimiento de ellos.
 ##### ARTÍCULO 156. 
 - El matrimonio se celebra en la República con las formalidades establecidas por la Iglesia en el concilio de Trento.
 
-##### ARTÍCULO 157. Los que sin observar las solemnidades de la Iglesia, sorprenden al sacerdote
-para celebrar matrimonio, y los que favorezcan o autoricen este acto, serán castigadas
-conforme al Código Penal.
-##### ARTÍCULO 158. El matrimonio contraído fuera del territorio de la República, con arreglo a las
-leyes del país que se celebro, se reputa valido para los efectos civiles, con tal que no sea de
-personas que este código declara incapaces de casarse.
-##### ARTÍCULO 159. El peruano ó peruana, que se casaren en país extranjero, harán que, dentro
-de tres meses de su regreso á la República, se tome razón de la partida de su matrimonio en el
-registro del estado civil correspondiente al lugar de su domicilio: pasado este término, se
-suspenden los efectos civiles del matrimonio hasta que se verifique la inscripción.
-TITULO VI
-NULIDAD DEL MATRIMONIO
-##### ARTÍCULO 160. Es nulo el matrimonio de las personas que no puedan absolutamente
-contraerlo según el artículo 142 de este Código.
-##### ARTÍCULO 161. Es también nulo el matrimonio contraído por la fuerza que recae en alguno de
-los contrayentes.
-##### ARTÍCULO 162. Se graduará el miedo grave que produce la fuerza, considerando lo inminente
-del peligro, la constitución física, el estado intelectual y de más circunstancias de la persona
-amenazada.
-##### ARTÍCULO 163. El error acerca de la persona ó condición sustancial del cónyuje, anula el
-matrimonio.
-##### ARTÍCULO 164. La nulidad del matrimonio puede ser intentada por los mismos cónyujes, sus
-ascendientes, el consejo de familia, o por cuantos tengan en ella un interés actual.
-##### ARTÍCULO 165. No puede pedirse la nulidad por causa de fuerza ó error, si no por el cónyuge
-que los hubiere padecido, y solo en el caso de no haber vivido juntos en matrimonio, durante
-treinta días después de recobrada su plena libertad ó conocido el error.
-##### ARTÍCULO 166. La nulidad por impotencia solo puede pedirse por el cónyuje del impotente.
-##### ARTÍCULO 167. Pasados seis meses de vida común prescribe la acción de nulidad por causa
-de impotencia.
-##### ARTÍCULO 168. La impotencia, locura ó incapacidad mental que sobrevenga á uno de los
-cónyuges, no disuelve el matrimonio contraído.
-##### ARTÍCULO 169. La nulidad del matrimonio, por haberlo celebrado una persona casada durante
-la vida de su cónyuge, podrá ser también demandada por los interesados en el matrimonio
-anterior: más si se negare la validez de ese precedente matrimonio, se juzgara y decidirá con
-preferencia sobre esta.
-##### ARTÍCULO 170. El matrimonio declarado nulo produce efectos civiles respecto de los esposos
-é hijos, si se contrajo de buena fe.
-##### ARTÍCULO 171. Su hubo mala fe en uno de los cónyuges, el matrimonio no produce efecto
-alguno á su favor, pero si respecto del otro esposo y de los hijos habidos en el matrimonio
-anulado.
-##### ARTÍCULO 172. La nulidad del matrimonio no perjudica los derechos de un tercero que
-hubiese contratado de buena fe con los esposos.
-TITULO VII
-DE LOS DERECHOS Y DEBERES QUE NACEN DEL MATRIMONIO.
-##### ARTÍCULO 173. Los cónyujes contraen, por el matrimonio, la obligación de criar, alimentar y
-educar á sus hijos.
-##### ARTÍCULO 174. Los cónyuges de deben recíprocamente fidelidad, socorros y asistencia.
-##### ARTÍCULO 175. El marido debe proteger a la mujer, y la mujer obedecer al marido.
-##### ARTÍCULO 176. La mujer está obligada á habitar con el marido, y á seguirlo donde el tenga por
-conveniente residir.
-##### ARTÍCULO 177. El marido está obligado á tener en su casa á la mujer y á suministrarle todo lo
-preciso para las necesidades de la vida, según sus facultades y situación.
-##### ARTÍCULO 178. El varón está, por el matrimonio, exento del servicio en el ejército y armada a
-no ser en casos de gran urjencia; y durante el primer año, no esta obligado a admitir cargos
-concejales.
-##### ARTÍCULO 179. La mujer no puede presentarse en juicio sin autorización de su marido; pero
-no la necesita, cuando es acusada en causa criminal.
-##### ARTÍCULO 180. El marido es administrador de los bienes de la sociedad conyugal.
-Tiene esta administración desde que ha cumplido la edad de diez y ocho años, salvo el
-privilegio de la restitución correspondiente á su menor edad.
-##### ARTÍCULO 181. No se comprende en la administración propia del marido, la de los bienes
-parafernales, que conserva la mujer en los términos expresados en el respectivo titulo.
-##### ARTÍCULO 182. La mujer no puede dar, enajenar, hipotecar, ni adquirir á título gratuito u
-onerosos, sin intervención del marido, ó sin su consentimiento por escrito.
-##### ARTÍCULO 183. Puede sin embargo la mujer, sin necesidad de autorización del marido:
-1. testar;
-2. suceder por testamento o ab intestato, con beneficio de inventario.
-##### ARTÍCULO 184. La mujer que no esta autorizada por el marido, puede serlo por el juez, con
-conocimiento de la necesidad ó utilidad y expresándose los objetos á que se limita la
-autorización.
-##### ARTÍCULO 185. Si el marido se halla presente ó es conocido su paradero, se le citará y oirá
-ántes de autorizar judicialmente a la mujer.
-##### ARTÍCULO 186. No se requiere la citación ni audiencia del marido para la autorización de la
-mujer, en los casos siguientes.
-1. Si el marido esta, por causa de interdicción, privado de la administración de los
-bienes;
-2. Si, estando ausente de su domicilio o residencia, se ignora su paradero o es urgente
-la necesidad de la autorización.
-##### ARTÍCULO 187. La nulidad, por defecto de autorización, no puede alegarse si no por la misma
-mujer, por su marido o por sus respectivos herederos.
-##### ARTÍCULO 188. La mujer no responsable de las deudas de su marido, cualesquiera que sean
-la forma de la obligación y la renuncia que hiciere de sus derechos.
-##### ARTÍCULO 189. Aunque la mujer se obligue mancomunadamente con el marido, ó ella sola
-con la autorización de este ó del juez, no quedara responsable sino por la parte que se
-convierta en su provecho; y con este fin se expresará en el documento del contrato, el objeto á
-que se destina la deuda que se contrae, ó la cosa que se recibe como causa de la obligación.
-##### ARTÍCULO 190. No se entiende convertido en provecho de la mujer, lo que se emplea en los
-alimentos que el marido esta obligado a darle.
-La necesidad de alimentos por ausencia ó abandono del marido, cuando no hay bienes de
-este, es sin embargo causa bastante para que ella pueda obligarse, con autorización judicial.
-TITULO VIII
-DEL DIVORCIO.
-##### ARTÍCULO 191. Divorcio es la separación de los casados, quedando subsistente el vínculo
-matrimonial.
-##### ARTÍCULO 192. Son causas de divorcio:
-1.- El adulterio de la mujer;
-2.- El concubino ó la incontinencia publica del marido;
-3.- La sevicia ó trato cruel;
-4.- Atentar uno de los cónyuges contra la vida del otro;
-5.- El odio capital de alguno de ellos, manifestando por frecuentes riñas graves, o por
-graves injurias repetidas;
-6.- Los vicios incorregibles de juego o embriaguez, disipación o prodigalidad;
-7.- Negar el marido los alimentos á la mujer;
-8.- Negarse la mujer, sin graves y justas causas a seguir a su marido.
-9.- Abandonar la casa común, ó negarse obstinadamente al desempeño de las
-obligaciones conyugales;
-10.- La ausencia sin justa causa por más de cinco años;
-11.- La locura ó furor permanente que haga peligrosa la cohabitación;
-12.- Una enfermedad crónica contagiosa;
-13.- La condenación de uno de los cónyuges a pena infamante.
-##### ARTÍCULO 193. No podrá intentarse divorcio por adulterio; de la mujer si el marido consintió en
-el, ó si cohabito con ella después, de estar instruido del adulterio.
-##### ARTÍCULO 194. Tampoco podrá el marido continuar el juicio de divorcio por la misma causa de
-adulterio; si después de la demanda cohabitó la mujer.
-##### ARTÍCULO 195. Reconciliados los cónyuges, según los artículos anteriores, solo habrá
-derecho para demandar el divorcio, por causas que hayan sobrevenido ó por las diferentes:
-pero en este juicio no se hará uso de los hechos perdonados, si no en cuanto contribuyan para
+##### ARTÍCULO 157. 
+- Los que sin observar las solemnidades de la Iglesia, sorprenden al sacerdote para celebrar matrimonio, y los que favorezcan o autoricen este acto, serán castigadas conforme al Código Penal.
+
+##### ARTÍCULO 158. 
+- El matrimonio contraído fuera del territorio de la República, con arreglo a las leyes del país que se celebro, se reputa valido para los efectos civiles, con tal que no sea de personas que este código declara incapaces de casarse.
+
+##### ARTÍCULO 159. 
+- El peruano ó peruana, que se casaren en país extranjero, harán que, dentro de tres meses de su regreso á la República, se tome razón de la partida de su matrimonio en el registro del estado civil correspondiente al lugar de su domicilio: pasado este término, se suspenden los efectos civiles del matrimonio hasta que se verifique la inscripción.
+
+#### TITULO VI. Nulidad del matrimonio
+
+##### ARTÍCULO 160. 
+- Es nulo el matrimonio de las personas que no puedan absolutamente contraerlo según el artículo 142 de este Código.
+
+##### ARTÍCULO 161. 
+- Es también nulo el matrimonio contraído por la fuerza que recae en alguno de los contrayentes.
+
+##### ARTÍCULO 162. 
+- Se graduará el miedo grave que produce la fuerza, considerando lo inminente del peligro, la constitución física, el estado intelectual y de más circunstancias de la persona amenazada.
+
+##### ARTÍCULO 163. 
+- El error acerca de la persona ó condición sustancial del cónyuje, anula el matrimonio.
+
+##### ARTÍCULO 164. 
+- La nulidad del matrimonio puede ser intentada por los mismos cónyujes, sus ascendientes, el consejo de familia, o por cuantos tengan en ella un interés actual.
+
+##### ARTÍCULO 165. 
+- No puede pedirse la nulidad por causa de fuerza ó error, si no por el cónyuge que los hubiere padecido, y solo en el caso de no haber vivido juntos en matrimonio, durante treinta días después de recobrada su plena libertad ó conocido el error.
+
+##### ARTÍCULO 166. 
+- La nulidad por impotencia solo puede pedirse por el cónyuje del impotente.
+
+##### ARTÍCULO 167. 
+- Pasados seis meses de vida común prescribe la acción de nulidad por causa de impotencia.
+
+##### ARTÍCULO 168. 
+- La impotencia, locura ó incapacidad mental que sobrevenga á uno de los cónyuges, no disuelve el matrimonio contraído.
+
+##### ARTÍCULO 169. 
+- La nulidad del matrimonio, por haberlo celebrado una persona casada durante la vida de su cónyuge, podrá ser también demandada por los interesados en el matrimonio anterior: más si se negare la validez de ese precedente matrimonio, se juzgara y decidirá con preferencia sobre esta.
+
+##### ARTÍCULO 170. 
+- El matrimonio declarado nulo produce efectos civiles respecto de los esposos é hijos, si se contrajo de buena fe.
+
+##### ARTÍCULO 171. 
+- Su hubo mala fe en uno de los cónyuges, el matrimonio no produce efecto alguno á su favor, pero si respecto del otro esposo y de los hijos habidos en el matrimonio anulado.
+
+##### ARTÍCULO 172. 
+- La nulidad del matrimonio no perjudica los derechos de un tercero que hubiese contratado de buena fe con los esposos.
+
+#### TITULO VII. De los derechos y deberes que nacen del matrimonio
+
+##### ARTÍCULO 173. 
+- Los cónyujes contraen, por el matrimonio, la obligación de criar, alimentar y educar á sus hijos.
+
+##### ARTÍCULO 174. 
+- Los cónyuges de deben recíprocamente fidelidad, socorros y asistencia.
+
+##### ARTÍCULO 175. 
+- El marido debe proteger a la mujer, y la mujer obedecer al marido.
+
+##### ARTÍCULO 176. 
+- La mujer está obligada á habitar con el marido, y á seguirlo donde el tenga por conveniente residir.
+
+##### ARTÍCULO 177. 
+- El marido está obligado á tener en su casa á la mujer y á suministrarle todo lo preciso para las necesidades de la vida, según sus facultades y situación.
+
+##### ARTÍCULO 178. 
+- El varón está, por el matrimonio, exento del servicio en el ejército y armada a no ser en casos de gran urjencia; y durante el primer año, no esta obligado a admitir cargos concejales.
+
+##### ARTÍCULO 179. 
+La mujer no puede presentarse en juicio sin autorización de su marido; pero no la necesita, cuando es acusada en causa criminal.
+
+##### ARTÍCULO 180. 
+- El marido es administrador de los bienes de la sociedad conyugal. Tiene esta administración desde que ha cumplido la edad de diez y ocho años, salvo el privilegio de la restitución correspondiente á su menor edad.
+
+##### ARTÍCULO 181. 
+- No se comprende en la administración propia del marido, la de los bienes parafernales, que conserva la mujer en los términos expresados en el respectivo titulo.
+
+##### ARTÍCULO 182. 
+- La mujer no puede dar, enajenar, hipotecar, ni adquirir á título gratuito u onerosos, sin intervención del marido, ó sin su consentimiento por escrito.
+
+##### ARTÍCULO 183. 
+- Puede sin embargo la mujer, sin necesidad de autorización del marido:
+  1. testar;
+  2. suceder por testamento o ab intestato, con beneficio de inventario.
+
+##### ARTÍCULO 184. 
+- La mujer que no esta autorizada por el marido, puede serlo por el juez, con conocimiento de la necesidad ó utilidad y expresándose los objetos á que se limita la autorización.
+
+##### ARTÍCULO 185. 
+- Si el marido se halla presente ó es conocido su paradero, se le citará y oirá ántes de autorizar judicialmente a la mujer.
+
+##### ARTÍCULO 186. 
+- No se requiere la citación ni audiencia del marido para la autorización de la mujer, en los casos siguientes.
+  1. Si el marido esta, por causa de interdicción, privado de la administración de los bienes;
+  2. Si, estando ausente de su domicilio o residencia, se ignora su paradero o es urgente la necesidad de la autorización.
+
+##### ARTÍCULO 187. 
+- La nulidad, por defecto de autorización, no puede alegarse si no por la misma mujer, por su marido o por sus respectivos herederos.
+
+##### ARTÍCULO 188. 
+- La mujer no responsable de las deudas de su marido, cualesquiera que sean la forma de la obligación y la renuncia que hiciere de sus derechos.
+
+##### ARTÍCULO 189. 
+- Aunque la mujer se obligue mancomunadamente con el marido, ó ella sola con la autorización de este ó del juez, no quedara responsable sino por la parte que se convierta en su provecho; y con este fin se expresará en el documento del contrato, el objeto á que se destina la deuda que se contrae, ó la cosa que se recibe como causa de la obligación.
+
+##### ARTÍCULO 190. 
+- No se entiende convertido en provecho de la mujer, lo que se emplea en los alimentos que el marido esta obligado a darle.
+La necesidad de alimentos por ausencia ó abandono del marido, cuando no hay bienes de este, es sin embargo causa bastante para que ella pueda obligarse, con autorización judicial.
+
+#### TITULO VIII. Del divorcio
+
+##### ARTÍCULO 191. 
+Divorcio es la separación de los casados, quedando subsistente el vínculo matrimonial.
+
+##### ARTÍCULO 192. 
+- Son causas de divorcio:
+  1. El adulterio de la mujer;
+  2. El concubino ó la incontinencia publica del marido;
+  3. La sevicia ó trato cruel;
+  4. Atentar uno de los cónyuges contra la vida del otro;
+  5. El odio capital de alguno de ellos, manifestando por frecuentes riñas graves, o por graves injurias repetidas;
+  6. Los vicios incorregibles de juego o embriaguez, disipación o prodigalidad;
+  7. Negar el marido los alimentos á la mujer;
+  8. Negarse la mujer, sin graves y justas causas a seguir a su marido.
+  9. Abandonar la casa común, ó negarse obstinadamente al desempeño de las obligaciones conyugales;
+  10. La ausencia sin justa causa por más de cinco años;
+  11. La locura ó furor permanente que haga peligrosa la cohabitación;
+  12. Una enfermedad crónica contagiosa;
+  13. La condenación de uno de los cónyuges a pena infamante.
+
+##### ARTÍCULO 193. 
+- No podrá intentarse divorcio por adulterio; de la mujer si el marido consintió en el, ó si cohabito con ella después, de estar instruido del adulterio.
+
+##### ARTÍCULO 194. 
+- Tampoco podrá el marido continuar el juicio de divorcio por la misma causa de adulterio; si después de la demanda cohabitó la mujer.
+
+##### ARTÍCULO 195. 
+- Reconciliados los cónyuges, según los artículos anteriores, solo habrá derecho para demandar el divorcio, por causas que hayan sobrevenido ó por las diferentes: pero en este juicio no se hará uso de los hechos perdonados, si no en cuanto contribuyan para
 que el juez aprecie el valor de las causales nuevas ó recién sabidas.
-##### ARTÍCULO 196. Interpuesta acusación criminal por alguna causa que de lugar á divorcio, no se
-seguirá juicio sobre este, mientras no se haya decidido aquella: á no ser que el divorcio
-abandone el juicio criminal ó no haya tenido parte en la acusación.
-##### ARTÍCULO 197. La acción de divorcio se halla expedita cuando la acusación criminal se haya
-intentado por el ministerio público, ó cuando este la continué después de abandonada por el
-cónyuge.
-##### ARTÍCULO 198. La sentencia condenatoria, por hecho que dé mérito á divorcio, es bastante
-para que el eclesiástico lo declare, sin conocer más que de la eficacia legal del hecho para
-causar el divorcio: la sentencia absolutoria no impide la acción de divorcio.
+
+##### ARTÍCULO 196. 
+- Interpuesta acusación criminal por alguna causa que de lugar á divorcio, no se seguirá juicio sobre este, mientras no se haya decidido aquella: á no ser que el divorcio abandone el juicio criminal ó no haya tenido parte en la acusación.
+
+##### ARTÍCULO 197. 
+- La acción de divorcio se halla expedita cuando la acusación criminal se haya intentado por el ministerio público, ó cuando este la continué después de abandonada por el cónyuge.
+
+##### ARTÍCULO 198. 
+- La sentencia condenatoria, por hecho que dé mérito á divorcio, es bastante para que el eclesiástico lo declare, sin conocer más que de la eficacia legal del hecho para causar el divorcio: la sentencia absolutoria no impide la acción de divorcio.
+
 ##### ARTÍCULO 199. Cuando se funde la demanda de divorcio en condenación á pena infamante,
 presentado el testimonio de la sentencia ejecutoriada, será declarado el divorcio por el juez
 eclesiástico.
-##### ARTÍCULO 200. Las sentencias pronunciadas en causa de divorcio, no producen ejecutoria
-para el efecto de impedir la reconciliación de los cónyuges.
-Lo dispuesto en el artículo 195 es aplicable al caso de reconciliación posterior á una
-sentencia de divorcio.
-TÍTULO IX
-REGLAS QUE SE OBSERVARAN DURANTE LOS JUICIOS DE NULIDAD DE MATRIMONIO
-O DE DIVORCIO.
-##### ARTÍCULO 201. Los hijos del matrimonio cuyo divorcio ó nulidad se pretende, continuarán,
-durante el juicio, al cuidado del marido, á no ser que razones de convivencia de ellos,
-determinen al juez a encargarlos á la madre, ó á ponerlos bajo de un guardador provisional.
-Ninguna de estas disposiciones exime á los padres de la obligación que tienen de alimentar a
-sus hijos.
-##### ARTÍCULO 202. No se puede negar á la mujer honesta el que tenga á las hijas en su poder, si
-ella no ha dado causa para la demanda del divorcio, la mujer, en todo caso tiene el derecho de
-conservar a los hijos hasta la edad de tres años.
-##### ARTÍCULO 203. Puede la mujer durante el juicio, pedir que se le autorice para vivir separada
-de la casa común; y el juez la autorizara designándole otra de persona honesta.
-##### ARTÍCULO 204. El marido tiene facultad de pedir el depósito de la mujer que ha abandonado la
-casa común, y el juez debe señalar el lugar del depósito.
-##### ARTÍCULO 205. La mujer á quien se señale habitación especial, según los artículos anterior,
-tiene derecho á que se le asigne una pensión alimenticia proporcionada á las facultades del
-marido, y la cantidad que sea absolutamente necesaria para los gastos de la defensa. Se
-exceptúa el caso en que la mujer administre bienes parafernales bastantes para atender á
-estos objetos.
-##### ARTÍCULO 206. La mujer está obligada, siempre que se le exija, á justificar su residencia en la
-casa que se le designo, so pena de perder la pensión alimenticia, ó de adoptarse las
-precauciones de seguridad que solicite el marido, como de ser trasladada a diferente
-habitación, u otras que sean admisibles según la prudencia del juez ó de declararse, por ultimo
-y según la gravedad de las circunstancias, que la mujer ha perdido la acción de divorcio, si ella
-fuese demandante.
-##### ARTÍCULO 207. Durante el juicio podrá la mujer solicitar que su marido asegure la
-conservación de los bienes dótales, gananciales y de cualquiera otros que estaría obligado á
-devolver ó á entregar, en caso de declararse la nulidad ó el divorcio.
-TÍTULO X
-EFECTOS DEL DIVORCIO
-##### ARTÍCULO 208. El divorcio formalmente declarado pone término á los deberes conyugales, en
-cuanto al lecho y habitación, y disuelve, en cuanto á los bienes, la sociedad legal.
-##### ARTÍCULO 209. Declarado el divorcio, los cónyuges separados ejercen sus derechos civiles
-sin la dependencia que ántes existía entre ellos.
-##### ARTÍCULO 210. Los hijos se confiarán al esposo que obtuvo el divorcio, á no ser que el juez de
-la causa determine otra cosa, por el mejor bienestar de ellos; mas el padre y la madre quedan
-obligados á cuidar de su alimento y educación, contribuyéndole á estos gastos en proporción á
-sus facultades.
-##### ARTÍCULO 211. Declarado el divorcio se observara lo dispuesto por el artículo 202.
-##### ARTÍCULO 212. Los derechos y deberes de los hijos no se alteran por el divorcio de sus
-padres.
-##### ARTÍCULO 213. Si se declara el divorcio por culpa del marido, y la mujer no tiene bienes
-propios ni gananciales, el juez podrá asignar a favor de esta, sobre los bienes ó industria del
-marido, una pensión alimenticia que sea proporcionada á ellos, pero que nunca exceda de la
-cuarta parte de sus rentas. Esta disposición no exime al marido de la obligación de alimentar á
-los hijos, conforme al artículo 210.
-##### ARTÍCULO 214. Lo dispuesto en el artículo anterior será extensivo á favor del marido en caso
-de declararse el divorcio por culpa de la mujer, si esta fuere rica y el marido pobre.
-##### ARTÍCULO 215. La separación de bienes, consiguiente á la declaración del divorcio, se hará
-conforme a las reglas establecida en la sección 5ta, libro 2, de este código.
-##### ARTÍCULO 216. Cesan los efectos del divorcio, por la reconciliación de los cónyuges.
-##### ARTÍCULO 217. La cesación del divorcio no perjudica los derechos de un tercero que hubiese
-contratado con los cónyuges, cuando ejercían independientes sus derechos civiles.
-SECCIÓN CUARTA
-DE LA PATERNIDAD
-TÍTULO I
-DE LOS HIJOS LEGÍTIMOS.
-##### ARTÍCULO 218. Son hijos legítimos, los que nacen de matrimonio: son ilegítimos, los que
-nacen de padres que no lo han contraído.
-##### ARTÍCULO 219. Son también legítimos, los que nacen del matrimonio nulo, si ignoraban los
-padres, ó al menos uno de ellos, la causa de la nulidad.
-##### ARTÍCULO 220. La disposición del artículo anterior comprende no solo á los hijos nacidos, sino
-también á los concebidos antes de la sentencia que anule el matrimonio.
-##### ARTÍCULO 221. Los hijos nacidos ó concebidos durante el matrimonio, tienen por padre al
-marido.
-##### ARTÍCULO 222. El marido, que no se crea padre del hijo de su mujer, puede negarlo en los
-casos siguientes:
-1.- Nacimiento del hijo antes de cumplidos ciento ochenta y tres días de la celebración
-del matrimonio;
-2.- Ausencia o enfermedad del marido, u otro accidente que hubiese hecho imposible la
-generación, durante los ciento veintitrés días primeros de los trescientos cinco procedentes del
-nacimiento del hijo;
-3.- Separación judicial de los cónyuges, por más de trescientos cinco días antes del
-nacimiento del hijo;
-4.- Ocultación del parto por la mujer.
-##### ARTÍCULO 223. En cualquiera de los casos del artículo anterior, no podrá el marido usar de su
-derecho, si no dentro de los sesenta días después del parto, estando en el lugar; dentro de los
-sesenta días después del parto, estando en el lugar; dentro de los sesenta días después de su
-regreso, si ha estado ausente; o en igual tiempo después del descubrimiento del fraude, si se le
+
+##### ARTÍCULO 200. 
+- Las sentencias pronunciadas en causa de divorcio, no producen ejecutoria para el efecto de impedir la reconciliación de los cónyuges. Lo dispuesto en el artículo 195 es aplicable al caso de reconciliación posterior á una sentencia de divorcio.
+
+#### TÍTULO IX. Reglas que se observaran durante los juicios de nulidad de matrimonio o de divorcio
+
+##### ARTÍCULO 201. 
+- Los hijos del matrimonio cuyo divorcio ó nulidad se pretende, continuarán, durante el juicio, al cuidado del marido, á no ser que razones de convivencia de ellos, determinen al juez a encargarlos á la madre, ó á ponerlos bajo de un guardador provisional.
+Ninguna de estas disposiciones exime á los padres de la obligación que tienen de alimentar a sus hijos.
+
+##### ARTÍCULO 202. 
+- No se puede negar á la mujer honesta el que tenga á las hijas en su poder, si ella no ha dado causa para la demanda del divorcio, la mujer, en todo caso tiene el derecho de conservar a los hijos hasta la edad de tres años.
+
+##### ARTÍCULO 203. 
+- Puede la mujer durante el juicio, pedir que se le autorice para vivir separada de la casa común; y el juez la autorizara designándole otra de persona honesta.
+
+##### ARTÍCULO 204. 
+- El marido tiene facultad de pedir el depósito de la mujer que ha abandonado la casa común, y el juez debe señalar el lugar del depósito.
+
+##### ARTÍCULO 205. 
+- La mujer á quien se señale habitación especial, según los artículos anterior, tiene derecho á que se le asigne una pensión alimenticia proporcionada á las facultades del marido, y la cantidad que sea absolutamente necesaria para los gastos de la defensa. Se exceptúa el caso en que la mujer administre bienes parafernales bastantes para atender á estos objetos.
+
+##### ARTÍCULO 206. 
+- La mujer está obligada, siempre que se le exija, á justificar su residencia en la casa que se le designo, so pena de perder la pensión alimenticia, ó de adoptarse las precauciones de seguridad que solicite el marido, como de ser trasladada a diferente
+habitación, u otras que sean admisibles según la prudencia del juez ó de declararse, por ultimo y según la gravedad de las circunstancias, que la mujer ha perdido la acción de divorcio, si ella fuese demandante.
+
+##### ARTÍCULO 207. 
+- Durante el juicio podrá la mujer solicitar que su marido asegure la conservación de los bienes dótales, gananciales y de cualquiera otros que estaría obligado á devolver ó á entregar, en caso de declararse la nulidad ó el divorcio.
+
+#### TÍTULO X. EFECTOS DEL DIVORCIO
+
+##### ARTÍCULO 208. 
+- El divorcio formalmente declarado pone término á los deberes conyugales, en cuanto al lecho y habitación, y disuelve, en cuanto á los bienes, la sociedad legal.
+
+##### ARTÍCULO 209. 
+- Declarado el divorcio, los cónyuges separados ejercen sus derechos civiles sin la dependencia que ántes existía entre ellos.
+
+##### ARTÍCULO 210. 
+- Los hijos se confiarán al esposo que obtuvo el divorcio, á no ser que el juez de la causa determine otra cosa, por el mejor bienestar de ellos; mas el padre y la madre quedan obligados á cuidar de su alimento y educación, contribuyéndole á estos gastos en proporción á sus facultades.
+
+##### ARTÍCULO 211. 
+- Declarado el divorcio se observara lo dispuesto por el artículo 202.
+
+##### ARTÍCULO 212. 
+- Los derechos y deberes de los hijos no se alteran por el divorcio de sus padres.
+
+##### ARTÍCULO 213. 
+- Si se declara el divorcio por culpa del marido, y la mujer no tiene bienes propios ni gananciales, el juez podrá asignar a favor de esta, sobre los bienes ó industria del marido, una pensión alimenticia que sea proporcionada á ellos, pero que nunca exceda de la cuarta parte de sus rentas. Esta disposición no exime al marido de la obligación de alimentar á los hijos, conforme al artículo 210.
+
+##### ARTÍCULO 214. 
+- Lo dispuesto en el artículo anterior será extensivo á favor del marido en caso de declararse el divorcio por culpa de la mujer, si esta fuere rica y el marido pobre.
+
+##### ARTÍCULO 215. 
+- La separación de bienes, consiguiente á la declaración del divorcio, se hará conforme a las reglas establecida en la sección 5ta, libro 2, de este código.
+
+##### ARTÍCULO 216. 
+- Cesan los efectos del divorcio, por la reconciliación de los cónyuges.
+
+##### ARTÍCULO 217. 
+- La cesación del divorcio no perjudica los derechos de un tercero que hubiese contratado con los cónyuges, cuando ejercían independientes sus derechos civiles.
+
+#### SECCIÓN CUARTA. De la paternidad 
+
+#### TÍTULO I. De los hijos legítimos
+
+##### ARTÍCULO 218. 
+- Son hijos legítimos, los que nacen de matrimonio: son ilegítimos, los que nacen de padres que no lo han contraído.
+
+##### ARTÍCULO 219. 
+- Son también legítimos, los que nacen del matrimonio nulo, si ignoraban los padres, ó al menos uno de ellos, la causa de la nulidad.
+
+##### ARTÍCULO 220. 
+- La disposición del artículo anterior comprende no solo á los hijos nacidos, sino también á los concebidos antes de la sentencia que anule el matrimonio.
+
+##### ARTÍCULO 221. 
+- Los hijos nacidos ó concebidos durante el matrimonio, tienen por padre al marido.
+
+##### ARTÍCULO 222. 
+- El marido, que no se crea padre del hijo de su mujer, puede negarlo en los casos siguientes:
+  1. Nacimiento del hijo antes de cumplidos ciento ochenta y tres días de la celebración del matrimonio;
+  2. Ausencia o enfermedad del marido, u otro accidente que hubiese hecho imposible la generación, durante los ciento veintitrés días primeros de los trescientos cinco procedentes del nacimiento del hijo;
+  3. Separación judicial de los cónyuges, por más de trescientos cinco días antes del nacimiento del hijo;
+  4. Ocultación del parto por la mujer.
+
+##### ARTÍCULO 223. 
+- En cualquiera de los casos del artículo anterior, no podrá el marido usar de su derecho, si no dentro de los sesenta días después del parto, estando en el lugar; dentro de los sesenta días después del parto, estando en el lugar; dentro de los sesenta días después de su regreso, si ha estado ausente; o en igual tiempo después del descubrimiento del fraude, si se le
 oculto el nacimiento del hijo.
-##### ARTÍCULO 224. Cuando hubiere muerto el marido sin reclamar de la afiliación, pero sin haber
-expirado el termino que para ello le concede el artículo anterior, solo entonces podrán sus
-herederos verificar dicha reclamación, por las mismas causas que el marido, menos por la
-primera del artículo 222.
-Los herederos usaran de este derecho dentro de dos meses, contados desde que el
-hijo tomare posesión de la herencia, sin citación de los herederos mencionados, o desde que
-estos fueron citados para partirla o entregarla. La posesión extrajudicial no perjudicara a la
-acción de los herederos.
-##### ARTÍCULO 225. El marido que no hubiese pedido la nulidad de su matrimonio, fundándola en
-su impotencia natural, no puede tampoco en la misma causa la negativa de ser suyo el hijo
-nacido durante el matrimonio.
-##### ARTÍCULO 226. El marido no puede negar al hijo que parió su mujer fuera de tiempo:
-1.- Si antes del matrimonio tuvo conocimiento de la preñez;
-2.- Si firmo o hizo firmar a su nombre la partida de nacimiento de su hijo.
+
+##### ARTÍCULO 224. 
+- Cuando hubiere muerto el marido sin reclamar de la afiliación, pero sin haber expirado el termino que para ello le concede el artículo anterior, solo entonces podrán sus herederos verificar dicha reclamación, por las mismas causas que el marido, menos por la primera del artículo 222.
+- Los herederos usaran de este derecho dentro de dos meses, contados desde que el hijo tomare posesión de la herencia, sin citación de los herederos mencionados, o desde que estos fueron citados para partirla o entregarla. La posesión extrajudicial no perjudicara a la acción de los herederos.
+
+##### ARTÍCULO 225. 
+- El marido que no hubiese pedido la nulidad de su matrimonio, fundándola en su impotencia natural, no puede tampoco en la misma causa la negativa de ser suyo el hijo nacido durante el matrimonio.
+
+##### ARTÍCULO 226. 
+- El marido no puede negar al hijo que parió su mujer fuera de tiempo:
+  1. Si antes del matrimonio tuvo conocimiento de la preñez;
+  2. Si firmo o hizo firmar a su nombre la partida de nacimiento de su hijo.
+
 ##### ARTÍCULO 227. El hijo puede en todo tiempo pedir que se declare su filiación; y esta acción
 nunca prescribe respecto de él.
-##### ARTÍCULO 228. La acción concedida en el artículo anterior no pasa á los herederos del hijo, si
-no en los casos siguientes.
-1.- Si el hijo murió antes de cumplir la edad de veinticinco años, sin haber interpuesto
+
+##### ARTÍCULO 228. 
+- La acción concedida en el artículo anterior no pasa á los herederos del hijo, si no en los casos siguientes.
+  1. Si el hijo murió antes de cumplir la edad de veinticinco años, sin haber interpuesto
 su demanda;
-2.- Si el hijo dejo abierto el juicio de su filiación, sin haberlo abandonado por tres años
-contados desde la última diligencia judicial, ni desistiéndose formalmente de la demanda.
-##### ARTÍCULO 229. La filiación de los hijos legítimos se prueba con la correspondiente partida del
-registro de nacidos.
-##### ARTÍCULO 230. A falta de este título, bastara la posesión constante de hijo legítimo.
-##### ARTÍCULO 231. Esta posesión se establece por una reunión de hechos capaz de patentizar la
-filiación.
-##### ARTÍCULO 232. Los principales de estos hechos consisten:
-1.- En que el individuo haya llevado siempre el apellido del padre a quien pretende
-pertenecer.
-2.- En que el padre, después de haberlo tratado como hijo, haya atendido bajo este
-concepto a su educación, conservación y establecimiento.
-3.- En que se haya reconocido constantemente por tal hijo en la sociedad.
-4.- En que igualmente haya sido reconocido por tal en la familia.
-##### ARTÍCULO 233. Cuando se reúnen, a favor de la filiación legitima, la posesión y el titulo que da
-el registro de nacimientos, no puede ser contradicha por ninguno, ni aun por el mismo hijo.
-##### ARTÍCULO 234.- No vale en juicio ningún acto extrajudicial en que se hubiese negado la
-legitimidad del hijo, si no se reclamó contra ella en los términos señalados por los artículos 223
-y 224.
-TÍTULO II
-DE LOS HIJOS ILEGÍTIMOS
-##### ARTÍCULO 235. Son hijos ilegítimos, los que no nacen de matrimonio, ni están legitimados.
-##### ARTÍCULO 236. Entre estos ilegítimos se califican de natural, al hijo concebido en tiempo en el
-que el padre y la madre no tenían, para casarse, ninguno de los impedimentos expresados en
-los nueve primeros incisos del artículo 142.
-De los naturales unos están reconocidos por el padre y otros no.
-##### ARTÍCULO 237. Los derechos concebidos por este código á los hijos naturales reconocidos no
-se adquieren por sentencia en que se declare la paternidad.
-Exceptúase el caso en que fuere declarada la paternidad á consecuencia de un juicio
-de rapto ó estupro.
-##### ARTÍCULO 238. El reconocimiento de los hijos naturales se hará por el padre en el registro de
-nacidos, ó en la partida de bautismo, ó en escritura pública ó en testamento.
-##### ARTÍCULO 239. El reconocimiento que hiciere el padre, sin noticia y confesión de la madre, no
-tiene efecto sino en cuanto á la paternidad.
-##### ARTÍCULO 240. Todo reconocimiento de filiación natural podrá ser disputado por el padre ó
-madre que no haya intervenido en él.
-##### ARTÍCULO 241. Corresponde también el derecho de contradecir la filiación al mismo hijo, que
-reconocieron los que se suponen sus padres naturales; y aun al ilegitimo, respecto de la que se
-titulo su madre.
+  2. Si el hijo dejo abierto el juicio de su filiación, sin haberlo abandonado por tres años contados desde la última diligencia judicial, ni desistiéndose formalmente de la demanda.
+
+##### ARTÍCULO 229. 
+- La filiación de los hijos legítimos se prueba con la correspondiente partida del registro de nacidos.
+
+##### ARTÍCULO 230. 
+- A falta de este título, bastara la posesión constante de hijo legítimo.
+
+##### ARTÍCULO 231. 
+- Esta posesión se establece por una reunión de hechos capaz de patentizar la filiación.
+
+##### ARTÍCULO 232. 
+- Los principales de estos hechos consisten:
+  1. En que el individuo haya llevado siempre el apellido del padre a quien pretende pertenecer.
+  2. En que el padre, después de haberlo tratado como hijo, haya atendido bajo este concepto a su educación, conservación y establecimiento.
+  3. En que se haya reconocido constantemente por tal hijo en la sociedad.
+  4. En que igualmente haya sido reconocido por tal en la familia.
+
+##### ARTÍCULO 233. 
+- Cuando se reúnen, a favor de la filiación legitima, la posesión y el titulo que da el registro de nacimientos, no puede ser contradicha por ninguno, ni aun por el mismo hijo.
+
+##### ARTÍCULO 234. 
+- No vale en juicio ningún acto extrajudicial en que se hubiese negado la legitimidad del hijo, si no se reclamó contra ella en los términos señalados por los artículos 223 y 224.
+
+#### TÍTULO II. De los hijos ilegítimos 
+
+##### ARTÍCULO 235. 
+- Son hijos ilegítimos, los que no nacen de matrimonio, ni están legitimados.
+
+##### ARTÍCULO 236. 
+- Entre estos ilegítimos se califican de natural, al hijo concebido en tiempo en el que el padre y la madre no tenían, para casarse, ninguno de los impedimentos expresados en los nueve primeros incisos del artículo 142.
+- De los naturales unos están reconocidos por el padre y otros no.
+
+##### ARTÍCULO 237. 
+- Los derechos concebidos por este código á los hijos naturales reconocidos no se adquieren por sentencia en que se declare la paternidad.
+- Exceptúase el caso en que fuere declarada la paternidad á consecuencia de un juicio de rapto ó estupro.
+
+##### ARTÍCULO 238. 
+- El reconocimiento de los hijos naturales se hará por el padre en el registro de nacidos, ó en la partida de bautismo, ó en escritura pública ó en testamento.
+
+##### ARTÍCULO 239. 
+- El reconocimiento que hiciere el padre, sin noticia y confesión de la madre, no tiene efecto sino en cuanto á la paternidad.
+
+##### ARTÍCULO 240. 
+- Todo reconocimiento de filiación natural podrá ser disputado por el padre ó madre que no haya intervenido en él.
+
+##### ARTÍCULO 241. 
+- Corresponde también el derecho de contradecir la filiación al mismo hijo, que reconocieron los que se suponen sus padres naturales; y aun al ilegitimo, respecto de la que se titulo su madre.
+
 ##### ARTÍCULO 242. Se prohíbe toda indagación sobre la paternidad, cuando se trata de los
 derechos que los hijos ilegítimos tienen respecto de la madre ó de los parientes de esta.
+
 ##### ARTÍCULO 243. El hijo adulterino por parte de madre no goza de los derechos que respecto de
 ella tienen, sin distinción, los ilegítimos en general.
 Es hijo adulterino, por parte de madre, el ilegítimo concebido por mujer casada.

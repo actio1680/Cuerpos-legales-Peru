@@ -84,13 +84,13 @@
 
 ##### ARTÍCULO  19. 
 - La dilapidación puede consistir:
-  1. En pérdidas al juego;
-  2. En gastos de saraos, paseos, convites ó mujeres públicas;
-  3. En obsequiar á personas á quienes no se debe obligación, después de haber donado lo que, conforme á este código, se permite donar;
-  4. En comprar cosas por doble valor del que tienen;
-  5. En venderlas por menos de la mitad del valor;
-  6. En obligarse por cantidad que no se ha recibido;
-  7. En cualesquiera otros gastos habituales para satisfacer vicios.
+ 1. En pérdidas al juego;
+ 2. En gastos de saraos, paseos, convites ó mujeres públicas;
+ 3. En obsequiar á personas á quienes no se debe obligación, después de haber donado lo que, conforme á este código, se permite donar;
+ 4. En comprar cosas por doble valor del que tienen;
+ 5. En venderlas por menos de la mitad del valor;
+ 6. En obligarse por cantidad que no se ha recibido;
+ 7. En cualesquiera otros gastos habituales para satisfacer vicios.
 
 ##### ARTÍCULO  20. 
 - Solo la dilapidación de bienes raíces o de capitales, da lugar a la declaración de prodigalidad.
@@ -122,16 +122,16 @@
 
 ##### ARTÍCULO 28. 
 - Están bajo la potestad de otros:
-  1. Las mujeres casadas, que dependen de sus maridos;
-  2. Los hijos menores, que dependen de sus padres;
-  3. Los huérfanos, que dependen de sus guardadores;
-  4. Los esclavos que dependen de sus amos;
-  5. Los incapaces, conforme á lo dispuesto en el titulo 4 de la sección precedente.
+1. Las mujeres casadas, que dependen de sus maridos;
+2. Los hijos menores, que dependen de sus padres;
+3. Los huérfanos, que dependen de sus guardadores;
+4. Los esclavos que dependen de sus amos;
+5. Los incapaces, conforme á lo dispuesto en el titulo 4 de la sección precedente.
 
 ##### ARTÍCULO  29. 
 - Las demás personas no comprendidas en el artículo anterior, ejercen por sí mismas sus derechos civiles. Salvas las restricciones que resulten de la profesión religiosa o del código penal.
 
-TITULO II. DE LOS PERUANOS Y EXTRANJEROS
+#### TITULO II. DE LOS PERUANOS Y EXTRANJEROS
 
 ##### ARTÍCULO 30. 
 - La constitución designa quienes son peruanos y quienes extranjeros.
@@ -162,9 +162,9 @@ TITULO II. DE LOS PERUANOS Y EXTRANJEROS
 
 ##### ARTÍCULO 39. 
 - El extranjero, aunque se halle ausente de la república, puede ser citado a responder ante los tribunales de ella:
-  1. Cuando se intente alguna acción real concerniente a bienes que estén en el Perú;
-  2. Cuando se intente alguna acción civil en consecuencia de un delito o de una falta que el extranjero hubiese cometido en el Perú;
-  3. Cuando se trate de una obligación contraída por el extranjero, en que se haya estipulado, que los tribunales del Perú decidan las controversias relativas á ella.
+ 1. Cuando se intente alguna acción real concerniente a bienes que estén en el Perú;
+ 2. Cuando se intente alguna acción civil en consecuencia de un delito o de una falta que el extranjero hubiese cometido en el Perú;
+ 3. Cuando se trate de una obligación contraída por el extranjero, en que se haya estipulado, que los tribunales del Perú decidan las controversias relativas á ella.
 
 ##### ARTÍCULO  40. 
 - Siempre que se trate de una obligación contraída en país extranjero, las leyes del país donde se celebro, sirven para juzgar del contrato en todo aquello que no este prohibido por las del Perú. Regirán solo las leyes peruanas, si a ellas se sometieron los contratantes.
@@ -190,9 +190,9 @@ TITULO II. DE LOS PERUANOS Y EXTRANJEROS
 
 ##### ARTÍCULO 46. 
 - Pruébase esta intención por alguno de los medios siguientes:
-  1. Por declaración expresa del domiciliado ante la autoridad civil;
-  2. Por el trascurso de dos años de residencia voluntaria;
-  3. Por cualquier otro hecho que acredite haber fijado su principal establecimiento.
+ 1. Por declaración expresa del domiciliado ante la autoridad civil;
+ 2. Por el trascurso de dos años de residencia voluntaria;
+ 3. Por cualquier otro hecho que acredite haber fijado su principal establecimiento.
 
 ##### ARTÍCULO 47. 
 - Se pierde el domicilio de un lugar, por el hecho de fijarlo en otro.
@@ -234,9 +234,9 @@ TITULO II. DE LOS PERUANOS Y EXTRANJEROS
 
 ##### ARTÍCULO 59. 
 - Pueden pedir guardadores para los bienes del ausente:
-   1. Todos los parientes ó personas que tengan derecho á ellos;
-   2. Los síndicos procuradores ó el ministerio fiscal;
-   3. Cualquiera del pueblo á falta de parientes.
+ 1. Todos los parientes ó personas que tengan derecho á ellos;
+ 2. Los síndicos procuradores ó el ministerio fiscal;
+ 3. Cualquiera del pueblo á falta de parientes.
 
 ##### ARTÍCULO 60. 
 - Todos los que puedan pedir el nombramiento de guardadores para los huérfanos, cuyos padres han fallecido, tienen la misma facultad en favor de los hijos menores ausentes.
@@ -255,9 +255,9 @@ TITULO II. DE LOS PERUANOS Y EXTRANJEROS
 
 ##### ARTÍCULO 65. 
 - Termina el cargo del guardador:
-   1. Cuando vuelva el ausente constituye apoderado;
-   2. Cuando se da la posesión provisional a los herederos ausentes;
-   3. Cuando renuncia ó es removido, según las reglas establecidas para el guardador de menores.
+1. Cuando vuelva el ausente constituye apoderado;
+2. Cuando se da la posesión provisional a los herederos ausentes;
+3. Cuando renuncia ó es removido, según las reglas establecidas para el guardador de menores.
 
 ##### ARTÍCULO 66. 
 - A todo ausente de la república, que no tenga apoderado, ni cónyuge, ni hijos mayores, ni guardador, se le nombrara por el consejo de familia defensor, para los casos en que deba responder á una demanda ó hacer valer algo en juicio. Cesará el cargo de defensor, desde que termine el asunto para que fue nombrado, ó desde que, por hacerse necesario, se provea de guardador al ausente.

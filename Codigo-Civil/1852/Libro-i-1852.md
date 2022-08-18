@@ -2,13 +2,13 @@
 #### CONTENIDO
 **LIBRO PRIMERO. De las personas y sus derechos**
 
-**[SECCIÓN PRIMERA: De las personas según su estado natural](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-primera-de-las-personas-seg%C3%BAn-su-estado-natural-)**
+**[SECCIÓN PRIMERA: De las personas según su estado natural](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-i-1852.md#secci%C3%B3n-primera-de-las-personas-seg%C3%BAn-su-estado-natural-)**
 
-**[SECCIÓN SEGUNDA: De las personas según el estado civil](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-segunda-de-las-personas-seg%C3%BAn-el-estado-civil-)**
+**[SECCIÓN SEGUNDA: De las personas según el estado civil](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-i-1852.md#secci%C3%B3n-segunda-de-las-personas-seg%C3%BAn-el-estado-civil-)**
 
-**[SECCIÓN TERCERA: Del matrimonio](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#seccion-tercera-del-matrimonio-)**
+**[SECCIÓN TERCERA: Del matrimonio](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-i-1852.md#seccion-tercera-del-matrimonio-)**
 
-**[SECCIÓN CUARTA. De la paternidad](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#secci%C3%B3n-cuarta-de-la-paternidad-)**
+**[SECCIÓN CUARTA. De la paternidad](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-i-1852.md#secci%C3%B3n-cuarta-de-la-paternidad-)**
 
 **SECCIÓN QUINTA. De los guardadores; y de sus escusas, remoción, responsabilidad, fianzas y cuentas**
 
@@ -17,7 +17,7 @@
 ---
 
 ### LIBRO PRIMERO. De las personas y sus derechos
-#### SECCIÓN PRIMERA. De las personas según su estado natural [^](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-primero-1852.md#c%C3%B3digo-civil-del-per%C3%BA-1852)
+#### SECCIÓN PRIMERA. De las personas según su estado natural [^](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-i-1852.md#c%C3%B3digo-civil-del-per%C3%BA-1852)
 
 #### TÍTULO I. De los nacidos y por nacer 
 

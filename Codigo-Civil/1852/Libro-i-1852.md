@@ -2,10 +2,9 @@
 
 [> Leer presentación](https://actio1680.github.io/paginas/cc1852)
 
----
 ### DOCUMENTO DIGITAL[^1]
 
-### LIBRO PRIMERO. De las personas y sus derechos
+#### LIBRO PRIMERO. De las personas y sus derechos
 #### SECCIÓN PRIMERA. De las personas según su estado natural [^](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-i-1852.md#c%C3%B3digo-civil-del-per%C3%BA-1852)
 
 #### TÍTULO I. De los nacidos y por nacer 

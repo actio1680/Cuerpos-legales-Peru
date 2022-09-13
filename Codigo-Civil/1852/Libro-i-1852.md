@@ -836,8 +836,8 @@ oculto el nacimiento del hijo.
   1. Si antes del matrimonio tuvo conocimiento de la preñez;
   2. Si firmo o hizo firmar a su nombre la partida de nacimiento de su hijo.
 
-##### ARTÍCULO 227. El hijo puede en todo tiempo pedir que se declare su filiación; y esta acción
-nunca prescribe respecto de él.
+##### ARTÍCULO 227. 
+- El hijo puede en todo tiempo pedir que se declare su filiación; y esta acción nunca prescribe respecto de él.
 
 ##### ARTÍCULO 228. 
 - La acción concedida en el artículo anterior no pasa á los herederos del hijo, si no en los casos siguientes.
@@ -892,801 +892,773 @@ su demanda;
 ##### ARTÍCULO 241. 
 - Corresponde también el derecho de contradecir la filiación al mismo hijo, que reconocieron los que se suponen sus padres naturales; y aun al ilegitimo, respecto de la que se titulo su madre.
 
-##### ARTÍCULO 242. Se prohíbe toda indagación sobre la paternidad, cuando se trata de los
-derechos que los hijos ilegítimos tienen respecto de la madre ó de los parientes de esta.
+##### ARTÍCULO 242. 
+- Se prohíbe toda indagación sobre la paternidad, cuando se trata de los derechos que los hijos ilegítimos tienen respecto de la madre ó de los parientes de esta.
 
-##### ARTÍCULO 243. El hijo adulterino por parte de madre no goza de los derechos que respecto de
-ella tienen, sin distinción, los ilegítimos en general.
-Es hijo adulterino, por parte de madre, el ilegítimo concebido por mujer casada.
-TÍTULO III
-DE LOS DEBERES ENTRE PADRES É HIJOS, Y DE LOS ALIMENTOS
-##### ARTÍCULO 244. Los padres están obligados:
-1. A educar á sus hijos legítimos;
-2. A instituir herederos á los hijos, conforme a este código;
-3. A prestar alimentos á toda clase de hijos.
-##### ARTÍCULO 245. Los hijos están obligados:
-1. A respetar y obedecer á sus padres;
-2. A mantenerlos si caen en pobreza;
-3. A asistirlos en su vejez y en caso de enfermedad.
+##### ARTÍCULO 243. 
+- El hijo adulterino por parte de madre no goza de los derechos que respecto de ella tienen, sin distinción, los ilegítimos en general. Es hijo adulterino, por parte de madre, el ilegítimo concebido por mujer casada.
 
-##### ARTÍCULO 246. Los alimentos que se deben, segun los artículos anteriores, se presentarán en
-el órden siguiente;
+#### TÍTULO III. DE LOS DEBERES ENTRE PADRES É HIJOS, Y DE LOS ALIMENTOS
 
-1. Por el padre;
-2. Por la madre;
-3. Por los ascendientes paternos;
-4. Por los ascendientes maternos;
-5. Por los descendientes, según el órden en que están llamados á suceder.
-##### ARTÍCULO 247. Entre los ascendientes y descendientes legítimos, la obligación de darse
-alimentos pasa, por causa de pobreza del que debe prestarlos, al que le sigue en el órden
-establecido en el artículo anterior.
-##### ARTÍCULO 248. En todos los casos, en que los padres no hagan suyos los frutos de los bienes
-del hijo menor, se aplicará de estos frutos la parte que sea suficiente para los alimentos y
-educación del hijo. Si no bastaren, quedan los padres obligados á satisfacer la parte que falte.
-##### ARTÍCULO 249. Es extensiva la disposición del artículo anterior á los casos en que según este
-código, aprovecha el hijo de su trabajo ó industria, ó del sueldo de servicios civiles, militares ó
-eclesiásticos.
-##### ARTÍCULO 250. La aplicación de frutos para alimentos y la obligación de completarlos, de que
-hablan los artículos 248 y 249, comprende á los abuelos y demás ascendientes, cuando les
-llega su vez de alimentar á sus nietos o descendientes.
-##### ARTÍCULO 251. La obligación que tienen los padres de alimentar á su hijo natural reconocido,
-solo pasa á los abuelos después que han muerto los padres.
-La obligación que tiene el hijo natural de alimentar á sus padres, no pasa a los nietos si
-no después que haya fallecido dicho hijo.
-En todo caso en que viviere la persona inmediatamente responsable á dar alimentos,
-no pasara, por ningún motivo, esta obligación á los abuelos ni á los nietos, cuando, entre el que
-pida y la persona á quien se demande alimentos, haya intermedia alguna generación natural
-reconocida.
-##### ARTÍCULO 252. Rige también la disposición del anterior artículo, en la línea materna de un hijo
-ilegítimo.
-##### ARTÍCULO 253. La obligación reciproca de alimentarse que tiene un padre y su hijo ilegitimo,
-que no es natural reconocido, no se extiende á los ascendientes y descendientes de la línea
-paterna.
-##### ARTÍCULO 254. En la línea materna de un hijo adulterino por parte de madre, no se extiende
-tampoco la obligación reciproca de alimentarse, más allá de la madre y del hijo.
-La obligación de alimentar al hijo ilegítimo procreado por hombre casado, corresponde á la
-madre ántes que al padre; y este hijo jamás debe alimentos á su padres
-##### ARTÍCULO 255. El derecho de pedir alimentos no se trasmite en vida ni en muerte, pero si los
-bienes ya adquiridos por razón de alimentos.
-##### ARTÍCULO 256. Los alimentos se regularán por el juez en proporción á la necesidad y
-circunstancias personales del que los pide, y á la posibilidad del que debe darlos;
-atendiéndose, no solo á la fortuna de este, sino también á las otras obligaciones á que se halle
-sujeto.
-##### ARTÍCULO 257. No es necesario investigar rigurosamente, con objeto de alimentos, el valor de
-los bienes ni el de los ingresos del que debe prestarlos.
-##### ARTÍCULO 258. El que está obligado á dar alimentos cumple con entregar la pensión
-alimenticia, ó con recibir y mantener en su casa á la persona que debe ser alimentada.
-##### ARTÍCULO 259. Corresponde sin embargo al juez decidir sobre el modo de prestar los
-alimentos, cuando haya graves inconvenientes para la vida común.
-##### ARTÍCULO 260. Durante los tres primeros años de la lactancia del hijo, no tiene el padre la
-facultad de llevarlo á su casa, para cumplir allí con la obligación de alimentarlo.
-##### ARTÍCULO 261. Si empeora de estado el que da los alimentos, ó mejora el que se recibe, tiene
-el primero derecho para pedir que se exima de la obligación, o que se reduzca a menor
-cantidad, según las circunstancias.
-##### ARTÍCULO 262. Las causas para la desheredación, lo son también para negar los alimentos.
-##### ARTÍCULO 263. Los descendientes ilegítimos no pueden tampoco exigir alimentos:
-1. Cuando han cumplido veintiún años de edad, á no ser que se hallen habitualmente
-enfermos;
-2. Cuando se les ha asegurado la subsistencia hasta la misma edad;
-3. Cuando se les ha enseñado alguna profesión, arte ú oficio con que puedan subsistir.
-TÍTULO IV
-DE LA LEGITIMACIÓN
-##### ARTÍCULO 264.- El matrimonio entre el padre y la madre de un hijo natural, es el único medio
-de legitimar á este.
-##### ARTÍCULO 265.- El hijo legitimado tiene los mismos derechos civiles que los legítimos.
-##### ARTÍCULO 266.- Solo los hijos naturales pueden ser legitimados.
-##### ARTÍCULO 267.- Los legitimados se reputan legítimos, desde la celebración del matrimonio en
-que se verifica su legitimación.
-##### ARTÍCULO 268. Los descendientes de un hijo natural, que murió antes de celebrado el
-matrimonio de sus padres, se reputan descendientes de un hijo legitimado.
-TÍTULO V
-DE LA ADOPCIÓN
-##### ARTÍCULO 269. Adopción ó prohijamiento es el acto de tomar por hijo al que no lo es del
-adoptante.
-##### ARTÍCULO 270. La filiación del adoptado no servirá jamás de causa para impugnar la
-adopción.
-##### ARTÍCULO 271. Para que una persona pueda adoptar se requiere:
-1. Que sea mayor de cincuenta años;
-2. Que no esté ligada con voto solemne de castidad;
-3. Que sea mayor que el adoptante, cuando menos en quince años;
-4. Que no tenga hijos legítimos, ni naturales reconocidos ni otros descendientes con
-derecho de herencia;
-5. Que, cuando el adoptante es casado, concurra, al consentimiento de su cónyuge, á
-no ser que se hallen legalmente separados.
-6. Que consientan los padres del adoptado, si este se halla bajo la patria potestad;
-7. Que se oiga al guardador del adoptado, si este es menor de diez y ocho años y no
-tiene padres;
-8. Que el adoptado, si es mayor de catorce años, preste su consentimiento.
-##### ARTÍCULO 272. El guardador no puede adoptar á su menor, sino después de haber cumplido
-este veintiún años de edad y de hallarse aprobadas las cuentas.
-##### ARTÍCULO 273. Ninguno puede ser adoptado por más de una persona á no ser por dos
-cónyujes.
-##### ARTÍCULO 274. Por el mero consentimiento que preste un cónyuge para la adopción que haga
-el otro, no se constituye adoptante.
-##### ARTÍCULO 275. La adopción confiere al adoptado el apellido del adoptante, añadido después
-del de su padre.
-##### ARTÍCULO 276. Cesan los efectos de la adopción, si el adoptante llega á tener hijos legítimos,
-o á reconocer sus hijos naturales.
-##### ARTÍCULO 278. El adoptado y su familia natural conservan sus derechos de sucesión
-reciproca.
-##### ARTÍCULO 279. Cuando el adoptante muere sin descendencia legitima, vuelven al adoptante
-que le sobreviva los bienes existentes que de este hubiese recibido. Los demás bienes y
-derechos del adoptado se sujetarán á las leyes comunes de sucesión.
-##### ARTÍCULO 280. El adoptado no tiene derecho á los bienes de los parientes del adoptante.
-##### ARTÍCULO 281. Se devolverá á la familia del adoptante premuerto, la herencia que de él
-hubiese adquirido el adoptado, si este fallece sin hijos legítimos, ni otros herederos forzosos de
-la línea descendente.
-##### ARTÍCULO 282. Los hijos del adoptado, que falleció antes que el adoptante, no son herederos
-de este.
-##### ARTÍCULO 283. El hijo adoptivo, que está en menor edad á la muerte del adoptante, vuelve al
-poder de sus padres naturales.
-TÍTULO VI
-DE LA PATRIA POTESTAD
-##### ARTÍCULO 284. Patria potestad es la autoridad que las leyes reconocen en los padres sobre
-persona y bienes de sus hijos.
-##### ARTÍCULO 285. Los hijos legítimos, legitimados, naturales reconocidos y adoptivos están
-sujetos á la autoridad del padre, y en su defecto á la de la madre.
-##### ARTÍCULO 286. La patria potestad que corresponde á la madre se extiende sobre todos sus
-hijos ilegítimos.
-##### ARTÍCULO 287. Son derechos de la patria potestad:
-1. Sujetar corregir y castigar moderadamente á los hijos;
-2. Aprovechar de su servicio;
-3. Mantenerlos en su poder y recogerlos del lugar donde estuvieron;
-4. Exigir el auxilio de cualquier autoridad para recogerlos;
-5. Administrar los bienes de los hijos.
-6. Hacer suyos los frutos de los bienes de sus hijos menores, mientras dure la patria
-potestad; sin que se extienda este derecho de usufructo ni á lo que adquiera el hijo por su
-trabajo, profesión ó industria, ejercidos con consentimiento de sus padres, ni á lo que gane por
-sus servicios civil, militares ó eclesiásticos.
-##### ARTÍCULO 288. La patria potestad se acaba:
-1. Por muerte de los que ejercen;
-2. Por exponer el padre al hijo;
-3. Por matrimonio del hijo;
-4. Por emancipación;
-5. Por cumplir el hijo veintiún años de edad.
-##### ARTÍCULO 289. Permanecen bajo la patria potestad, aun después de haber cumplido la edad
-de veintiún años los hijos incapaces por locura ó fatuidad.
-##### ARTÍCULO 290. El hijo ó hija mayor, que cae en incapacidad, vuelve á la patria potestad, si no
-tienen cónyuge.
-##### ARTÍCULO 291. Los padres pierden la patria potestad:
-1. Si prostituyen o tratan de prostituir a la hija;
-2. Si son crueles con los hijos de uno u otro sexo,
-3. Si son condenados á penas que produzcan este efecto, conforme al código penal.
-##### ARTÍCULO 292. Si el que ejerce la patria potestad dilapida los bienes de los hijos, pierde la
-administración de los bienes y el derecho á los frutos.
-##### ARTÍCULO 293. La madre, que contrae matrimonio teniendo hijos, pierde la administración y
-los frutos de los dichos hijos.
-Sin embargo serán alimentados los hijos en poder de la madre con los frutos que
-basten, según las circunstancias.
-##### ARTÍCULO 294. El juez puede, por causas graves autorizar á los hijos menores para que vivan
-separados de la madre que hubiere contraído matrimonio, poniéndose bajo el poder de un
-guardador.
-##### ARTÍCULO 295. Los padres, que administren bienes de sus hijos, están sujetos a las mismas
-obligaciones que el usufructuario.
-##### ARTÍCULO 296.- En cualquiera de los casos del articulo 291 incisos 1 y 2 y del artículo 292, el
-consejo de familia, según la gravedad de las circunstancias, requerirá al que ejerce la patria
-potestad para que se enmiende, ó proveerá de un defensor al hijo para el juicio en que han de
-justificarse las causas.
-##### ARTÍCULO 297. El juez, á solicitud de parte ó de oficio, nombrará defensor para los hijos, y
-proveerá a su seguridad en caso de que el consejo de familia no cumpla con lo dispuesto en el
-artículo anterior, ó de que resulte perjuicio de no tomarse inmediatamente las precauciones
-necesarias.
-TÍTULO VII
-DE LA EMANCIPACIÓN
-##### ARTÍCULO 298. Por la emancipación queda el menor eximido de la patria potestad ó de la
-autoridad del guardador.
-##### ARTÍCULO 299. La emancipación hace capaz al menor de ejercer por si mismo los derechos
-civiles, subsistiendo, no obstante, en su favor, el privilegio legal de la restitución.
-##### ARTÍCULO 300. Tienen facultad de emancipar al menor el padre, y en su defecto la madre.
-##### ARTÍCULO 301. Los padres nunca pueden ser obligados á emancipar a sus hijos.
-##### ARTÍCULO 302. El guardador tiene también la facultad de emancipar á su menor, si el consejo
-de familia lo hallare conveniente.
-##### ARTÍCULO 303. Cuando el guardador no emancipa al menor, puede el consejo de familia, si
-cree útil la emancipación, pedirla al juez, quien la concederá ó no, con audiencia del guardador.
-##### ARTÍCULO 304. Para la emancipación es indispensable que el menor haya cumplido diez y
-ocho años, y que preste su consentimiento.
-##### ARTÍCULO 305. No se emancipa el hijo, sino que pasa al poder de un guardador, cuando los
-padres pierden la patria potestad conforme al artículo 291.
-SECCION V
-DE LOS GUARDADORES Y DE SUS ESCUSAS, REMOCIÓN, RESPONSABILIDAD,
-FIANZAS Y CUENTAS.
-TITULO I
-DE LOS GUARDADORES
-##### ARTÍCULO 306. Al menor y al mayor incapaz, que no estén bajo la patria potestad, se les
-nombrará guardador, que cuide de su persona y administre sus bienes.
-##### ARTÍCULO 307. El padre tiene facultad para nombrar guardadores en su testamento:
-1. Para sus hijos legítimos que no tengan madre;
-2. Para sus hijos naturales reconocido, que no tengan madre ó que no estén en poder
-de ella.
-##### ARTÍCULO 308. Tienen también facultad de nombrar guardadores en testamento:
-1. La madre, para los hijos que se hallen bajo su patria potestad;
-2. Los abuelos paternos, y á su falta los maternos para sus nietos, que no tengan
-padres, ni guardadores nombrados por éstos;
-3. Cualquier otro testador, para el que instituya heredero, bien sea éste su hijo ilegítimo
-o persona extraña.
-##### ARTÍCULO 309. El guardador nombrado conforme al inciso 3º del artículo precedente, solo se
-encargará de la administración de los bienes que constituyen la herencia del que le confirió el
-cargo.
-##### ARTÍCULO 310. Los guardadores comprendidos en el artículo anterior, se encargarán también
-de la persona del heredero, cuando éste no se halle bajo de patria potestad, ni en poder de
-guardador nombrado por ascendientes, ni a cargo de guardadores legítimos, ni de otro distinto
-guardador que administre bienes de igual ó mayor valor que la nueva herencia.
-##### ARTÍCULO 311. El guardador nombrado por los padres del hijo adoptado por otro, se
-encargará de los bienes del menor procedentes de su familia natural, quedando la persona al
-cuidado del adoptante.
-##### ARTÍCULO 312. El adoptante puede nombrar guardador para los bienes que deje á su hijo
-adoptivo. Este guardador administrará todos los bienes del menor que procedan de la familia
-del adoptante, perteneciendo la guarda de la persona á los padres del adoptado.
-##### ARTÍCULO 313. El último que sobreviva de los padres naturales ó adoptivos, tiene facultad de
-nombrar guardadores para la persona del hijo menor, y para la administración de todos los
-bienes que no se hallen bajo de de un guardador especial.
-##### ARTÍCULO 314. A falta de guardadores nombrados en testamento, desempeñaran este cargo
-los abuelos y demás ascendientes de una y otra línea, prefiriéndose:
-1. el más próximo, más remoto;
-2. Los de línea paterna á los de materna, cuando estén en igual grado y;
-3. El varón á la hembra, en igualdad de grado de línea.
-##### ARTÍCULO 315. Si la abuela estuviera casada cuando debe ser guardadora del nieto, ó si se
-casare estando en el ejercicio del cargo, solo cuidará de la persona del menor; pero no tendrá
-la administración de los bienes, á no ser que lo determine el consejo de familia, quedando
-entónces solidariamente responsables la abuela y su marido.
-##### ARTÍCULO 316. Cuando la abuela casada fuere nombrada en testamento guardadora de su
-nieto, no será necesario el acuerdo del consejo de familia, y bastará el consentimiento del
-marido, para que ella administre los bienes del menor.
-##### ARTÍCULO 317. En los casos en que no deban administrar los bienes del menor la madre ni la
-abuela, sin embargo de tenerlo en su poder, se encargara la administración:
-1. Á la persona que hubiere expedita para ser guardador legítimo;
-2. A la que, en defecto de guardador legítimo, se nombrara con el carácter de
-guardador especial para los bienes.
-##### ARTÍCULO 318. Si no hay guardador testamentario, ni legitimo, el consejo de familia procederá
-al nombramiento de dativo.
-##### ARTÍCULO 319. Los expósitos en las casas de huérfanos y otros hospicios, cualquiera que sea
-su denominación, están bajo la guarda de sus respectivos superiores, conforme a los
-reglamentos especiales.
-##### ARTÍCULO 320. Los expósitos en las casas particulares, están bajo la guarda de las personas
-que los amparan.
-##### ARTÍCULO 321. La ley legitima á los expósitos para todos los efectos civiles; pero, reconocidos
-sus padres quedan, respecto de su familia, en la condición que naturalmente les
-correspondería si no hubieran sido expuestos, conservando en lo demás su legitimación.
+##### ARTÍCULO 244. 
+- Los padres están obligados:
+  1. A educar á sus hijos legítimos;
+  2. A instituir herederos á los hijos, conforme a este código;
+  3. A prestar alimentos á toda clase de hijos.
 
-##### ARTÍCULO 322. El marido es guardador legítimo de su mujer incapaz, y esta lo es de aquel en
-igual caso.
-##### ARTÍCULO 323. A falta de cónyuge del mayor incapaz, guardaran a éste: 1. sus padres,
-conforme al artículo 209; 2. Sus hijos mayores, prefiriéndose entre varios al que sea designado
-por el consejo de familia, y en su defecto por el juez del lugar.
-##### ARTÍCULO 324. Para los hijos menores de una persona incapaz se nombrará guardador,
-cuando no tenga madre ni otros ascendientes.
-##### ARTÍCULO 325. El guardador de un mayor incapaz, no siendo su cónyuge, su ascendiente ó
-descendiente, será revelado del cargo, si lo renunciare después de cinco años.
-##### ARTÍCULO 326. El cargo de guardador no se trasmite á los herederos.
-##### ARTÍCULO 327. Pueden nombrarse dos ó más guardadores para la persona de un menor;
-pero no será desempeñado el cargo sino por uno á falta de otro, en el órden de su
-nombramiento.
-##### ARTÍCULO 328. Los guardadores especialmente nombrados para determinados bienes, se
-encargarán de la administración de estos en el tiempo y forma señalados por el testador.
-##### ARTÍCULO 329. Los guardadores legítimos tiene obligación de pedir el discernimiento del
-cargo. Si no lo hicieren, el juez lo ordenará de oficio, ó á petición, sea de los parientes, ó del
-que ejerce el ministerio fiscal o de cualquiera del pueblo.
-##### ARTÍCULO 330. Las personas comprendidas en la segunda parte del artículo anterior, tienen
-derecho de pedir la reunión del consejo de familia, para el nombramiento de guardadores
-dativos.
-##### ARTÍCULO 331. No pueden ser guardadores:
-1. El menor de veintiún años. Más si fuere nombrado en testamento, ejercerá el cargo
-cuando llegue á esa edad; y, entre tanto, será guardador provisional el legítimo ó el dativo,
-según las circunstancias;
-2. La mujer; excepto las ascendientes del menor;
-3. El sordo - mudo, el ciego, el loco, el fatuo, el de las malas costumbres, y el pródigo
-declarado;
-4. El deudor ó acreedor del menor, ni el fiador del primero; á no ser que el testador los
-hubiese nombrado sabiendo esta circunstancia;
-5. El deudor quebrado;
-6. Los empleados en la administración y recaudación de rentas públicas;
-7. El militar en actual servicio;
-8. El enfermo habitual;
-9. El obispo y el religioso profeso;
-10. Los que tengan en un pleito interés contrario al del menor;
-11. Los que hubieren tenido grave enemistad con los padres del menor si no se
-reconciliaron; o le enseñaron malas costumbres o malversaron su hacienda, o incurrieron en
-alguna de las causas que producen la destitución de los guardadores
-12. Los condenados á pena infame;
-13. Los que, al desempeñar el cargo de guardador de otro menor, le enseñaron malas
-costumbres; ó malversaron su hacienda, ó incurrieron en alguna de las causas que producen la
-destitución de los guardadores;
-14. Los que, por su culpa, perdieron la patria potestad;
-15. Los que hayan sido condenados por mala administración de bienes ajenos;
-##### ARTÍCULO 332. Las causas 4, 6, 7, 10, y 11 del artículo anterior, no impiden que sean
-guardadores los ascendientes ó descendientes del menor.
-TÍTULO II
-DE LAS ESCUSAS DE LOS GUARDADORES.
-##### ARTÍCULO 333. Pueden excusarse del cargo de guardador;
-1. Los que tengan cinco hijos bajo su patria potestad, contándose en este número los
-que hayan muerto militando en defensa de la República, y los nietos menores que estén bajo
-su poder, procedentes de otros hijos que hayan fallecido;
-2. El que, por servicio de la República, se halla ausente del domicilio del menor;
-3. El juez ó magistrado en actual ejercicio.
-4.- El que es guardador de otro menor;
-5. El que es pobre de solemnidad, según el código de enjuiciamientos;
-6. El que no sabe leer ni escribir;
-7. El mayor de sesenta años;
-8. El que, por razón de su giro, no tiene residencia fija;
-9. El que tiene que demandar al menor, ó es su deudor;
-10. El que haya tenido pleito con el menor ó con los padres de este;
-11. El que haya desempeñado tres veces el cargo de guardador.
-##### ARTÍCULO 334. La madre casada puede, por falta de consentimiento del marido, escusarse de
-administrar los bienes del menor.
-##### ARTÍCULO 335. Puede la abuela casada excusarse no solo de la administración de bienes,
-sino del cuidado de la persona del menor, fundada en la negativa del marido.
-##### ARTÍCULO 336. Ninguna otra excusa es admisible para eximirse del cargo de guardador.
-##### ARTÍCULO 337. Si el guardador nombrado no propone sus escusas dentro de los términos
-señalados en el código de enjuiciamientos, se tendrá por aceptado el cargo.
-##### ARTÍCULO 338. El guardador renunciará inmediatamente el cargo, si le sobreviene alguna de
-las causas que habrían impedido su nombramiento.
-TÍTULO III
-DE LA REMOCIÓN DE LOS GUARDADORES.
-##### ARTÍCULO 339. Se removerá del cargo de guardador:
-1. Al que no hizo inventario de los bienes del menor;
-2. Al que falsamente afirmó ante el juez, que no tenia con que alimentar al menor;
-3. Al que no lo defendió en juicio ó fuera de él;
-4. Al que no vendió ó empeñó los bienes del menor, sin los requisitos prevenidos en
-este código y en el de enjuiciamientos;
-5. Al que de cualquier otro modo causo daños y perjuicios al menor en su persona,
-educación ó intereses.
-6. Al que de rico viene á pobre.
-7. Al que respecto del menor ha incurrido en cualquiera de las causas del artículo 291.
-##### ARTÍCULO 340. Cualquiera de los impedimentos expresados en el artículo 331, es también
-causa para remover á los guardadores, cuando ha sobrevenido ó se ha descubierto después
-de admitido el cargo, si no se hizo la renuncia prescrita en el artículo 338.
-##### ARTÍCULO 341. Están obligados á pedir la remoción del guardador: 1. los parientes del menor
-hasta el 4º, pudiendo hacerlo cualquiera de ellos, dos ó más reunidos; 2. los que desempeñan
-el ministerio fiscal; 3. los síndicos procuradores.
-##### ARTÍCULO 342. El menor que ha cumplido la edad de catorce años puede pedir la remoción
-de su guardador.
-##### ARTÍCULO 343. Cualquiera del pueblo, puede denunciar ó acusar al guardador por causas que
-den lugar á su remoción.
-##### ARTÍCULO 344. Si no hay quien haga la acusación ó denuncia, y el juez del domicilio tiene
-conocimiento de algún perjuicio que el guardador cause al menor, convocará de oficio al
-consejo de familia, para que proceda, según las circunstancias, á usar de sus facultades en
-beneficio al menor.
-##### ARTÍCULO 345. Contestada por el guardador testamentario ó legitimo la demanda de su
-remoción, se encargará del menor y de sus bienes, durante el pleito, un guardador legitimo si lo
-hubiere, y á su falta uno dativo.
-TÍTULO IV
-DE LAS OBLIGACIONES, FIANZAS Y CUENTAS DE LOS GUARDADORES
-##### ARTÍCULO 346. Todos los guardadores, sin excepción alguna, están obligados:
-1. A jurar ante el juez que discierna el cargo, y presente el escribano que autorice el
-acto, que guardarán bien y fielmente la persona y bienes del menor;
-2. A declarar, en el acto del discernimiento, si son acreedores del menor, el cual es el
-valor del crédito, so pena de perderlo;
-3. A garantizar con fianza saneada, la responsabilidad de su administración; excepto
-los abuelos, á quienes exime esta ley, y los guardadores testamentarios cuando los haya
-eximido el testador.
-4. A hacer inventario solemne conforme á lo prescrito en el código de enjuiciamientos;
-5. A proteger y defender en juicio y fuera de él la persona del menor.
-6. A cuidar de la conservación, educación y subsistencia de menor, destinándolo a la
-ciencia, industria ó arte que sean análogos a su condición personal.
-7. A administrar los bienes del menor, como lo haría un diligente padre de familia.
-8. A capitalizar, después de cubiertos los gastos naturales, el sobrante de frutos, para
-que produzca nueva renta de beneficio del menor;
-9. A no enajenar no obligar los bienes raíces ni los muebles preciosos, sin licencia
-judicial, concedida por necesidad o utilidad probadas, y con audiencia del consejo de familia;
-La enajenación no se verificará sino en pública subasta;
-10. A guardar y cumplir, en los contratos que celebre por el menor, los requisitos y
-solemnidades prescritos en este código y en el de enjuiciamiento;
-11. A demandar y defender judicialmente los intereses del menor,
-12. A instruir anualmente al consejo de familia, del estado en que se hallen los
-intereses del menor, y á dar cuanta formal de la administración, luego que haya fenecido el
-cargo.
-##### ARTÍCULO 347. Los guardadores de una parte de los bienes deben dar de los frutos, lo que se
-necesite para completar los alimentos del menor.
-##### ARTÍCULO 348. El juez, con audiencia del consejo de familia y de la persona bajo cuyo poder
-se halle el menor, regulará la parte de alimentos que ha de prestarse conforme al artículo
-anterior.
-##### ARTÍCULO 349. Todo guardador es responsable del daño que cause al menor por dolo, ó por
-culpa lata ó leve.
-##### ARTÍCULO 350. Los bienes de los guardadores están legalmente hipotecados, para responder
-de su administración, á favor de sus menores.
-##### ARTÍCULO 351. Quedan obligados los bienes de los fiadores del guardador hasta que se
-aprueben las cuentas de su administración y esté satisfecho el cargo que resulte contra él.
+##### ARTÍCULO 245. 
+- Los hijos están obligados:
+  1. A respetar y obedecer á sus padres;
+  2. A mantenerlos si caen en pobreza;
+  3. A asistirlos en su vejez y en caso de enfermedad.
 
-##### ARTÍCULO 352. El guardador pagará no solo el alcance, que adeude, según la liquidación final
-de sus cuentas si no también los intereses de ese alcance, a razón del seis por ciento anual,
-devengados desde dos meses después del fenecimiento de su cargo.
+##### ARTÍCULO 246. 
+- Los alimentos que se deben, segun los artículos anteriores, se presentarán en el órden siguiente;
+  1. Por el padre;
+  2. Por la madre;
+  3. Por los ascendientes paternos;
+  4. Por los ascendientes maternos;
+  5. Por los descendientes, según el órden en que están llamados á suceder.
 
-##### ARTÍCULO 353. El guardador tiene derecho á que se le abone cuanto hubiese gastado justa y
-legalmente en beneficio del menor, y á que se le pague, en recompensa de su trabajo, el seis
-por ciento de los frutos consumidos, y el ocho por ciento de los capitalizados,
+##### ARTÍCULO 247. 
+- Entre los ascendientes y descendientes legítimos, la obligación de darse alimentos pasa, por causa de pobreza del que debe prestarlos, al que le sigue en el órden establecido en el artículo anterior.
 
-##### ARTÍCULO 354. Es prohibido á los guardadores:
-1. Comprar, por si ó por medio de otro, los bienes del menor, bajo la pena de nulidad, y
-la de perder el precio, que se aplicará á la beneficencia del lugar, esté ó no pagado por el
-comprador;
-2. Adquirir para si cualquier derecho ó acción contra el menor.
+##### ARTÍCULO 248. 
+- En todos los casos, en que los padres no hagan suyos los frutos de los bienes del hijo menor, se aplicará de estos frutos la parte que sea suficiente para los alimentos y educación del hijo. Si no bastaren, quedan los padres obligados á satisfacer la parte que falte.
 
-##### ARTÍCULO 355. El cargo de guardador fenece:
-1. Por casarse el menor, ó por haber llegado a los veintiún años de edad;
-2. Por emancipación del menor;
-3. Por muerte del guardador ó del menor;
-4. Por destierro del guardador.
-5. Por cumplirse el tiempo, ó faltar la condición bajo la que se hizo el nombramiento;
-6. Por haber terminado el objeto para que fue nombrado;
-7. Por admisión de su renuncia;
-8. Por remoción.
+##### ARTÍCULO 249. 
+- Es extensiva la disposición del artículo anterior á los casos en que según este código, aprovecha el hijo de su trabajo ó industria, ó del sueldo de servicios civiles, militares ó eclesiásticos.
 
-##### ARTÍCULO 356. Cuando el menor fuere adoptado, cesará el cargo de guardador en cuanto a la
-persona del menor, y seguirá en cuanto á la administración de los bienes que tenia. Solo se
-exceptúan de esta administración especial, los bienes que hayan provenido del adoptante.
+##### ARTÍCULO 250.
+- La aplicación de frutos para alimentos y la obligación de completarlos, de que hablan los artículos 248 y 249, comprende á los abuelos y demás ascendientes, cuando les llega su vez de alimentar á sus nietos o descendientes.
 
-##### ARTÍCULO 357. Todo contrato que se celebre entre el guardador y el menor aun después de
-concluido el cargo, será nulo; á no ser que haya precedido la rendición y aprobación de
-cuentas, y la entrega de todos los papeles pertenecientes al menor.
+##### ARTÍCULO 251.
+- La obligación que tienen los padres de alimentar á su hijo natural reconocido, solo pasa á los abuelos después que han muerto los padres. La obligación que tiene el hijo natural de alimentar á sus padres, no pasa a los nietos si no después que haya fallecido dicho hijo.
+- En todo caso en que viviere la persona inmediatamente responsable á dar alimentos, no pasara, por ningún motivo, esta obligación á los abuelos ni á los nietos, cuando, entre el que pida y la persona á quien se demande alimentos, haya intermedia alguna generación natural reconocida.
 
-##### ARTÍCULO 358. Los guardadores de personas incapaces tienen los mismos derechos y
-obligaciones, y la misma responsabilidad que los guardadores de menores.
+##### ARTÍCULO 252.
+- Rige también la disposición del anterior artículo, en la línea materna de un hijo ilegítimo.
 
-##### ARTÍCULO 359. Los guardadores que, sin tener á su cargo la persona del menor, lo son del
-todo ó de parte de sus bienes, tienen con respecto á estos, los mismos derechos, obligaciones
-y responsabilidades que este código prescribe para los guardadores.
+##### ARTÍCULO 253.
 
-##### ARTÍCULO 360. Las personas que, sin ser guardadores, se encargan de los negocios de un
-menor, con el objeto de serle útiles son responsables como los guardadores mismos.
+- La obligación reciproca de alimentarse que tiene un padre y su hijo ilegitimo, que no es natural reconocido, no se extiende á los ascendientes y descendientes de la línea paterna.
+
+##### ARTÍCULO 254.
+- En la línea materna de un hijo adulterino por parte de madre, no se extiende tampoco la obligación reciproca de alimentarse, más allá de la madre y del hijo. La obligación de alimentar al hijo ilegítimo procreado por hombre casado, corresponde á la madre ántes que al padre; y este hijo jamás debe alimentos á su padres.
+
+##### ARTÍCULO 255.
+- El derecho de pedir alimentos no se trasmite en vida ni en muerte, pero si los bienes ya adquiridos por razón de alimentos.
+
+##### ARTÍCULO 256.
+- Los alimentos se regularán por el juez en proporción á la necesidad y circunstancias personales del que los pide, y á la posibilidad del que debe darlos; atendiéndose, no solo á la fortuna de este, sino también á las otras obligaciones á que se halle sujeto.
+
+##### ARTÍCULO 257.
+ - No es necesario investigar rigurosamente, con objeto de alimentos, el valor de los bienes ni el de los ingresos del que debe prestarlos.
+
+##### ARTÍCULO 258.
+- El que está obligado á dar alimentos cumple con entregar la pensión alimenticia, ó con recibir y mantener en su casa á la persona que debe ser alimentada.
+
+##### ARTÍCULO 259.
+ - Corresponde sin embargo al juez decidir sobre el modo de prestar los alimentos, cuando haya graves inconvenientes para la vida común.
+
+##### ARTÍCULO 260.
+ - Durante los tres primeros años de la lactancia del hijo, no tiene el padre la facultad de llevarlo á su casa, para cumplir allí con la obligación de alimentarlo.
+
+##### ARTÍCULO 261.
+ - Si empeora de estado el que da los alimentos, ó mejora el que se recibe, tiene el primero derecho para pedir que se exima de la obligación, o que se reduzca a menor cantidad, según las circunstancias.
+
+##### ARTÍCULO 262.
+ - Las causas para la desheredación, lo son también para negar los alimentos.
+
+##### ARTÍCULO 263
+- Los descendientes ilegítimos no pueden tampoco exigir alimentos: 
+  1. Cuando han cumplido veintiún años de edad, á no ser que se hallen habitualmente enfermos;
+  2. Cuando se les ha asegurado la subsistencia hasta la misma edad;
+  3. Cuando se les ha enseñado alguna profesión, arte ú oficio con que puedan subsistir.
+
+#### TÍTULO IV. DE LA LEGITIMACIÓN
+
+##### ARTÍCULO 264.
+- El matrimonio entre el padre y la madre de un hijo natural, es el único medio de legitimar á este.
+
+##### ARTÍCULO 265.
+- El hijo legitimado tiene los mismos derechos civiles que los legítimos.
+
+##### ARTÍCULO 266.
+- Solo los hijos naturales pueden ser legitimados.
+
+##### ARTÍCULO 267.
+- Los legitimados se reputan legítimos, desde la celebración del matrimonio en que se verifica su legitimación.
+
+##### ARTÍCULO 268.
+- Los descendientes de un hijo natural, que murió antes de celebrado el matrimonio de sus padres, se reputan descendientes de un hijo legitimado.
+
+#### TÍTULO V. DE LA ADOPCIÓN
+
+##### ARTÍCULO 269.
+- Adopción ó prohijamiento es el acto de tomar por hijo al que no lo es del adoptante.
+
+##### ARTÍCULO 270.
+- La filiación del adoptado no servirá jamás de causa para impugnar la adopción.
+
+##### ARTÍCULO 271.
+- Para que una persona pueda adoptar se requiere:
+  1. Que sea mayor de cincuenta años;
+  2. Que no esté ligada con voto solemne de castidad;
+  3. Que sea mayor que el adoptante, cuando menos en quince años;
+  4. Que no tenga hijos legítimos, ni naturales reconocidos ni otros descendientes con derecho de herencia;
+  5. Que, cuando el adoptante es casado, concurra, al consentimiento de su cónyuge, á no ser que se hallen legalmente separados.
+  6. Que consientan los padres del adoptado, si este se halla bajo la patria potestad;
+  7. Que se oiga al guardador del adoptado, si este es menor de diez y ocho años y no tiene padres;
+  8. Que el adoptado, si es mayor de catorce años, preste su consentimiento.
+
+##### ARTÍCULO 272. 
+- El guardador no puede adoptar á su menor, sino después de haber cumplido este veintiún años de edad y de hallarse aprobadas las cuentas.
+
+##### ARTÍCULO 273.
+- Ninguno puede ser adoptado por más de una persona á no ser por dos cónyujes.
+
+##### ARTÍCULO 274.
+- Por el mero consentimiento que preste un cónyuge para la adopción que haga el otro, no se constituye adoptante.
+
+##### ARTÍCULO 275.
+- La adopción confiere al adoptado el apellido del adoptante, añadido después del de su padre.
+
+##### ARTÍCULO 276.
+- Cesan los efectos de la adopción, si el adoptante llega á tener hijos legítimos, o á reconocer sus hijos naturales.
+
+##### ARTÍCULO 278.
+- El adoptado y su familia natural conservan sus derechos de sucesión reciproca.
+
+##### ARTÍCULO 279.
+- Cuando el adoptante muere sin descendencia legitima, vuelven al adoptante que le sobreviva los bienes existentes que de este hubiese recibido. Los demás bienes y derechos del adoptado se sujetarán á las leyes comunes de sucesión.
+
+##### ARTÍCULO 280.
+- El adoptado no tiene derecho á los bienes de los parientes del adoptante.
+
+##### ARTÍCULO 281.
+- Se devolverá á la familia del adoptante premuerto, la herencia que de él hubiese adquirido el adoptado, si este fallece sin hijos legítimos, ni otros herederos forzosos de la línea descendente.
+
+##### ARTÍCULO 282.
+- Los hijos del adoptado, que falleció antes que el adoptante, no son herederos de este.
+
+##### ARTÍCULO 283.
+- El hijo adoptivo, que está en menor edad á la muerte del adoptante, vuelve al poder de sus padres naturales.
+
+#### TÍTULO VI. DE LA PATRIA POTESTAD
+
+##### ARTÍCULO 284.
+- Patria potestad es la autoridad que las leyes reconocen en los padres sobre persona y bienes de sus hijos.
+
+##### ARTÍCULO 285.
+- Los hijos legítimos, legitimados, naturales reconocidos y adoptivos están sujetos á la autoridad del padre, y en su defecto á la de la madre.
+
+##### ARTÍCULO 286.
+- La patria potestad que corresponde á la madre se extiende sobre todos sus hijos ilegítimos.
+
+##### ARTÍCULO 287.
+- Son derechos de la patria potestad:
+  1. Sujetar corregir y castigar moderadamente á los hijos;
+  2. Aprovechar de su servicio;
+  3. Mantenerlos en su poder y recogerlos del lugar donde estuvieron;
+  4. Exigir el auxilio de cualquier autoridad para recogerlos;
+  5. Administrar los bienes de los hijos.
+  6. Hacer suyos los frutos de los bienes de sus hijos menores, mientras dure la patria potestad; sin que se extienda este derecho de usufructo ni á lo que adquiera el hijo por su trabajo, profesión ó industria, ejercidos con consentimiento de sus padres, ni á lo que gane por sus servicios civil, militares ó eclesiásticos.
+
+##### ARTÍCULO 288.
+- La patria potestad se acaba:
+  1. Por muerte de los que ejercen;
+  2. Por exponer el padre al hijo;
+  3. Por matrimonio del hijo;
+  4. Por emancipación;
+  5. Por cumplir el hijo veintiún años de edad.
+
+##### ARTÍCULO 289.
+- Permanecen bajo la patria potestad, aun después de haber cumplido la edad de veintiún años los hijos incapaces por locura ó fatuidad.
+
+##### ARTÍCULO 290.
+- El hijo ó hija mayor, que cae en incapacidad, vuelve á la patria potestad, si no tienen cónyuge.
+
+##### ARTÍCULO 291.
+- Los padres pierden la patria potestad:
+  1. Si prostituyen o tratan de prostituir a la hija;
+  2. Si son crueles con los hijos de uno u otro sexo,
+  3. Si son condenados á penas que produzcan este efecto, conforme al código penal.
+
+##### ARTÍCULO 292.
+- Si el que ejerce la patria potestad dilapida los bienes de los hijos, pierde la administración de los bienes y el derecho á los frutos.
+
+##### ARTÍCULO 293.
+ - La madre, que contrae matrimonio teniendo hijos, pierde la administración y los frutos de los dichos hijos. Sin embargo serán alimentados los hijos en poder de la madre con los frutos que basten, según las circunstancias.
+
+##### ARTÍCULO 294.
+- El juez puede, por causas graves autorizar á los hijos menores para que vivan separados de la madre que hubiere contraído matrimonio, poniéndose bajo el poder de un guardador.
+
+##### ARTÍCULO 295.
+- Los padres, que administren bienes de sus hijos, están sujetos a las mismas obligaciones que el usufructuario.
+
+##### ARTÍCULO 296.
+- En cualquiera de los casos del articulo 291 incisos 1 y 2 y del artículo 292, el consejo de familia, según la gravedad de las circunstancias, requerirá al que ejerce la patria potestad para que se enmiende, ó proveerá de un defensor al hijo para el juicio en que han de justificarse las causas.
+
+##### ARTÍCULO 297.
+- El juez, á solicitud de parte ó de oficio, nombrará defensor para los hijos, y proveerá a su seguridad en caso de que el consejo de familia no cumpla con lo dispuesto en el artículo anterior, ó de que resulte perjuicio de no tomarse inmediatamente las precauciones necesarias.
+
+#### TÍTULO VII. DE LA EMANCIPACIÓN
+
+##### ARTÍCULO 298.
+- Por la emancipación queda el menor eximido de la patria potestad ó de la autoridad del guardador.
+
+##### ARTÍCULO 299.
+- La emancipación hace capaz al menor de ejercer por si mismo los derechos civiles, subsistiendo, no obstante, en su favor, el privilegio legal de la restitución.
+
+##### ARTÍCULO 300.
+- Tienen facultad de emancipar al menor el padre, y en su defecto la madre.
+
+##### ARTÍCULO 301.
+- Los padres nunca pueden ser obligados á emancipar a sus hijos.
+
+##### ARTÍCULO 302.
+- El guardador tiene también la facultad de emancipar á su menor, si el consejo de familia lo hallare conveniente.
+
+##### ARTÍCULO 303.
+ - Cuando el guardador no emancipa al menor, puede el consejo de familia, si cree útil la emancipación, pedirla al juez, quien la concederá ó no, con audiencia del guardador.
+
+##### ARTÍCULO 304.
+- Para la emancipación es indispensable que el menor haya cumplido diez y ocho años, y que preste su consentimiento.
+
+##### ARTÍCULO 305.
+- No se emancipa el hijo, sino que pasa al poder de un guardador, cuando los padres pierden la patria potestad conforme al artículo 291.
+
+### SECCION V. DE LOS GUARDADORES Y DE SUS ESCUSAS, REMOCIÓN, RESPONSABILIDAD, FIANZAS Y CUENTAS.
+
+#### TITULO I. DE LOS GUARDADORES
+
+##### ARTÍCULO 306.
+- Al menor y al mayor incapaz, que no estén bajo la patria potestad, se les nombrará guardador, que cuide de su persona y administre sus bienes.
+
+##### ARTÍCULO 307.
+- El padre tiene facultad para nombrar guardadores en su testamento:
+  1. Para sus hijos legítimos que no tengan madre;
+  2. Para sus hijos naturales reconocido, que no tengan madre ó que no estén en poder de ella.
+
+##### ARTÍCULO 308.
+- Tienen también facultad de nombrar guardadores en testamento:
+  1. La madre, para los hijos que se hallen bajo su patria potestad;
+  2. Los abuelos paternos, y á su falta los maternos para sus nietos, que no tengan padres, ni guardadores nombrados por éstos;
+  3. Cualquier otro testador, para el que instituya heredero, bien sea éste su hijo ilegítimo o persona extraña.
+
+##### ARTÍCULO 309.
+- El guardador nombrado conforme al inciso 3º del artículo precedente, solo se encargará de la administración de los bienes que constituyen la herencia del que le confirió el cargo.
+
+##### ARTÍCULO 310.
+- Los guardadores comprendidos en el artículo anterior, se encargarán también de la persona del heredero, cuando éste no se halle bajo de patria potestad, ni en poder de guardador nombrado por ascendientes, ni a cargo de guardadores legítimos, ni de otro distinto guardador que administre bienes de igual ó mayor valor que la nueva herencia.
+
+##### ARTÍCULO 311.
+- El guardador nombrado por los padres del hijo adoptado por otro, se encargará de los bienes del menor procedentes de su familia natural, quedando la persona al cuidado del adoptante.
+
+##### ARTÍCULO 312.
+- El adoptante puede nombrar guardador para los bienes que deje á su hijo adoptivo. Este guardador administrará todos los bienes del menor que procedan de la familia del adoptante, perteneciendo la guarda de la persona á los padres del adoptado.
+
+##### ARTÍCULO 313.
+- El último que sobreviva de los padres naturales ó adoptivos, tiene facultad de nombrar guardadores para la persona del hijo menor, y para la administración de todos los bienes que no se hallen bajo de de un guardador especial.
+
+##### ARTÍCULO 314.
+- A falta de guardadores nombrados en testamento, desempeñaran este cargo los abuelos y demás ascendientes de una y otra línea, prefiriéndose:
+  1. el más próximo, más remoto;
+  2. Los de línea paterna á los de materna, cuando estén en igual grado y;
+  3. El varón á la hembra, en igualdad de grado de línea.
+
+##### ARTÍCULO 315.
+- Si la abuela estuviera casada cuando debe ser guardadora del nieto, ó si se casare estando en el ejercicio del cargo, solo cuidará de la persona del menor; pero no tendrá la administración de los bienes, á no ser que lo determine el consejo de familia, quedando entónces solidariamente responsables la abuela y su marido.
+
+##### ARTÍCULO 316.
+- Cuando la abuela casada fuere nombrada en testamento guardadora de su nieto, no será necesario el acuerdo del consejo de familia, y bastará el consentimiento del marido, para que ella administre los bienes del menor.
+
+##### ARTÍCULO 317.
+- En los casos en que no deban administrar los bienes del menor la madre ni la abuela, sin embargo de tenerlo en su poder, se encargara la administración:
+  1. Á la persona que hubiere expedita para ser guardador legítimo;
+  2. A la que, en defecto de guardador legítimo, se nombrara con el carácter de guardador especial para los bienes.
+
+##### ARTÍCULO 318.
+- Si no hay guardador testamentario, ni legitimo, el consejo de familia procederá al nombramiento de dativo.
+
+##### ARTÍCULO 319.
+- Los expósitos en las casas de huérfanos y otros hospicios, cualquiera que sea su denominación, están bajo la guarda de sus respectivos superiores, conforme a los reglamentos especiales.
+
+##### ARTÍCULO 320.
+- Los expósitos en las casas particulares, están bajo la guarda de las personas que los amparan.
+
+##### ARTÍCULO 321.
+- La ley legitima á los expósitos para todos los efectos civiles; pero, reconocidos sus padres quedan, respecto de su familia, en la condición que naturalmente les correspondería si no hubieran sido expuestos, conservando en lo demás su legitimación. 
+
+##### ARTÍCULO 322.
+- El marido es guardador legítimo de su mujer incapaz, y esta lo es de aquel en igual caso.
+
+##### ARTÍCULO 323.
+- A falta de cónyuge del mayor incapaz, guardaran a éste: 
+  1. sus padres, conforme al artículo 209; 
+  2. Sus hijos mayores, prefiriéndose entre varios al que sea designado por el consejo de familia, y en su defecto por el juez del lugar.
+
+##### ARTÍCULO 324.
+ - Para los hijos menores de una persona incapaz se nombrará guardador, cuando no tenga madre ni otros ascendientes.
+
+##### ARTÍCULO 325.
+ - El guardador de un mayor incapaz, no siendo su cónyuge, su ascendiente ó descendiente, será revelado del cargo, si lo renunciare después de cinco años.
+
+##### ARTÍCULO 326.
+ - El cargo de guardador no se trasmite á los herederos.
+
+##### ARTÍCULO 327.
+ - Pueden nombrarse dos ó más guardadores para la persona de un menor; pero no será desempeñado el cargo sino por uno á falta de otro, en el órden de su nombramiento.
+
+##### ARTÍCULO 328.
+ - Los guardadores especialmente nombrados para determinados bienes, se encargarán de la administración de estos en el tiempo y forma señalados por el testador.
+
+##### ARTÍCULO 329.
+ - Los guardadores legítimos tiene obligación de pedir el discernimiento del cargo. Si no lo hicieren, el juez lo ordenará de oficio, ó á petición, sea de los parientes, ó del que ejerce el ministerio fiscal o de cualquiera del pueblo.
+
+##### ARTÍCULO 330.
+ - Las personas comprendidas en la segunda parte del artículo anterior, tienen derecho de pedir la reunión del consejo de familia, para el nombramiento de guardadores dativos.
+
+##### ARTÍCULO 331.
+- No pueden ser guardadores:
+  1. El menor de veintiún años. Más si fuere nombrado en testamento, ejercerá el cargo cuando llegue á esa edad; y, entre tanto, será guardador provisional el legítimo ó el dativo, según las circunstancias;
+  2. La mujer; excepto las ascendientes del menor;
+  3. El sordo - mudo, el ciego, el loco, el fatuo, el de las malas costumbres, y el pródigo declarado;
+  4. El deudor ó acreedor del menor, ni el fiador del primero; á no ser que el testador los hubiese nombrado sabiendo esta circunstancia;
+  5. El deudor quebrado;
+  6. Los empleados en la administración y recaudación de rentas públicas;
+  7. El militar en actual servicio;
+  8. El enfermo habitual;
+  9. El obispo y el religioso profeso;
+  10. Los que tengan en un pleito interés contrario al del menor;
+  11. Los que hubieren tenido grave enemistad con los padres del menor si no se reconciliaron; o le enseñaron malas costumbres o malversaron su hacienda, o incurrieron en alguna de las causas que producen la destitución de los guardadores
+  12. Los condenados á pena infame;
+  13. Los que, al desempeñar el cargo de guardador de otro menor, le enseñaron malas costumbres; ó malversaron su hacienda, ó incurrieron en alguna de las causas que producen la destitución de los guardadores;
+  14. Los que, por su culpa, perdieron la patria potestad;
+  15. Los que hayan sido condenados por mala administración de bienes ajenos;
+
+##### ARTÍCULO 332.
+- Las causas 4, 6, 7, 10, y 11 del artículo anterior, no impiden que sean guardadores los ascendientes ó descendientes del menor.
+
+#### TÍTULO II. DE LAS ESCUSAS DE LOS GUARDADORES.
+
+##### ARTÍCULO 333.
+- Pueden excusarse del cargo de guardador;
+  1. Los que tengan cinco hijos bajo su patria potestad, contándose en este número los que hayan muerto militando en defensa de la República, y los nietos menores que estén bajo su poder, procedentes de otros hijos que hayan fallecido;
+  2. El que, por servicio de la República, se halla ausente del domicilio del menor;
+  3. El juez ó magistrado en actual ejercicio.
+  4.- El que es guardador de otro menor;
+  5. El que es pobre de solemnidad, según el código de enjuiciamientos;
+  6. El que no sabe leer ni escribir;
+  7. El mayor de sesenta años;
+  8. El que, por razón de su giro, no tiene residencia fija;
+  9. El que tiene que demandar al menor, ó es su deudor;
+  10. El que haya tenido pleito con el menor ó con los padres de este;
+  11. El que haya desempeñado tres veces el cargo de guardador.
+
+##### ARTÍCULO 334.
+ - La madre casada puede, por falta de consentimiento del marido, escusarse de administrar los bienes del menor.
+
+##### ARTÍCULO 335.
+ - Puede la abuela casada excusarse no solo de la administración de bienes, sino del cuidado de la persona del menor, fundada en la negativa del marido.
+
+##### ARTÍCULO 336.
+ - Ninguna otra excusa es admisible para eximirse del cargo de guardador.
+
+##### ARTÍCULO 337.
+ - Si el guardador nombrado no propone sus escusas dentro de los términos señalados en el código de enjuiciamientos, se tendrá por aceptado el cargo.
+
+##### ARTÍCULO 338.
+ - El guardador renunciará inmediatamente el cargo, si le sobreviene alguna de las causas que habrían impedido su nombramiento.
+
+#### TÍTULO III. DE LA REMOCIÓN DE LOS GUARDADORES.
+
+##### ARTÍCULO 339.
+- Se removerá del cargo de guardador:
+  1. Al que no hizo inventario de los bienes del menor;
+  2. Al que falsamente afirmó ante el juez, que no tenia con que alimentar al menor;
+  3. Al que no lo defendió en juicio ó fuera de él;
+  4. Al que no vendió ó empeñó los bienes del menor, sin los requisitos prevenidos en este código y en el de enjuiciamientos;
+  5. Al que de cualquier otro modo causo daños y perjuicios al menor en su persona, educación ó intereses.
+  6. Al que de rico viene á pobre.
+  7. Al que respecto del menor ha incurrido en cualquiera de las causas del artículo 291.
+
+##### ARTÍCULO 340. 
+- Cualquiera de los impedimentos expresados en el artículo 331, es también causa para remover á los guardadores, cuando ha sobrevenido ó se ha descubierto después de admitido el cargo, si no se hizo la renuncia prescrita en el artículo 338.
+
+##### ARTÍCULO 341. 
+- Están obligados á pedir la remoción del guardador: 
+  1. los parientes del menor hasta el 4º, pudiendo hacerlo cualquiera de ellos, dos ó más reunidos; 
+  2. los que desempeñan el ministerio fiscal; 
+  3. los síndicos procuradores.
+
+##### ARTÍCULO 342. 
+- El menor que ha cumplido la edad de catorce años puede pedir la remoción de su guardador.
+
+##### ARTÍCULO 343.
+ - Cualquiera del pueblo, puede denunciar ó acusar al guardador por causas que den lugar á su remoción.
+
+##### ARTÍCULO 344.
+- Si no hay quien haga la acusación ó denuncia, y el juez del domicilio tiene conocimiento de algún perjuicio que el guardador cause al menor, convocará de oficio al consejo de familia, para que proceda, según las circunstancias, á usar de sus facultades en beneficio al menor.
+
+##### ARTÍCULO 345.
+- Contestada por el guardador testamentario ó legitimo la demanda de su remoción, se encargará del menor y de sus bienes, durante el pleito, un guardador legitimo si lo hubiere, y á su falta uno dativo.
+
+#### TÍTULO IV. DE LAS OBLIGACIONES, FIANZAS Y CUENTAS DE LOS GUARDADORES
+
+##### ARTÍCULO 34.
+- Todos los guardadores, sin excepción alguna, están obligados:
+  1. A jurar ante el juez que discierna el cargo, y presente el escribano que autorice el acto, que guardarán bien y fielmente la persona y bienes del menor;
+  2. A declarar, en el acto del discernimiento, si son acreedores del menor, el cual es el valor del crédito, so pena de perderlo;
+  3. A garantizar con fianza saneada, la responsabilidad de su administración; excepto los abuelos, á quienes exime esta ley, y los guardadores testamentarios cuando los haya eximido el testador.
+  4. A hacer inventario solemne conforme á lo prescrito en el código de enjuiciamientos;
+  5. A proteger y defender en juicio y fuera de él la persona del menor.
+  6. A cuidar de la conservación, educación y subsistencia de menor, destinándolo a la ciencia, industria ó arte que sean análogos a su condición personal.
+  7. A administrar los bienes del menor, como lo haría un diligente padre de familia.
+  8. A capitalizar, después de cubiertos los gastos naturales, el sobrante de frutos, para que produzca nueva renta de beneficio del menor;
+  9. A no enajenar no obligar los bienes raíces ni los muebles preciosos, sin licencia judicial, concedida por necesidad o utilidad probadas, y con audiencia del consejo de familia; la enajenación no se verificará sino en pública subasta;
+  10. A guardar y cumplir, en los contratos que celebre por el menor, los requisitos y solemnidades prescritos en este código y en el de enjuiciamiento;
+  11. A demandar y defender judicialmente los intereses del menor,
+  12. A instruir anualmente al consejo de familia, del estado en que se hallen los intereses del menor, y á dar cuanta formal de la administración, luego que haya fenecido el cargo.
+
+##### ARTÍCULO 347.
+- Los guardadores de una parte de los bienes deben dar de los frutos, lo que se necesite para completar los alimentos del menor.
+##### ARTÍCULO 348.
+
+- El juez, con audiencia del consejo de familia y de la persona bajo cuyo poder se halle el menor, regulará la parte de alimentos que ha de prestarse conforme al artículo anterior.
+
+##### ARTÍCULO 349.
+- Todo guardador es responsable del daño que cause al menor por dolo, ó por culpa lata ó leve.
+
+##### ARTÍCULO 350.
+- Los bienes de los guardadores están legalmente hipotecados, para responder de su administración, á favor de sus menores.
+
+##### ARTÍCULO 351.
+- Quedan obligados los bienes de los fiadores del guardador hasta que se aprueben las cuentas de su administración y esté satisfecho el cargo que resulte contra él.
+
+##### ARTÍCULO 352.
+- El guardador pagará no solo el alcance, que adeude, según la liquidación final de sus cuentas si no también los intereses de ese alcance, a razón del seis por ciento anual, devengados desde dos meses después del fenecimiento de su cargo.
+
+##### ARTÍCULO 353.
+- El guardador tiene derecho á que se le abone cuanto hubiese gastado justa y legalmente en beneficio del menor, y á que se le pague, en recompensa de su trabajo, el seis por ciento de los frutos consumidos, y el ocho por ciento de los capitalizados, 
+##### ARTÍCULO 354.
+- Es prohibido á los guardadores:
+  1. Comprar, por si ó por medio de otro, los bienes del menor, bajo la pena de nulidad, y la de perder el precio, que se aplicará á la beneficencia del lugar, esté ó no pagado por el comprador;
+  2. Adquirir para si cualquier derecho ó acción contra el menor.
+
+##### ARTÍCULO 35
+- El cargo de guardador fenece:
+  1. Por casarse el menor, ó por haber llegado a los veintiún años de edad;
+  2. Por emancipación del menor;
+  3. Por muerte del guardador ó del menor;
+  4. Por destierro del guardador.
+  5. Por cumplirse el tiempo, ó faltar la condición bajo la que se hizo el nombramiento;
+  6. Por haber terminado el objeto para que fue nombrado;
+  7. Por admisión de su renuncia;
+  8. Por remoción.
+
+##### ARTÍCULO 356.
+- Cuando el menor fuere adoptado, cesará el cargo de guardador en cuanto a la persona del menor, y seguirá en cuanto á la administración de los bienes que tenia. Solo se exceptúan de esta administración especial, los bienes que hayan provenido del adoptante. 
+##### ARTÍCULO 357.
+- Todo contrato que se celebre entre el guardador y el menor aun después de concluido el cargo, será nulo; á no ser que haya precedido la rendición y aprobación de cuentas, y la entrega de todos los papeles pertenecientes al menor.
+
+##### ARTÍCULO 358.
+- Los guardadores de personas incapaces tienen los mismos derechos y obligaciones, y la misma responsabilidad que los guardadores de menores.
+
+##### ARTÍCULO 359.
+- Los guardadores que, sin tener á su cargo la persona del menor, lo son del todo ó de parte de sus bienes, tienen con respecto á estos, los mismos derechos, obligaciones y responsabilidades que este código prescribe para los guardadores.
+
+##### ARTÍCULO 360.
+ - Las personas que, sin ser guardadores, se encargan de los negocios de un menor, con el objeto de serle útiles son responsables como los guardadores mismos.
 
 TÍTULO V. DEL CONSEJO DE FAMILIA
 
-##### ARTÍCULO 361. Habrá un consejo de familia para vigilar sobre la persona é intereses del
-menor que no tenga padre ni madre.
+##### ARTÍCULO 361.
+- Habrá un consejo de familia para vigilar sobre la persona é intereses del menor que no tenga padre ni madre.
 
-##### ARTÍCULO 362. Aunque viva el padre ó la madre, habrá consejo de familia en los casos
-señalados por el artículo 397.
+##### ARTÍCULO 362.
+- Aunque viva el padre ó la madre, habrá consejo de familia en los casos señalados por el artículo 397.
 
-##### ARTÍCULO 363. El consejo de familia se compondrá de los abuelos y abuelas, hermanos y
-hermanas, y de los tíos y tías del menor.
+##### ARTÍCULO 363.
+- El consejo de familia se compondrá de los abuelos y abuelas, hermanos y hermanas, y de los tíos y tías del menor.
 
-##### ARTÍCULO 364. Cuando entre las personas hábiles para formar consejo de familia, haya más
-medios hermanos que hermanas carnales, solo asistirá de aquellos igual número al de estos,
-incluyéndose á los de menos edad.
+##### ARTÍCULO 364.
+- Cuando entre las personas hábiles para formar consejo de familia, haya más medios hermanos que hermanas carnales, solo asistirá de aquellos igual número al de estos, incluyéndose á los de menos edad.
 
-##### ARTÍCULO 365. Pertenecen también al consejo de familia el marido de la abuela, el de la
-hermana y el de la tía, los cuales ejercerán el cargo en defecto de sus mujeres respectivas.
+##### ARTÍCULO 365.
+- Pertenecen también al consejo de familia el marido de la abuela, el de la hermana y el de la tía, los cuales ejercerán el cargo en defecto de sus mujeres respectivas.
 
-##### ARTÍCULO 366. Muerta la mujer, cuyo marido está llamado por el artículo anterior, deja este de
+##### ARTÍCULO 366.
+- Muerta la mujer, cuyo marido está llamado por el artículo anterior, deja este de
 ser miembro del consejo de familia.
 
-##### ARTÍCULO 367. Si no hubiese en el lugar en que debe formarse el consejo de familia, ni dentro
-de veinte leguas, al menos cuatro parientes, de los que son miembros natos, según los
-artículos 363 y 365; el juez de paz del mismo distrito completará los que falten hasta llenar el
-número de cuatro; llamando en primer lugar á los demás parientes consanguíneos, entre los
-cuales tiene preferencia el más próximo sobre el más remoto y el de mayor representación
-cuando sean iguales en grado; y en defecto de parientes, á los vecinos notables amigos de la
-familia del menor.
+##### ARTÍCULO 367.
+- Si no hubiese en el lugar en que debe formarse el consejo de familia, ni dentro de veinte leguas, al menos cuatro parientes, de los que son miembros natos, según los artículos 363 y 365; el juez de paz del mismo distrito completará los que falten hasta llenar el número de cuatro; llamando en primer lugar á los demás parientes consanguíneos, entre los cuales tiene preferencia el más próximo sobre el más remoto y el de mayor representación cuando sean iguales en grado; y en defecto de parientes, á los vecinos notables amigos de la familia del menor.
 
-##### ARTÍCULO 368. Es inexcusable el cargo de miembro del consejo de familia. Pueden
-renunciarlo los medios hermanos del menor; sin que por esto tengan la facultad de eximirse
-cuando sean nombrados sus guardadores.
+##### ARTÍCULO 368.
+- Es inexcusable el cargo de miembro del consejo de familia. Pueden renunciarlo los medios hermanos del menor; sin que por esto tengan la facultad de eximirse cuando sean nombrados sus guardadores.
 
-##### ARTÍCULO 369. Para ser miembro del consejo de familia requiere, sin excepción de personas:
-1. Ser mayor de edad;
-2. No ser guardador del menor;
-3. No estar impedido para ser su guardador por alguna de las causas señaladas en el artículo 331, exceptuándose, en cuanto á los ascendientes y descendientes, las causas 2. 4. 6.7. 10. y 11; y en cuanto á los demás miembros, la 6 y 7;
-4. Ser vecino del pueblo en que se halla establecido la familia del menor, o residir dentro de las veinte leguas.
+##### ARTÍCULO 369.
+- Para ser miembro del consejo de familia requiere, sin excepción de personas:
+  1. Ser mayor de edad;
+  2. No ser guardador del menor;
+  3. No estar impedido para ser su guardador por alguna de las causas señaladas en el artículo 331, exceptuándose, en cuanto á los ascendientes y descendientes, las causas 2. 4. 6.7. 10. y 11; y en cuanto á los demás miembros, la 6 y 7;
+  4. Ser vecino del pueblo en que se halla establecido la familia del menor, o residir dentro de las veinte leguas.
 
-##### ARTÍCULO 370. Los parientes llamados por los artículos 363 y 365, como miembros natos del
-consejo de familia, que se hallen dentro de la república, aunque residan á más de veinte leguas
-del lugar en que se forme el consejo, tienen el derecho de nombrar apoderado que concurra
-por ellos, o el de asistir cuando se hallen presente.
+##### ARTÍCULO 370. 
+- Los parientes llamados por los artículos 363 y 365, como miembros natos del consejo de familia, que se hallen dentro de la república, aunque residan á más de veinte leguas del lugar en que se forme el consejo, tienen el derecho de nombrar apoderado que concurra por ellos, o el de asistir cuando se hallen presente.
 
-##### ARTÍCULO 371. Designados los miembros del consejo de familia, el juez de paz publicará sus
-nombres, por medio de periódicos donde los hubiere, ó de cuatro carteles fijados en las puertas
-de la iglesia parroquial y en otros sitios públicos, sin excluir los que sean de costumbre.
+##### ARTÍCULO 371.
+- Designados los miembros del consejo de familia, el juez de paz publicará sus nombres, por medio de periódicos donde los hubiere, ó de cuatro carteles fijados en las puertas de la iglesia parroquial y en otros sitios públicos, sin excluir los que sean de costumbre.
 
-##### ARTÍCULO 372. El consejo de familia no empezará á ejercer su cargo, sino pasados diez días
-desde la publicación ordenada en el artículo anterior.
+##### ARTÍCULO 372.
+- El consejo de familia no empezará á ejercer su cargo, sino pasados diez días desde la publicación ordenada en el artículo anterior.
 
-##### ARTÍCULO 373. Los miembros natos del consejo de familia, aunque no estén incluidos en la
-lista publicada, tienen derecho a asistir a el, manifestando al juez de paz de grado de su
-parentesco con el menor.
+##### ARTÍCULO 373.
+- Los miembros natos del consejo de familia, aunque no estén incluidos en la lista publicada, tienen derecho a asistir a el, manifestando al juez de paz de grado de su parentesco con el menor.
 
-##### ARTÍCULO 374. Los parientes llamados por el artículo 367 que no hubiesen sido considerados
-en la lista publicada, tiene asimismo el derecho de pertenecer al consejo de familia, con
-exclusión, primero de los vecinos y después, de los parientes más remotos.
+##### ARTÍCULO 374.
+- Los parientes llamados por el artículo 367 que no hubiesen sido considerados en la lista publicada, tiene asimismo el derecho de pertenecer al consejo de familia, con exclusión, primero de los vecinos y después, de los parientes más remotos.
 
-##### ARTÍCULO 375. Si se disputare el parentesco de los miembros comprendidos en los artículos
-373 y 374, podrán comprobarlo en juicio verbal ante el mismo juez de paz, conforme al código
-de enjuiciamientos.
+##### ARTÍCULO 375.
+- Si se disputare el parentesco de los miembros comprendidos en los artículos 373 y 374, podrán comprobarlo en juicio verbal ante el mismo juez de paz, conforme al código de enjuiciamientos.
 
-##### ARTÍCULO 376. Los parientes del menor gozaran de los derechos que por este título se les
-concede, en el cualquier tiempo en que se advierta que han sido omitidos ó postergados al
-formarse el consejo de familia.
+##### ARTÍCULO 376.
+- Los parientes del menor gozaran de los derechos que por este título se les concede, en el cualquier tiempo en que se advierta que han sido omitidos ó postergados al formarse el consejo de familia.
 
-##### ARTÍCULO 377. La reclamación que se hiciere algún pariente omitido ó postergado impide,
-mientras no se decida, que el consejo ejerza sus funciones, si aun no las ha principiado.
-La reclamación que se interpusiere después de haber empezado el consejo á ejercer
-sus funciones, no las suspende ni las invalida.
+##### ARTÍCULO 377.
+- La reclamación que se hiciere algún pariente omitido ó postergado impide, mientras no se decida, que el consejo ejerza sus funciones, si aun no las ha principiado. La reclamación que se interpusiere después de haber empezado el consejo á ejercer sus funciones, no las suspende ni las invalida.
 
-##### ARTÍCULO 378. La incorporación de cada miembro nato en el consejo de familia excluye de el,
-primero al vecino, y después al pariente más remoto de los llamados en el Artículo367.
+##### ARTÍCULO 378.
+- La incorporación de cada miembro nato en el consejo de familia excluye de el, primero al vecino, y después al pariente más remoto de los llamados en el Artículo367.
 
-##### ARTÍCULO 379. En el consejo de familia que se forme para un menor que sea hijo legítimo, no
-entrarán más parientes que los legítimos.
+##### ARTÍCULO 379.
+- En el consejo de familia que se forme para un menor que sea hijo legítimo, no entrarán más parientes que los legítimos.
 
-##### ARTÍCULO 380. En el consejo para un menor que sea hijo natural reconocido, entrarán tanto
-los parientes legítimos como los naturales reconocidos. A falta de unos y otros, los parientes
-por parte de la madre.
+##### ARTÍCULO 380.
+- En el consejo para un menor que sea hijo natural reconocido, entrarán tanto los parientes legítimos como los naturales reconocidos. A falta de unos y otros, los parientes por parte de la madre.
 
-##### ARTÍCULO 381. Entre los parientes que deben formar el consejo para un menor que no sea su
-hijo legitimo ni natural reconocido, solo se considerará á los parientes maternos.
+##### ARTÍCULO 381.
+- Entre los parientes que deben formar el consejo para un menor que no sea su hijo legitimo ni natural reconocido, solo se considerará á los parientes maternos.
 
-##### ARTÍCULO 382. El juez de paz, á petición de parte ó de oficio, convocará al consejo de familia,
-citando á todos sus miembros que se hallen en el lugar y dentro de las veinte leguas.
+##### ARTÍCULO 382.
+- El juez de paz, á petición de parte ó de oficio, convocará al consejo de familia, citando á todos sus miembros que se hallen en el lugar y dentro de las veinte leguas.
 
-##### ARTÍCULO 383. Si pasaren ocho días, desde el acontecimiento que se hace necesaria la
-formación ó la convocatoria del consejo de familia, sin que lo pidan los parientes ni el síndico;
-el juez de paz la decretara de oficio ó á pedimento de cualquiera del pueblo. Podrá también
-usar antes de esta atribución, en casos de urgencia.
+##### ARTÍCULO 383.
+- Si pasaren ocho días, desde el acontecimiento que se hace necesaria la formación ó la convocatoria del consejo de familia, sin que lo pidan los parientes ni el síndico; el juez de paz la decretara de oficio ó á pedimento de cualquiera del pueblo. Podrá también usar antes de esta atribución, en casos de urgencia.
 
-##### ARTÍCULO 384. El juez de paz puede de oficio, y debe á petición de parte, citar a los parientes
-que sin estar fuera de la república, se hallen á más de veinte leguas de distancia del lugar del
-consejo, siempre que sean más próximos que los presentes ó de igual grado, fijándoles para
-que comparezcan ó nombren apoderado, los términos que señala el código de enjuiciamientos.
+##### ARTÍCULO 384.
+- El juez de paz puede de oficio, y debe á petición de parte, citar a los parientes que sin estar fuera de la república, se hallen á más de veinte leguas de distancia del lugar del consejo, siempre que sean más próximos que los presentes ó de igual grado, fijándoles para que comparezcan ó nombren apoderado, los términos que señala el código de enjuiciamientos.
 
-##### ARTÍCULO 385. El emplazamiento á los ausentes comprendidos en el artículo anterior, no impide que
-los miembros presentes del consejo de familia, presididos por el juez de paz, acuerden de una
-manera provisional, las medias de urgencia que las circunstancias exijan.
+##### ARTÍCULO 385.
+- El emplazamiento á los ausentes comprendidos en el artículo anterior, no impide que los miembros presentes del consejo de familia, presididos por el juez de paz, acuerden de una manera provisional, las medias de urgencia que las circunstancias exijan.
 
-##### ARTÍCULO 386. Vencido el término, señalado á los ausentes, cualesquiera que sean para que
-asistan al consejo de familia, deliberarán los presentes que formen consejo, sin considerar á
-los que hubiesen venido ni nombrado apoderado.
+##### ARTÍCULO 386.
+- Vencido el término, señalado á los ausentes, cualesquiera que sean para que asistan al consejo de familia, deliberarán los presentes que formen consejo, sin considerar á los que hubiesen venido ni nombrado apoderado.
 
-##### ARTÍCULO 387. Un apoderado especialmente instruido, puede representar al que, por
-ausencia ó enfermedad, no asiste al consejo de familia; pero en ningún caso se reunirán dos
-votos en una misma persona.
+##### ARTÍCULO 387.
+- Un apoderado especialmente instruido, puede representar al que, por ausencia ó enfermedad, no asiste al consejo de familia; pero en ningún caso se reunirán dos votos en una misma persona.
 
-##### ARTÍCULO 388. En cada vez que sin justa causa, conocida ó acreditada, dejare de asistir al
-consejo de familia algún miembro de los presentes en el lugar; le impondrá el juez de paz una
-multa de diez á cincuenta pesos; á no ser que fuere pobre ó indígena para quienes nunca
-excederá de cinco pesos.
+##### ARTÍCULO 388.
+- En cada vez que sin justa causa, conocida ó acreditada, dejare de asistir al consejo de familia algún miembro de los presentes en el lugar; le impondrá el juez de paz una multa de diez á cincuenta pesos; á no ser que fuere pobre ó indígena para quienes nunca excederá de cinco pesos.
 
-##### ARTÍCULO 389. Las multas ordenadas en este título, se aplicaran en beneficio de las casas de
-huérfanos, ó de los hospitales, ó de los establecimientos de instrucción primaria.
+##### ARTÍCULO 389.
+ - Las multas ordenadas en este título, se aplicaran en beneficio de las casas de huérfanos, ó de los hospitales, ó de los establecimientos de instrucción primaria.
 
-##### ARTÍCULO 390. De la imposición de estas multas no se admitirá apelación: las ejecutará la
-autoridad política del distrito, en vista del aviso del juez de paz.
+##### ARTÍCULO 390.
+- De la imposición de estas multas no se admitirá apelación: las ejecutará la autoridad política del distrito, en vista del aviso del juez de paz.
 
-##### ARTÍCULO 391. Si es justa la causa para no asistir que alegare algún miembro del consejo, y
-conviniere aguardarle, podrá el juez de paz diferir la reunión para otro día.
+##### ARTÍCULO 391.
+- Si es justa la causa para no asistir que alegare algún miembro del consejo, y conviniere aguardarle, podrá el juez de paz diferir la reunión para otro día.
 
-##### ARTÍCULO 392. Cuando por causa de muerte, quiebra, impedimento, excusa, ó ausencia sin
-dejar apoderado, no quedaren cuatro miembros hábiles para asistir al consejo de familia, se
-completará este número guardándose las mismas reglas que para su formación.
-Este reemplazo será temporal ó permanente, según las circunstancias.
+##### ARTÍCULO 392.
+- Cuando por causa de muerte, quiebra, impedimento, excusa, ó ausencia sin dejar apoderado, no quedaren cuatro miembros hábiles para asistir al consejo de familia, se completará este número guardándose las mismas reglas que para su formación. Este reemplazo será temporal ó permanente, según las circunstancias.
 
-##### ARTÍCULO 393. El juez de paz preside el consejo de familia en todos sus actos; y decide
-cuando hay empate, ó cuando con su voto resulte mayoría.
+##### ARTÍCULO 393.
+- El juez de paz preside el consejo de familia en todos sus actos; y decide cuando hay empate, ó cuando con su voto resulte mayoría.
 
-##### ARTÍCULO 394. Para que sean validas las resoluciones del consejo de familia, se requiere:
-1. Que sean convocados todos los miembros ó sus apoderados conocidos, que se
-hallen en el lugar y dentro de las veinte leguas;
+##### ARTÍCULO 394.
+- Para que sean validas las resoluciones del consejo de familia, se requiere:
+1. Que sean convocados todos los miembros ó sus apoderados conocidos, que se hallen en el lugar y dentro de las veinte leguas;
 2. Que estén presididos por el juez de paz del distrito;
-3. Que haya conformidad de votos en la mayoría de las personas asistentes, si fueren
-cinco o más; ó que estén conformes tres votos, si solo han concurrido al consejo cinco ó
-cuando menos cuatro, inclusive el juez de paz.
+3. Que haya conformidad de votos en la mayoría de las personas asistentes, si fueren cinco o más; ó que estén conformes tres votos, si solo han concurrido al consejo cinco ó cuando menos cuatro, inclusive el juez de paz.
 
-##### ARTÍCULO 395. Corresponde al consejo de familia:
-1. Nombrar guardadores dativos para la persona y bienes del menor ó solo para estos;
-2. Nombrar guardadores especiales, cuando, sin ser necesaria la separación absoluta
-de los que ejercen el cargo, haya que ventilar ó arreglar alguna cosa ó negocio especial del
-menor, cuyos intereses estén en oposición con los de su guardador;
-3. Nombrar defensores en los casos señalados por este código y el de enjuiciamiento;
-4. Admitir ó no la excusa ó renuncia de los guardadores dativos;
-5. Inspeccionar la administración de los guardadores, para acordar lo conveniente
-sobre todo lo que pueda ser útil ó provechoso al menor;
-6. Remover á su juicio á los guardadores dativos y provocar, por razones fundadas, la
-remoción judicial de los guardadores testamentarios ó legítimos;
-7. Cuidar de que el menor sea bien tratado, asistido y alimentado, y de que reciba una
-educación civil y moral conforme á su clase y circunstancias.
-8. Ejercer las demás atribuciones que se le conceden por este código y el de
-enjuiciamientos.
-##### ARTÍCULO 396. El guardador del menor asistirá al consejo de familia cuantas veces sea
-preciso que informe sobre la administración de que esta encargado. En ningún caso estará
-presente á la deliberación ni á la votación del consejo
-##### ARTÍCULO 397. Sin embargo de que vivos los padres no hay consejo de familia, puede este
-formarse:
-1. Para ejercer las atribuciones del artículo 296, en los casos del abuso de la patria
-potestad;
-2. Para acordar, si conviene por utilidad del menor, que la madre siga con la
-administración de los bienes, á pesar de haber contraído nuevo matrimonio. En caso de
-resolución afirmativa, la madre y su marido serán solidariamente responsables.
-3. Para nombrar los guardadores dativos que, á falta de legítimos, corresponda á la
-persona ó á los intereses del menor, cuyos padres hayan perdido la patria potestad ó la
-administración de los bienes.
-4. Para ejercer sobre los guardadores, de que habla el inciso anterior, y en favor de los
-menores sujetos á ellos, todas las atribuciones que competen en general á los consejos de
-familia.
-##### ARTÍCULO 398. La madre es miembro nato del consejo, cuando se forma por no tener ella la
-administración de los bienes de su hijo legítimo ó ilegitimo.
-##### ARTÍCULO 399. No pueden ser miembros del consejo de familia los hijos de la persona que,
-por abuso de patria potestad, den lugar á su formación para los objetos del artículo 296.
-##### ARTÍCULO 400. Cuando vienen los padres adoptivos y los naturales, ó alguno de aquellos y
-alguno de estos, no hay consejo de familia para el menor adoptado.
-##### ARTÍCULO 401. Cualquiera de los padres naturales del menor adoptado conserva, mientras
-vive, el derecho de proteger judicial ó extrajudicialmente la persona ó los interés del menor,
-contra el abuso que el adoptante haga de la patria potestad.
-##### ARTÍCULO 402. Vivos los adoptantes ó alguno de ellos, solo habrá consejo de familia si no
-existiere ninguno de los padres naturales del adoptado, y ocurriere cualquiera de los casos del
-artículo 397.
-##### ARTÍCULO 403. Muertos los padres adoptivos y los naturales, habrá consejo de familia para el
-menor adoptado que les sobreviva.
-##### ARTÍCULO 404. Los parientes que deban formar el consejo de familia para un hijo adoptivo,
-serán los de su familia natural, y en ningún caso los de la familia del adoptante.
-##### ARTÍCULO 405. Tanto los padres adoptivos como los naturales tienen, respecto de los
-guardadores especiales de algunos bienes del menor, el derecho de vigilar su administración,
-de exigir y examinar sus cuentas, y pedir, si fuere necesario, que se les renueva ó reemplace
-judicialmente.
-##### ARTÍCULO 406. De las liberaciones del consejo se extenderá actas en un libro de familia, que
-se conservará en poder del pariente más próximo. El juez de paz copiara también las mismas
-actas en otro libro de consejos de familia, que él llevará por separado. En uno y otro libro
-firmarán las actas todos los miembros asistentes al consejo; y de ellas se les dará copias que
-pidieren.
-##### ARTÍCULO 407. Para el mayor incapaz que no esté bajo la patria potestad, se formará consejo
-de familia del mismo modo y con las mismas facultades que para los menores.
-##### ARTÍCULO 408. El cónyuge y los hijos del mayor incapaz, que no sean sus guardadores, son
-miembros natos del consejo de familia que se forme para este.
-##### ARTÍCULO 409. El consejo que se establezca para un mayor incapaz, servirá también para sus
-hijos menores, cuando estos no se hallen bajo de patria potestad, ó cuando por abuso de ella,
-sea necesaria la intervención del consejo.
-Se agregarán como miembros natos á este consejo, caso que se ocupe de los
-intereses de los hijos, los parientes de estos designados en los artículos 363 y 365.
-##### ARTÍCULO 410. El que tiene el cargo de guardador legitimo de un menor de edad, y ejerce al
-mismo tiempo la patria potestad sobre el mayor incapaz que es padre ó madre del menor, no
-está sujeto á consejo de familia, sino en los casos que le estarían los padres.
-##### ARTÍCULO 411. Se formará también consejo de familia, siguiendo las reglas establecidas en
-este título, para que ejerza sus atribuciones á favor de los ausentes, conforme á este código y
-al de enjuiciamientos.
-##### ARTÍCULO 412. Por falta, impedimentos ú omisión del juez de paz en todo lo relacionado á las
-atribuciones que le corresponden respecto de los consejos de familia, puede cualquiera de los
-parientes del menor, del mayor incapaz o del ausente, pedir al juez de primera instancia del
-distrito, que él mismo desempeñe estas funciones ó que designe el juez de paz que deba
-hacerlo. El de primera instancia sin otro trámite que el informe del juez de paz, expedido
-##### ARTÍCULO 413. Corresponde también al juez de primera instancia dictar en casos de urgencia,
-por vía de precaución, todas las providencias que favorezcan la persona ó intereses de los
-menores, mayores incapaces ó ausentes, cuando haya retardo en la formación del consejo de
-familia, ú obstáculos que impidan su reunión ó que entorpezcan sus deliberaciones.
-##### ARTÍCULO 414. El consejo se reunirá en la casa del menor, ó de uno de sus parientes, ó de
-cualquiera de los miembros, ó del mismo juez de paz.
-SECCION VI
-DE LOS REGISTROS DEL ESTADO CIVIL
-TITULO I
-DISPOSICIONES GENERALES
-##### ARTÍCULO 415. Los registros, del estado civil tienen por objeto hacer constar el nacimiento, el
-matrimonio y la muerte de las personas.
-##### ARTÍCULO 416. Se extenderán estos registros en tres libros diferentes que contendrán: el
-primero, las actas de nacimiento; el segundo, las de matrimonio; y el tercero, las de muerte.
-##### ARTÍCULO 417. El gobernador de cada distrito llevará estos libros por duplicado, guardando en
-cada uno las mismas solemnidades.
-Los libros serán rubricados en todas sus hojas por los subprefectos, quienes remitirán
-anualmente los seis que corresponderá a cada uno de los gobernadores de su dependencia.
-##### ARTÍCULO 418. Se extenderán las partidas una después de otra, sin dejar blancos, sin
-abreviaturas ni números; expresándose en cada partida el año, día y hora en que se extienda,
-el nombre, sexo, edad, domicilio, profesión de los interesados y testigos, y el hecho que se
-haga constar, sin insertarse nada que le sea extraño.
-##### ARTÍCULO 419. Sentada el acta, se leerá por el gobernador á los interesados ó sus
-representantes y á los testigos; se enmendará los errores si los hubiese; se salvarán al pié del
-acta, y en seguida firmarán todos. El gobernador extenderá gratis las actas.
-##### ARTÍCULO 420. A falta del gobernador, le reemplazara el que haga sus veces en el distrito.
-##### ARTÍCULO 421. Los poderes y demás documentos que deban estar unidos á las actas, se
-firmaran por el gobernador y testigos; y se archivarán junto con los libros.
-##### ARTÍCULO 422. Los testigos deberán ser dos, varones y mayores de veintiún años.
-##### ARTÍCULO 423. Al fin del año se cerraran los libros con asistencia de los síndicos y cuatro
-testigos vecinos del lugar; poniéndose á continuación de la última partida, un resumen de los
-nacimientos, matrimonios y defunciones registrados; y después de firmados por todos, se
-remitirá un ejemplar de cada libro al subprefecto de la provincia, para que se archive en el
-juzgado de primera instancia más antiguo, y quedará el otro archivado en poder del
-gobernador.
-##### ARTÍCULO 424. Los gobernadores, en cada mes, darán al subprefecto razón del número de
-nacimientos, matrimonios y defunciones de su distrito: los subprefectos les la darán al prefecto
-en cada semestre, comprendiendo toda su provincia; y los prefectos la darán en cada año al
-Gobierno, comprendiendo todo su departamento.
-##### ARTÍCULO 425. El gobernador ó juez en cuyo poder se hallen los libros, expedirán gratis y en
-papel común, copia certificada de las partidas inmediatamente que se les pida por cualquier
-interesado.
-##### ARTÍCULO 426. Toda alteración ó falsificación de las partidas; todo asiento hecho fuera de los
-libros, y en general, toda contravención á las disposiciones de este título, da á los interesados
-derecho de reparación por daños, á más de las penas que, por falsificaciones establecen las
-leyes.
-##### ARTÍCULO 427. El depositario de los libros es responsable de las alteraciones que en ellos se
-advierta, salvo que conste habérsele entregado con ellas.
-##### ARTÍCULO 428. Los jueces de primera instancia y los gobernadores, no se harán cargo de sus
-destinos, sin recibir los libros de registro, previo exámen, en presencia de los síndicos y dos
-testigos.
-##### ARTÍCULO 429. El resultado de este exámen se expresará en una acta por triplicado, de la que
-se remitirá un ejemplar a la subprefectura, para que se publique y se de cuenta al prefecto,
-quedando los otros en los archivos correspondientes a los libros.
-##### ARTÍCULO 430. Las partidas formalizadas en territorio extranjero son fidedignas en el Perú, si
-se han llenado las solemnidades requeridas en el país donde se extendieron, o si se han hecho
-observando las disposiciones de este código ante un Agente diplomático o consultar del Perú.
-##### ARTÍCULO 431. Para reparar la omisión de alguna partida en los libros, y para enmendar el
-error cometido en la que se halla extendida, se requiere prueba y decreto judicial.
-Se repara la omisión, poniendo la partida en el lugar correspondiente á la fecha en que
-se extiende, y anotando su referencia al márgen del lugar en que fue omitida; se enmienda el
-error con una anotación marginal de la partida defectuosa; todo sin perjuicio de la
-responsabilidad del culpable.
-TITULO II
-REGISTRO DE NACIDOS
-##### ARTÍCULO 432. Todo padre de familia, en casa del cual se verifique un nacimiento, esta
-obligado, cuando más tarde á los ocho días, á manifestar el nacido al gobernador, delante de
-dos testigos, para que se extienda la partida, y ser exprese en ella el día del nacimiento, el
-nombre del niño y el de sus padres si pudiesen aparecer.
-La partida de nacimiento de un hijo legitimo, será firmado por el padre, ó por otra
-persona á su ruego.
-##### ARTÍCULO 433. A falta del padre de familia, tendrán esta obligación el que lo represente, los
-parientes del niño, ó cualquiera persona que haya asistido al parto.
-##### ARTÍCULO 434. La muerte del niño, antes de ser manifestado, no exime de la obligación de
-poner las actas correspondientes en los libros de nacidos y de defunciones.
-##### ARTÍCULO 435. Los jefes de las casas de expósitos llevaran un libro en que se redacten las
-partidas de los niños que se reciban en el establecimiento; y en ellas se expresará el día y la
-hora de la exposición, y todas las señales particulares que puedan servir para el futuro
-reconocimiento del niño.
-Los mismos jefes remitirán al gobernador del distrito, en el primer dia de cada mes,
-copia fiel de todas las partidas correspondientes al mes anterior, para que se ponga en los
-libros de nacidos una partida general, que firmarán el gobernador y el jefe del establecimiento.
-##### ARTÍCULO 436. La persona en cuya casa se exponga un niño, está obligado á manifestar al
-gobernador, para que extienda en los libros de nacidos una partida circunstanciada como la de
-los expósitos.
-##### ARTÍCULO 437. Si el nacimiento se ha verificado en un viaje de mar, cumplirá la madre con la
-obligación prescripta por el artículo 432, en el lugar á donde se dirija. Si el padre la acompaña
-en el viaje, la obligación es del padre.
-##### ARTÍCULO 438. Cuando el padre reconociere á su hijo natural, se expresará esta circunstancia
-en la partida, y se firmará también por el padre ú otra persona á su ruego.
-##### ARTÍCULO 439. La falta de reconocimiento de hijo natural en el acto de extenderse la partida,
-del registro, no impide á su padre hacerlo después del márgen de la misma partida, ó por otro
-de los medios designados en el artículo 238.
-##### ARTÍCULO 440. Las partidas de este registro son independientes de las que deben extender
-los párrocos para hacer constar el hecho del bautismo.
-TITULO III
-REGISTRO DE MATRIMONIOS
-##### ARTÍCULO 441. Dentro de los ocho días de celebrado un matrimonio, lo manifestarán los
-cónyuges al gobernador del distrito, delante de dos testigos, para que se extienda la partida;
-expresándose el nombre, edad y domicilio de los esposos, la profesión del marido, los nombres
-de sus padres y el hecho del matrimonio.
-##### ARTÍCULO 442. El matrimonio contraído fuera de la República por algún peruano ó peruana,
-será registrado conforme al artículo 159.
-##### ARTÍCULO 443. Para reclamar los derechos civiles anexos al matrimonio, se acompañara el
-certificado de la partida del registro.
-TITULO IV
-REGISTRO DE DEFUNCIÓN
-##### ARTÍCULO 444. El padre de familia, en cuya casa muriere alguna persona, lo participará,
-dentro de veinticuatro horas, al gobernador del distrito, quien se cerciorará del hecho y
-extenderá el acta expresando, en cuanto sea posible, el nombre, sexo, edad estado profesión y
-domicilio del difunto, el nombre de sus padres y el de su cónyuge si hubiese sido casado, todo
-con arreglo á los informes que oiga de los testigos. Los parientes, ó los vecinos, ó las personas
-que conocieron al que ha muerto, servirán de testigos con preferencia.
+##### ARTÍCULO 395.
+- Corresponde al consejo de familia:
+  1. Nombrar guardadores dativos para la persona y bienes del menor ó solo para estos;
+  2. Nombrar guardadores especiales, cuando, sin ser necesaria la separación absoluta de los que ejercen el cargo, haya que ventilar ó arreglar alguna cosa ó negocio especial del menor, cuyos intereses estén en oposición con los de su guardador;
+  3. Nombrar defensores en los casos señalados por este código y el de enjuiciamiento;
+  4. Admitir ó no la excusa ó renuncia de los guardadores dativos;
+  5. Inspeccionar la administración de los guardadores, para acordar lo conveniente sobre todo lo que pueda ser útil ó provechoso al menor;
+  6. Remover á su juicio á los guardadores dativos y provocar, por razones fundadas, la remoción judicial de los guardadores testamentarios ó legítimos;
+  7. Cuidar de que el menor sea bien tratado, asistido y alimentado, y de que reciba una educación civil y moral conforme á su clase y circunstancias.
+  8. Ejercer las demás atribuciones que se le conceden por este código y el de enjuiciamientos.
 
-##### ARTÍCULO 445. 
-- A falta de padre de familia, tienen esta obligación el que lo represente, los parientes del difunto, los que le hayan asistido en su enfermedad, ó los vecinos.
+##### ARTÍCULO 396.
+ - El guardador del menor asistirá al consejo de familia cuantas veces sea preciso que informe sobre la administración de que esta encargado. En ningún caso estará presente á la deliberación ni á la votación del consejo
 
-##### ARTÍCULO 446. 
-- Cualquiera que encuentre un cadáver fuera de habitación ó en una casa que no tenga vecindario, tiene también la obligación prescrita en el artículo 444.
+##### ARTÍCULO 397.
+- Sin embargo de que vivos los padres no hay consejo de familia, puede este formarse:
+  1. Para ejercer las atribuciones del artículo 296, en los casos del abuso de la patria potestad;
+  2. Para acordar, si conviene por utilidad del menor, que la madre siga con la administración de los bienes, á pesar de haber contraído nuevo matrimonio. En caso de resolución afirmativa, la madre y su marido serán solidariamente responsables.
+  3. Para nombrar los guardadores dativos que, á falta de legítimos, corresponda á la persona ó á los intereses del menor, cuyos padres hayan perdido la patria potestad ó la administración de los bienes.
+  4. Para ejercer sobre los guardadores, de que habla el inciso anterior, y en favor de los menores sujetos á ellos, todas las atribuciones que competen en general á los consejos de familia.
 
-##### ARTÍCULO 447. 
-- Extendida y firmada la partida, el gobernador dará inmediatamente una constancia de haberla registrado, y este documento es indispensable para la sepultura del cadáver.
+##### ARTÍCULO 398.
+- La madre es miembro nato del consejo, cuando se forma por no tener ella la administración de los bienes de su hijo legítimo ó ilegitimo.
 
-##### ARTÍCULO 448. 
-- Los administradores de los hospitales llevaran un libro en que registren las partidas de los que mueren en ellos, cumpliendo en lo posible con el artículo 444: firmaran cada partida con el médico del establecimiento, y pasarán mensualmente al gobernador razón nominal de las defunciones, para que extienda una partida general que suscribirá con el administrador. 
+##### ARTÍCULO 399.
+- No pueden ser miembros del consejo de familia los hijos de la persona que, por abuso de patria potestad, den lugar á su formación para los objetos del artículo 296.
 
-##### ARTÍCULO 449. 
-- En los libros de defunciones que lleve el gobernador, no se mencionará circunstancia alguna sobre la causa de la muerte.
+##### ARTÍCULO 400.
+- Cuando vienen los padres adoptivos y los naturales, ó alguno de aquellos y alguno de estos, no hay consejo de familia para el menor adoptado.
 
-##### ARTÍCULO 450. 
-- Los certificados para sepultar los cadáveres de los que han muerto en hospitales, se expedirán por el administrador.
+##### ARTÍCULO 401.
+- Cualquiera de los padres naturales del menor adoptado conserva, mientras vive, el derecho de proteger judicial ó extrajudicialmente la persona ó los interés del menor, contra el abuso que el adoptante haga de la patria potestad.
 
-##### ARTÍCULO 451. 
-- Las investigaciones y reconocimientos que se practiquen, en los casos que fuere necesario, serán independientes de la partida de muerte.
+##### ARTÍCULO 402.
+- Vivos los adoptantes ó alguno de ellos, solo habrá consejo de familia si no existiere ninguno de los padres naturales del adoptado, y ocurriere cualquiera de los casos del artículo 397.
 
-##### ARTÍCULO 452. 
-- Cuando muere alguna persona en convento, cuartel ó cárcel, el prelado, el jefe del cuerpo ó el alcaide, darán cuenta al gobernador para que se extienda la partida correspondiente.
+##### ARTÍCULO 403.
+- Muertos los padres adoptivos y los naturales, habrá consejo de familia para el menor adoptado que les sobreviva.
 
-##### ARTÍCULO 453. 
-- En caso de muerte á bordo, se extenderá por duplicado una acta que firmarán el capitán, el piloto y dos oficiales de mar, y también dos pasajeros si los hubiere. 
+##### ARTÍCULO 404.
+- Los parientes que deban formar el consejo de familia para un hijo adoptivo, serán los de su familia natural, y en ningún caso los de la familia del adoptante.
 
-- El capitán del buque entregará un ejemplar de esta acta al capitán del puerto donde llegue; quien lo dirigirá, por el conducto respectivo, al gobernador del domicilio del difunto, para que extienda la partida en los libros del registro.
+##### ARTÍCULO 405.
+- Tanto los padres adoptivos como los naturales tienen, respecto de los guardadores especiales de algunos bienes del menor, el derecho de vigilar su administración, de exigir y examinar sus cuentas, y pedir, si fuere necesario, que se les renueva ó reemplace judicialmente.
+
+##### ARTÍCULO 406.
+- De las liberaciones del consejo se extenderá actas en un libro de familia, que se conservará en poder del pariente más próximo. El juez de paz copiara también las mismas actas en otro libro de consejos de familia, que él llevará por separado. En uno y otro libro firmarán las actas todos los miembros asistentes al consejo; y de ellas se les dará copias que pidieren.
+
+##### ARTÍCULO 407.
+- Para el mayor incapaz que no esté bajo la patria potestad, se formará consejo de familia del mismo modo y con las mismas facultades que para los menores.
+
+##### ARTÍCULO 408.
+- El cónyuge y los hijos del mayor incapaz, que no sean sus guardadores, son miembros natos del consejo de familia que se forme para este.
+
+##### ARTÍCULO 409.
+- El consejo que se establezca para un mayor incapaz, servirá también para sus hijos menores, cuando estos no se hallen bajo de patria potestad, ó cuando por abuso de ella, sea necesaria la intervención del consejo.
+Se agregarán como miembros natos á este consejo, caso que se ocupe de los intereses de los hijos, los parientes de estos designados en los artículos 363 y 365.
+
+##### ARTÍCULO 410.
+- El que tiene el cargo de guardador legitimo de un menor de edad, y ejerce al mismo tiempo la patria potestad sobre el mayor incapaz que es padre ó madre del menor, no está sujeto á consejo de familia, sino en los casos que le estarían los padres.
+
+##### ARTÍCULO 411.
+- Se formará también consejo de familia, siguiendo las reglas establecidas en este título, para que ejerza sus atribuciones á favor de los ausentes, conforme á este código y al de enjuiciamientos.
+
+##### ARTÍCULO 412.
+- Por falta, impedimentos ú omisión del juez de paz en todo lo relacionado á las atribuciones que le corresponden respecto de los consejos de familia, puede cualquiera de los parientes del menor, del mayor incapaz o del ausente, pedir al juez de primera instancia del distrito, que él mismo desempeñe estas funciones ó que designe el juez de paz que deba hacerlo. El de primera instancia sin otro trámite que el informe del juez de paz, expedido.
+
+##### ARTÍCULO 413.
+- Corresponde también al juez de primera instancia dictar en casos de urgencia, por vía de precaución, todas las providencias que favorezcan la persona ó intereses de los menores, mayores incapaces ó ausentes, cuando haya retardo en la formación del consejo de familia, ú obstáculos que impidan su reunión ó que entorpezcan sus deliberaciones.
+
+##### ARTÍCULO 414.
+ - El consejo se reunirá en la casa del menor, ó de uno de sus parientes, ó de cualquiera de los miembros, ó del mismo juez de paz.
+
+#### SECCION VI. DE LOS REGISTROS DEL ESTADO CIVIL
+#### TITULO I. DISPOSICIONES GENERALES
+
+##### ARTÍCULO 415.
+- Los registros, del estado civil tienen por objeto hacer constar el nacimiento, el matrimonio y la muerte de las personas.
+
+##### ARTÍCULO 416.
+- Se extenderán estos registros en tres libros diferentes que contendrán: el primero, las actas de nacimiento; el segundo, las de matrimonio; y el tercero, las de muerte.
+
+##### ARTÍCULO 417.
+- El gobernador de cada distrito llevará estos libros por duplicado, guardando en cada uno las mismas solemnidades.
+Los libros serán rubricados en todas sus hojas por los subprefectos, quienes remitirán anualmente los seis que corresponderá a cada uno de los gobernadores de su dependencia.
+
+##### ARTÍCULO 418.
+- Se extenderán las partidas una después de otra, sin dejar blancos, sin abreviaturas ni números; expresándose en cada partida el año, día y hora en que se extienda, el nombre, sexo, edad, domicilio, profesión de los interesados y testigos, y el hecho que se haga constar, sin insertarse nada que le sea extraño.
+
+##### ARTÍCULO 419.
+- Sentada el acta, se leerá por el gobernador á los interesados ó sus representantes y á los testigos; se enmendará los errores si los hubiese; se salvarán al pié del acta, y en seguida firmarán todos. El gobernador extenderá gratis las actas.
+
+##### ARTÍCULO 420.
+- A falta del gobernador, le reemplazara el que haga sus veces en el distrito.
+
+##### ARTÍCULO 421.
+- Los poderes y demás documentos que deban estar unidos á las actas, se firmaran por el gobernador y testigos; y se archivarán junto con los libros.
+
+##### ARTÍCULO 422.
+- Los testigos deberán ser dos, varones y mayores de veintiún años.
+
+##### ARTÍCULO 423.
+- Al fin del año se cerraran los libros con asistencia de los síndicos y cuatro testigos vecinos del lugar; poniéndose á continuación de la última partida, un resumen de los nacimientos, matrimonios y defunciones registrados; y después de firmados por todos, se remitirá un ejemplar de cada libro al subprefecto de la provincia, para que se archive en el juzgado de primera instancia más antiguo, y quedará el otro archivado en poder del gobernador.
+
+##### ARTÍCULO 424.
+- Los gobernadores, en cada mes, darán al subprefecto razón del número de nacimientos, matrimonios y defunciones de su distrito: los subprefectos les la darán al prefecto en cada semestre, comprendiendo toda su provincia; y los prefectos la darán en cada año al Gobierno, comprendiendo todo su departamento.
+
+##### ARTÍCULO 425.
+- El gobernador ó juez en cuyo poder se hallen los libros, expedirán gratis y en papel común, copia certificada de las partidas inmediatamente que se les pida por cualquier interesado.
+
+##### ARTÍCULO 426.
+- Toda alteración ó falsificación de las partidas; todo asiento hecho fuera de los libros, y en general, toda contravención á las disposiciones de este título, da á los interesados derecho de reparación por daños, á más de las penas que, por falsificaciones establecen las leyes.
+
+##### ARTÍCULO 427.
+- El depositario de los libros es responsable de las alteraciones que en ellos se advierta, salvo que conste habérsele entregado con ellas.
+
+##### ARTÍCULO 428.
+- Los jueces de primera instancia y los gobernadores, no se harán cargo de sus destinos, sin recibir los libros de registro, previo exámen, en presencia de los síndicos y dos testigos.
+
+##### ARTÍCULO 429.
+- El resultado de este exámen se expresará en una acta por triplicado, de la que se remitirá un ejemplar a la subprefectura, para que se publique y se de cuenta al prefecto, quedando los otros en los archivos correspondientes a los libros.
+
+##### ARTÍCULO 430.
+- Las partidas formalizadas en territorio extranjero son fidedignas en el Perú, si se han llenado las solemnidades requeridas en el país donde se extendieron, o si se han hecho observando las disposiciones de este código ante un Agente diplomático o consultar del Perú.
+
+##### ARTÍCULO 431.
+- Para reparar la omisión de alguna partida en los libros, y para enmendar el error cometido en la que se halla extendida, se requiere prueba y decreto judicial.
+Se repara la omisión, poniendo la partida en el lugar correspondiente á la fecha en que se extiende, y anotando su referencia al márgen del lugar en que fue omitida; se enmienda el error con una anotación marginal de la partida defectuosa; todo sin perjuicio de la responsabilidad del culpable.
+
+#### TITULO II. REGISTRO DE NACIDOS
+
+##### ARTÍCULO 432.
+- Todo padre de familia, en casa del cual se verifique un nacimiento, esta obligado, cuando más tarde á los ocho días, á manifestar el nacido al gobernador, delante de dos testigos, para que se extienda la partida, y ser exprese en ella el día del nacimiento, el nombre del niño y el de sus padres si pudiesen aparecer.
+La partida de nacimiento de un hijo legitimo, será firmado por el padre, ó por otra persona á su ruego.
+
+##### ARTÍCULO 433.
+- A falta del padre de familia, tendrán esta obligación el que lo represente, los parientes del niño, ó cualquiera persona que haya asistido al parto.
+
+##### ARTÍCULO 434.
+- La muerte del niño, antes de ser manifestado, no exime de la obligación de poner las actas correspondientes en los libros de nacidos y de defunciones.
+
+##### ARTÍCULO 435.
+- Los jefes de las casas de expósitos llevaran un libro en que se redacten las partidas de los niños que se reciban en el establecimiento; y en ellas se expresará el día y la hora de la exposición, y todas las señales particulares que puedan servir para el futuro reconocimiento del niño.
+Los mismos jefes remitirán al gobernador del distrito, en el primer dia de cada mes, copia fiel de todas las partidas correspondientes al mes anterior, para que se ponga en los libros de nacidos una partida general, que firmarán el gobernador y el jefe del establecimiento.
+
+##### ARTÍCULO 436.
+- La persona en cuya casa se exponga un niño, está obligado á manifestar al gobernador, para que extienda en los libros de nacidos una partida circunstanciada como la de los expósitos.
+
+##### ARTÍCULO 437.
+- Si el nacimiento se ha verificado en un viaje de mar, cumplirá la madre con la obligación prescripta por el artículo 432, en el lugar á donde se dirija. Si el padre la acompaña en el viaje, la obligación es del padre.
+
+##### ARTÍCULO 438.
+- Cuando el padre reconociere á su hijo natural, se expresará esta circunstancia en la partida, y se firmará también por el padre ú otra persona á su ruego.
+
+##### ARTÍCULO 439.
+- La falta de reconocimiento de hijo natural en el acto de extenderse la partida, del registro, no impide á su padre hacerlo después del márgen de la misma partida, ó por otro de los medios designados en el artículo 238.
+
+##### ARTÍCULO 440.
+- Las partidas de este registro son independientes de las que deben extender los párrocos para hacer constar el hecho del bautismo.
+
+#### TITULO III. REGISTRO DE MATRIMONIOS
+
+##### ARTÍCULO 441.
+- Dentro de los ocho días de celebrado un matrimonio, lo manifestarán los cónyuges al gobernador del distrito, delante de dos testigos, para que se extienda la partida; expresándose el nombre, edad y domicilio de los esposos, la profesión del marido, los nombres de sus padres y el hecho del matrimonio.
+
+##### ARTÍCULO 442.
+- El matrimonio contraído fuera de la República por algún peruano ó peruana, será registrado conforme al artículo 159.
+
+##### ARTÍCULO 443.
+- Para reclamar los derechos civiles anexos al matrimonio, se acompañara el certificado de la partida del registro.
+
+#### TITULO IV. REGISTRO DE DEFUNCIÓN
+
+##### ARTÍCULO 444.
+- El padre de familia, en cuya casa muriere alguna persona, lo participará, dentro de veinticuatro horas, al gobernador del distrito, quien se cerciorará del hecho y extenderá el acta expresando, en cuanto sea posible, el nombre, sexo, edad estado profesión y domicilio del difunto, el nombre de sus padres y el de su cónyuge si hubiese sido casado, todo con arreglo á los informes que oiga de los testigos. Los parientes, ó los vecinos, ó las personas que conocieron al que ha muerto, servirán de testigos con preferencia.
 
 [Subir](#top)
 

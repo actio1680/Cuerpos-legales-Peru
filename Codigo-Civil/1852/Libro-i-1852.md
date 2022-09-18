@@ -4,6 +4,46 @@
 
 ### DOCUMENTO DIGITAL[^1]
 
+#### TÍTULO PRELIMINAR
+#### De las leyes en general
+
+##### ARTÍCULO I.
+- Las leyes obligan en todo el territorio de la República despues de su promulgacion. 
+
+##### ARTÍCULO II.
+- La ley no dispone sino para lo venidero: no tiene efecto retroactivo.
+
+##### ARTÍCULO III.
+- A nadie puede impedirse la accion que no está prohibida por la ley. 
+
+##### ARTÍCULO IV.
+- Las leyes de policía y de seguridad obligan á todos los habitantes del Perú. 
+
+##### ARTÍCULO V.
+- Están sujetos á las leyes de la República los bienes inmuebles, cualesquiera que sean la naturaleza y la condicion del poseedor. 
+
+##### ARTÍCULO VI.
+- Las leyes no se derogan por la costumbreni por el desuso. 
+
+##### ARTÍCULO VII.
+- Ningun pacto exime de la observancia de la ley; sin embargo es permitido renunciar los derechos que ella concede, siempre que sean meramente privados, y que no interesen al órden público ni á las buenas costumbres.
+
+##### ARTÍCULO VIII.
+- Los jueces no pueden dejar de aplicar las leyes, ni juzgar sino por lo dispuesto en ellas. 
+
+##### ARTÍCULO IX.
+- Los jueces no pueden suspender ni denegar la administracion de justicia por falta, oscuridad ó insuficiencia de las leyes: en tales casos, resolverán atendiendo: 1.° al espíritu de la ley: 2.° á otras disposiciones sobre casos análogos; y 3.° á los principios generales del derecho; sin perjuicio de dirijir, por separado, las correspondientes consultas, á fin de obtener una regla cierta para los nuevos casos que ocurran.
+
+##### ARTÍCULO X.
+- Las consultas de que habla el artículo anterior, se elevarán al Poder Lejislativo, por la Corte Suprema, con el respectivo informe favorable ó adverso.
+
+##### ARTÍCULO XI.
+- La Corte Suprema está obligada á dar cuenta al Congreso, en cada lejislatura, de los defectos que notare en la lejislacion.
+
+##### ARTÍCULO XII.
+- Los jueces y tribunales superiores tienen la misma obligacion establecida en el artículo anterior, que cumplirán por conducto de la Corte Suprema.
+
+
 #### LIBRO PRIMERO. De las personas y sus derechos
 #### SECCIÓN PRIMERA. De las personas según su estado natural [^](https://github.com/actio1680/Cuerpos-legales-Peru/blob/main/Codigo-Civil/1852/Libro-i-1852.md#c%C3%B3digo-civil-del-per%C3%BA-1852)
 
@@ -1771,7 +1811,7 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 #### SECCION II. De los modos naturales de adquirir el dominio
 #### TITULO I. De la ocupación
 
-##### ARTÍCULO 479.. 
+##### ARTÍCULO 479.
 - Ocupación es la aprehensión de una cosa que no tiene dueño, con ánimo de conservarla para si.
 
 ##### ARTÍCULO 480. 
@@ -1838,7 +1878,7 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 ##### ARTÍCULO 498. 
 - En los ríos navegables, son del dominio público, los terrenos de nueva formación convertidos en islas.
 
-##### ARTÍCULO 499..
+##### ARTÍCULO 499.
 - En los ríos no navegables, corresponderán estas islas á los propietarios de la orilla hácia donde ellas se formen; pero si no se formaren en un solo lado, serán divisibles entre los dueños de las orillas, con una línea que se supone tirada por el medio del río. Accesión industrial.
 
 ##### ARTÍCULO 500. 
@@ -2676,7 +2716,8 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 ##### ARTÍCULO 743.
 - Todo lo que, por cualquier titulo, reciban los descendientes que tienen derecho de heredar es anticipación de legítima, y no se estimara así expresamente en su ultima voluntad.
 
-##### ARTÍCULO 744..- El exceso de cualesquiera mejoras sobre la tasa legal, se devuelve á la masa hereditaria para aumento de las legítimas.
+##### ARTÍCULO 744.
+- El exceso de cualesquiera mejoras sobre la tasa legal, se devuelve á la masa hereditaria para aumento de las legítimas.
 
 ##### ARTÍCULO 745.
 - El exceso sobre la cantidad que se permite acumular en una línea por el artículo 740, se reducirá á prorrata de las mejoras hechas á los individuos de esa línea.
@@ -2763,7 +2804,7 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 - Para ser legatario se necesita la misma capacidad que para ser heredero.
 
 ##### ARTÍCULO 772.
-- Por el articulo anterior no se impide el cumplimiento de la voluntad del testador, a favor de los objetos expresados en la segunda parte del articulo 702..
+- Por el articulo anterior no se impide el cumplimiento de la voluntad del testador, a favor de los objetos expresados en la segunda parte del articulo 702.
 
 ##### ARTÍCULO 773.
 - Es nulo el legado hecho en fideicomiso.
@@ -2823,7 +2864,7 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 - Los legados pueden ser condicionales, ó desde día cierto, ó hasta determinado.
 
 ##### ARTÍCULO 792.
-- Las condiciones de los legados deben ser posibles y honestas: las que no lo fueren, se sujetarán á los dispuesto en los artículos 719 y 720..
+- Las condiciones de los legados deben ser posibles y honestas: las que no lo fueren, se sujetarán á los dispuesto en los artículos 719 y 720.
 
 ##### ARTÍCULO 793.
 - Los legatarios no tienen derecho de pedir los legados condicionales ó desde día cierto, ni tampoco sus frutos, antes de que se cumpla la condición ó llegue el día.
@@ -2832,7 +2873,7 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 - El heredero puede recobrar el legado condicional hasta que la condicional hasta que la condición se verifique, si se entregó pendiente el cumplimiento de ella.
 
 ##### ARTÍCULO 795.
-- En los legados hasta día determinado se observará lo dispuesto en el artículo 716..
+- En los legados hasta día determinado se observará lo dispuesto en el artículo 716.
 
 ##### ARTÍCULO 796.
 - Los frutos del legado condicional ó desde día cierto, que se devenguen antes de cumplirse la condición ó de llegar el día, corresponden al heredero universal; y si no hubiere mas heredero que de cosa ó porción determinada, corresponderán á los herederos legales.
@@ -3734,13 +3775,13 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 - Si el padre y la madre suceden juntos a su hijo legítimo, la parte que vaque por muerte de alguno de ellos, no acrecerá al sobreviviente, sino pasara a los que tengan derecho a la propiedad de los bienes reservados.
 
 #### ARTÍCULO 1067.
-- Todos los ascendientes que hereden bienes reservables, tendrán mientras no se consolide la propiedad con el usufructo, los mismos derechos y las mismas obligaciones que el usufructuario..
+- Todos los ascendientes que hereden bienes reservables, tendrán mientras no se consolide la propiedad con el usufructo, los mismos derechos y las mismas obligaciones que el usufructuario.
 
 #### ARTÍCULO 1068.
-- Muerto el ascendiente que usufructuaba los bienes reservables, sucederán el ellos los parientes llamados en este titulo, observándose el orden y todas las reglas de sucesión intestada..
+- Muerto el ascendiente que usufructuaba los bienes reservables, sucederán el ellos los parientes llamados en este titulo, observándose el orden y todas las reglas de sucesión intestada.
 
 #### ARTÍCULO 1069.
-- Heredaran los bienes reservados, todos los parientes que vivan al tiempo de la muerte del ascendiente que los devuelve; como si en esa misma época muriera el descendiente que dejo la herencia, y si abriera solo entonces la sucesión para sus parientes colaterales..
+- Heredaran los bienes reservados, todos los parientes que vivan al tiempo de la muerte del ascendiente que los devuelve; como si en esa misma época muriera el descendiente que dejo la herencia, y si abriera solo entonces la sucesión para sus parientes colaterales.
 
 #### ARTÍCULO 1070.
 - No podrán los ascendientes mejorar á sus descendientes, en todo ni en parte de los bienes reservados.
@@ -4044,7 +4085,7 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
   8. El de hacer o cocer cal o ladrillo o cosas semejantes en heredad ajena.  9. El de sacar tierra, arena, grada o piedra del fundo de otro.
 
 #### ARTÍCULO 1157.
-- La extensión y demás condiciones en cada una de las servidumbres ya establecidas, ó cualesquiera otras que puedan establecerse, dependen del titulo que las constituye, y si en este no se determinan, se arreglaran a la costumbre, si no bastasen las disposiciones siguientes..
+- La extensión y demás condiciones en cada una de las servidumbres ya establecidas, ó cualesquiera otras que puedan establecerse, dependen del titulo que las constituye, y si en este no se determinan, se arreglaran a la costumbre, si no bastasen las disposiciones siguientes.
 
 #### ARTÍCULO 1158.
 - En el ultimo caso del Artículo 1155, el dueño del predio sirviente esta obligado á conservar a sus expensas, la pared, columna ó pilar en que descanse el predio dominante, salvo que se haya establecido lo contrario.
@@ -4052,7 +4093,7 @@ Los libros serán rubricados en todas sus hojas por los subprefectos, quienes re
 #### ARTÍCULO 1159.
 - Si al construirse las servidumbres de senda, carrera ó camino, no se determinase su extensión, se entenderá la senda de una vara, la carrera de dos y el camino de tres; salvo el aumento que fuere necesario en las curvas.
 
-#### ARTÍCULO 1160..
+#### ARTÍCULO 1160.
 - En la servidumbre de acueducto, corresponde al dueño del predio dominante la conservación del cause ó canal, de modo que no perjudique al fundo sirviente.
 
 #### ARTÍCULO 1161.

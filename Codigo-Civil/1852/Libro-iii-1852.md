@@ -414,7 +414,18 @@
 - El marido no puede comprar de su mujer, ni esta de aquel. Sin embargo, en caso de divorcio declarado, o de separación judicial o convencional de bienes, puede cualquiera de los cónyuges adjudicar al otro los que basten para el pago de sus derechos. 
 
 ##### ARTÍCULO 1348.
-- No pueden comprar por si, ni por medio de otros. 1. El guardador, los bienes que tenga a su cuidado, del menor, del incapaz, del privilegio y del ausente. 2. El administrador, los bienes de beneficencia, de comunidad civil o religiosa, de establecimientos de instrucción publica y en general, los bienes públicos o de comunidad que estén a su cargo. 3. El administrador de bienes de particulares, los que administra; si no es que los compre de su propio dueño, siendo este persona capaz de enajenarlos. 4. El mandatario, sin permiso expreso del mandante, los que por el mandato tiene a su cargo. 5. El albacea, los de la testamentaria que administra. 6. El juez, las cosas que se venden por su orden.  7. El escribano y peritos, los bienes que se venden en ejecución de sentencia dada en el juicio en que han intervenido. 8. El abogado y procurador que hubieren defendido al reo, los bines que de este se rematen. 9. El Presidente de la República y los ministros de estado, los bines nacionales, de beneficencia, de instrucción publica, municipalidades, de comunidades civiles o religiosas, y demás cuya conservación este directa o indirectamente a su cuidado; ni los inmuebles de particulares que se venden en subasta. 10. Los prefecto, subprefectos y gobernadores, los bienes de que habla en el inciso anterior, situados en el territorio de su mando. 11. Los acreedores, las mercaderías, o cosas muebles, cuya venta esta a su cargo.  
+- No pueden comprar por si, ni por medio de otros:
+  1. El guardador, los bienes que tenga a su cuidado, del menor, del incapaz, del privilegio y del ausente:
+  2. El administrador, los bienes de beneficencia, de comunidad civil o religiosa, de establecimientos de instrucción publica y en general, los bienes públicos o de comunidad que estén a su cargo:
+  3. El administrador de bienes de particulares, los que administra; si no es que los compre de su propio dueño, siendo este persona capaz de enajenarlos:
+  4. El mandatario, sin permiso expreso del mandante, los que por el mandato tiene a su cargo:
+  5. El albacea, los de la testamentaria que administra:
+  6. El juez, las cosas que se venden por su orden:
+  7. El escribano y peritos, los bienes que se venden en ejecución de sentencia dada en el juicio en que han intervenido:
+  8. El abogado y procurador que hubieren defendido al reo, los bines que de este se rematen:
+  9. El Presidente de la República y los ministros de estado, los bines nacionales, de beneficencia, de instrucción publica, municipalidades, de comunidades civiles o religiosas, y demás cuya conservación este directa o indirectamente a su cuidado; ni los inmuebles de particulares que se venden en subasta:
+  10. Los prefecto, subprefectos y gobernadores, los bienes de que habla en el inciso anterior, situados en el territorio de su mando:
+  11. Los acreedores, las mercaderías, o cosas muebles, cuya venta esta a su cargo.  
 
 ##### ARTÍCULO 1349.
 - En caso de comprarse una cosa por alguna de las personas de que habla el articulo anterior, será nula la venta, y el comprador perderá el precio á favor de la beneficencia del lugar. 
@@ -633,7 +644,19 @@
 - Para los efectos del anterior articulo, el comprador esta obligado a hacer citar al vendedor en cualquier estado del juicio, antes de la publicación de probanzas. 
 
 ##### ARTÍCULO 1421.
-- El comprador no puede exigir saneamiento la vendedor: 1. Si no pidió citación de que habla el articulo anterior.  2. Si sometió la causa a juicio de árbitros son consentimiento del vendedor, y la perdió en este juicio.3. Si se dejo condenar en el juicio por contumacia, o abandono la causa sin defenderla, cuando el vendedor no había salido a la defensa. 4. Si a sabiendas no opuso la excepción de la prescripción. 5. Si no apelo de la sentencia de primera instancia. 6. Si se conformo con la de segunda instancia, y sin hacer citar al vendedor o a su apoderado, omitió los demás recuerdos ordinarios a que hubiere lugar. 7. Si por su culpa perdió la posesión de la cosa, a causa de haberse hecho actor en un juicio de propiedad en que fue vencido. 8. Si cuando compro la cosa supo que era ajena y el vendedor lo ignoraba. 9. Si no empleo en la defensa losa documentos que le hubiese suministrado el vendedor. 10. Si cometió dolo en el juicio en que fue vencido. 11. Si compro la cosa de su cuenta y riesgo o supo que era robada. 12. Si la venta se hizo para pagar perdida de juego en que el comprador hubiere jugado. 
+- El comprador no puede exigir saneamiento la vendedor: 
+  1. Si no pidió citación de que habla el articulo anterior:
+  2. Si sometió la causa a juicio de árbitros son consentimiento del vendedor, y la perdió en este juicio:
+  3. Si se dejo condenar en el juicio por contumacia, o abandono la causa sin defenderla, cuando el vendedor no había salido a la defensa: 
+  4. Si a sabiendas no opuso la excepción de la prescripción:
+  5. Si no apelo de la sentencia de primera instancia:
+  6. Si se conformo con la de segunda instancia, y sin hacer citar al vendedor o a su apoderado, omitió los demás recuerdos ordinarios a que hubiere lugar: 
+  7. Si por su culpa perdió la posesión de la cosa, a causa de haberse hecho actor en un juicio de propiedad en que fue vencido:
+  8. Si cuando compro la cosa supo que era ajena y el vendedor lo ignoraba:
+  9. Si no empleo en la defensa losa documentos que le hubiese suministrado el vendedor:
+  10. Si cometió dolo en el juicio en que fue vencido:
+  11. Si compro la cosa de su cuenta y riesgo o supo que era robada: 
+  12. Si la venta se hizo para pagar perdida de juego en que el comprador hubiere jugado. 
 
 ##### ARTÍCULO 1422.
 - El precio que el vendedor esta obligado a sanear, es el que tenga la cosa al tiempo de perderla el comprador. 
@@ -870,7 +893,13 @@
 - Si se venden dos o mas inmuebles por un solo precio, todos se han de retraer o ninguno.  Si cada uno se vendió por su respectivo precio, se pueden retraer separadamente. 
 
 ##### ARTÍCULO 1501.
-- Tiene derecho de retracto: 1. El deudor, su cónyuge e hijos, en la venta judicial que se hace de sus bienes par apagar sus deudas. 2. El comunero, en la venta de cosas comunes. 3. El socio, en la venta de las cosas de la sociedad. 4. El dueño del dominio directo, en la venta del dominio útil. 5. El propietario, en la venta del usufructo. 6. El poseedor de un fundo, en la venta de los capitales o pensiones radicados en el. 7. El consanguíneo dentro del cuarto grado, en la venta de las cosas de familia.  8. El dueño del dominio útil, en la venta del dominio directo. 9. El dueño de los capitales y pensiones, en la venta del fundo gravado con ellos. 10. El usufructuario, en la venta de la propiedad. 
+- Tiene derecho de retracto: 
+  1. El deudor, su cónyuge e hijos, en la venta judicial que se hace de sus bienes par apagar sus deudas. 
+  2. El comunero, en la venta de cosas comunes. 
+  3. El socio, en la venta de las cosas de la sociedad. 
+  4. El dueño del dominio directo, en la venta del dominio útil.
+  5. El propietario, en la venta del usufructo.
+  6. El poseedor de un fundo, en la venta de los capitales o pensiones radicados en el. 7. El consanguíneo dentro del cuarto grado, en la venta de las cosas de familia.  8. El dueño del dominio útil, en la venta del dominio directo. 9. El dueño de los capitales y pensiones, en la venta del fundo gravado con ellos. 10. El usufructuario, en la venta de la propiedad. 
 
 ##### ARTÍCULO 1502.
 - Si hay diversidad en los títulos de dos o mas personas que concurren a retraer, el orden de preferencia entre ellas, será el indicado en el articulo anterior. 

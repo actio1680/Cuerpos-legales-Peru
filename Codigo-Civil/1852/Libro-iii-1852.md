@@ -149,7 +149,7 @@
 - La obligación de dar una cosa determinada comprende la de entregarla en el tiempo convenido, y la de cuidarla entre tanto. Esta última obligación es mas ó menos extensa, según la naturaleza del contrato. 
 
 ##### ARTÍCULO 1263.
-- Desde el día en que debe entregarse una cosa, corre de cuenta del que debe recibirla, aunque no se haya entregado, pero si la persona obligada a darle, ha incurrido en mora, es de su responsabilidad el detrimento que sufra la cosa. Art 1264. Incurre en mora, el que no cumple con entregar la cosa ya debida, después que no se le exige; y también, el que no la entrega el día señalado en el pacto, si se expreso que lo hiciere sin necesidad a pedírsela. 
+- Desde el día en que debe entregarse una cosa, corre de cuenta del que debe recibirla, aunque no se haya entregado, pero si la persona obligada a darle, ha incurrido en mora, es de su responsabilidad el detrimento que sufra la cosa. 
 
 ##### ARTÍCULO 1264.
 - Incurre en mora el que no cumple con entregar la cosa ya debida despues que se le exije; y tambien el que no lo hiciese sin necesidad de pedírsela. 
@@ -749,7 +749,10 @@
 - No se puede estipular la retroventa por más de tres años. El mayor tiempo estipulado se reduce a éste.
 
 ##### ARTÍCULO 1452.
-- Si dentro del plazo convencional o legal no usa el vendedor de su derecho a la retroventa, queda la cosa bajo el dominio absoluto del comprador.Art 1453. El vendedor quede ejercer contra un segundo comprador el derecho de retroventa, si el pacto de esta calidad consta de la misma escritura pública que la primera venta, aún cuando nada hubiese declarado en la segunda.
+- Si dentro del plazo convencional o legal no usa el vendedor de su derecho a la retroventa, queda la cosa bajo el dominio absoluto del comprador.
+ 
+##### ARTÍCULO 1453. 
+- El vendedor quede ejercer contra un segundo comprador el derecho de retroventa, si el pacto de esta calidad consta de la misma escritura pública que la primera venta, aún cuando nada hubiese declarado en la segunda.
 
 ##### ARTÍCULO 1454.
 - El término de la retroventa corre contra cualquiera persona aunque sea menor.
@@ -899,7 +902,11 @@
   3. El socio, en la venta de las cosas de la sociedad. 
   4. El dueño del dominio directo, en la venta del dominio útil.
   5. El propietario, en la venta del usufructo.
-  6. El poseedor de un fundo, en la venta de los capitales o pensiones radicados en el. 7. El consanguíneo dentro del cuarto grado, en la venta de las cosas de familia.  8. El dueño del dominio útil, en la venta del dominio directo. 9. El dueño de los capitales y pensiones, en la venta del fundo gravado con ellos. 10. El usufructuario, en la venta de la propiedad. 
+  6. El poseedor de un fundo, en la venta de los capitales o pensiones radicados en el. 
+  7. El consanguíneo dentro del cuarto grado, en la venta de las cosas de familia. 
+  8. El dueño del dominio útil, en la venta del dominio directo. 
+  9. El dueño de los capitales y pensiones, en la venta del fundo gravado con ellos. 
+  10. El usufructuario, en la venta de la propiedad. 
 
 ##### ARTÍCULO 1502.
 - Si hay diversidad en los títulos de dos o mas personas que concurren a retraer, el orden de preferencia entre ellas, será el indicado en el articulo anterior. 
@@ -932,7 +939,10 @@
 - En todo caso en que tiene lugar el retracto, se puede retraer no solo la propiedad o usufructo, sino también los derechos, servidumbres y acciones radicados sobre el inmueble que se retrae.
 
 ##### ARTÍCULO 1512.
-- El término para intentar el retracto es de dos meses para los indicados en los incisos 4, 6, 8 y 9 del artículo 1501.Corre este término desde el siguiente día al de la notificación de la venta.De la venta de bienes y rentas nacionalesArt 1513. Todo inmueble, derecho, acción o renta nacional, que por leyes o decretos especiales no se venden o adjudiquen de otra manera, se venderán en remate público, so pena de nulidad. 
+- El término para intentar el retracto es de dos meses para los indicados en los incisos 4, 6, 8 y 9 del artículo 1501.Corre este término desde el siguiente día al de la notificación de la venta.De la venta de bienes y rentas nacionales
+
+##### ARTÍCULO 1513. 
+- Todo inmueble, derecho, acción o renta nacional, que por leyes o decretos especiales no se venden o adjudiquen de otra manera, se venderán en remate público, so pena de nulidad. 
 
 ##### ARTÍCULO 1514.
 - A este remate deben preceder: 1. El avalúo que harán los peritos nombrados por la junta de almoneda, o uno por esta y otro por el interesado, si lo hubiere. 2. El examen y aprobación del avaluó en junta de almoneda. 3. La retasación por nuevos peritos nombrados como los primeros, si fuere desaprobado el avalúo anterior. 4. La convocatoria al remate por medio de carteles y de los periódicos, donde los haya, señalado el día en que ha de verificarse. 
@@ -2445,10 +2455,18 @@
 - La anticresis no dá al acreedor otro derecho que el de recibir los frutos o rentas del inmueble. Tendrá sin embargo, como cualquier otro acreedor, los demás privilegios ó hipotecas sobre el inmueble, que legalmente se hayan establecido en favor de su crédito. 
 
 ##### ARTÍCULO 2016.
-- Los deberes del acreedor con prenda de un inmueble, son iguales á los del arrendatario, excepto el de entregar la renta; esta se aplicara conforme a lo dispuesto en el articulo 2014.Art 2017. El acreedor no podrá retener la prenda de un inmueble, por otra deuda posterior, si no se le concedió expresamente este derecho por el último contrato. 
+- Los deberes del acreedor con prenda de un inmueble, son iguales á los del arrendatario, excepto el de entregar la renta; esta se aplicara conforme a lo dispuesto en el articulo 2014.
+ 
+##### ARTÍCULO 2017.
+- El acreedor no podrá retener la prenda de un inmueble por otra deuda posterior, si no se le concedió expresamente este derecho por el último contrato. 
+
+##### ARTÍCULO 2018.
+- Pagada la deuda, aunque sea ántes del vencimiento del plazo, el dueño tiene derecho de recobrar el inmueble que dió en prenda.
 
 ##### ARTÍCULO 2019.
-- La anticresis no perjudica los derechos que otra persona pueda tener sobre el inmueble. TÍTULO II DE LA HIPOTECA
+- La anticresis no perjudica los derechos que otra persona pueda tener sobre el inmueble. 
+
+#### TÍTULO II. De la hipoteca
 
 ##### ARTÍCULO 2020.
 - Hipoteca es el gravámen que se impone sobre un inmueble á favor de un tercero, en seguridad de un crédito ó de una obligación. 
@@ -2649,7 +2667,10 @@
 - La fianza que exceda de la obligación principal en cantidad ó gravamen, se tendrá por no hecha en cuanto al exceso.
 
 ##### ARTÍCULO 2086.
-- Los fiadores se obligan: 1. Simplemente, cuando se sujetan a cumplir la obligación del fiado, en caso de que éste no lo verifique;2. Mancomunada o solidariamente entre sí, cuando prometen que en defecto del fiado, cumplirá cualquiera de ellos la obligación principal;3. Mancomunadamente con el deudor, cuando convienen en ser responsables indistintamente, ellos ó el deudor, por toda la obligación. 
+- Los fiadores se obligan: 
+  1. Simplemente, cuando se sujetan a cumplir la obligación del fiado, en caso de que éste no lo verifique:
+  2. Mancomunada o solidariamente entre sí, cuando prometen que en defecto del fiado, cumplirá cualquiera de ellos la obligación principal:
+  3. Mancomunadamente con el deudor, cuando convienen en ser responsables indistintamente, ellos ó el deudor, por toda la obligación. 
 
 ##### ARTÍCULO 2087.
 - Los fiadores simples no serán responsables sino a prorata, y después que conste que el fiado no tiene con que pagar, ni puede cumplir la obligación que contrajo.

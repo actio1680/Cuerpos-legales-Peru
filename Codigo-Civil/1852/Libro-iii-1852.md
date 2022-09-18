@@ -3011,7 +3011,10 @@
 - El que vive en una casa es responsable de los daños que causen las cosas arrojadas de esta, pero puede repetir contra el autor del daño. 
 
 ##### ARTÍCULO 2198.
-- Se obliga también á reparar los daños que causen:1. El que tiene alguna cosa puesta ó suspendida en un lugar por donde pasan ó en que se paran los hombres, y cuya caída puede causar daño;  2. El que corre por las calles á bestia, ó en cualquier especie de carro;3. El que va dentro del carro y ordena la carrera al conductor;4. El que arrea bestias por las calles haciéndolas correr;5. El que caza con armas de fuego ó pone traspasa en el camino.
+- Se obliga también á reparar los daños que causen:
+  1. El que tiene alguna cosa puesta ó suspendida en un lugar por donde pasan ó en que se paran los hombres, y cuya caída puede causar daño;  
+  2. El que corre por las calles á bestia, ó en cualquier especie de carro;
+  3. El que va dentro del carro y ordena la carrera al conductor;4. El que arrea bestias por las calles haciéndolas correr;5. El que caza con armas de fuego ó pone traspasa en el camino.
 
 ##### ARTÍCULO 2199.
 - La estimación del daño es sujeta á reducción, si el que lo sufrió se ha expuesto á él imprudentemente.  
@@ -3027,7 +3030,6 @@
 
 ##### ARTÍCULO 2203.
 - El que origina una prisión ilegal, y el juez que la ordena, son mancomunadamente responsables, por los daños que cause la prisión.  
-
 ##### ARTÍCULO 2204.
 - Si muchas personas son culpables del daño serán solidariamente responsables, á no ser que pueda determinarse la parte del daño causado por cada una.  
 
@@ -3193,7 +3195,10 @@
 - Para la compensación de una especie por otra, es necesario que se hayan valorizado por convenio, ó judicialmente; ó que tengan valor dado por la ley.  
 
 ##### ARTÍCULO 2256.
-- Los plazos gratuitamente acordados por el acreedor ó por el juez, no impiden la compensación,  Artículo 2257. Todas las deudas son compensables, si la ley no lo prohíbe.
+- Los plazos gratuitamente acordados por el acreedor ó por el juez, no impiden la compensación,  
+
+##### ARTÍCULO 2257. 
+- Todas las deudas son compensables, si la ley no lo prohíbe.
 
 ##### ARTÍCULO 2258.
 - Se prohíbe la compensación: 1. En la demanda sobre la restitución de despojo;2. En la demanda sobre la restitución de un depósito;3. En los cargos por mala administración;4. En lo que se debe por alimentos.

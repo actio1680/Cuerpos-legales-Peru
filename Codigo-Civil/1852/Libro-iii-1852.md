@@ -848,7 +848,11 @@
 - El término para retraer corre contra toda clase de personas, sin que se conceda el beneficio de restitución.
 
 ##### ARTÍCULO 1485.
-- Empieza á correr el término del retracto: 1. En las ventas judiciales, desde el día siguiente a su celebración del remate. 2. En las conversaciones, desde el día siguiente a su celebración, si la venta es pura.  3. En las condicionales, desde el día siguiente al en que se cumplió la condición. 4. En las hechas bajo de fianza, desde el día siguiente al otorgamiento de esta. 
+- Empieza á correr el término del retracto: 
+  1. En las ventas judiciales, desde el día siguiente a su celebración del remate. 
+  2. En las conversaciones, desde el día siguiente a su celebración, si la venta es pura.  
+  3. En las condicionales, desde el día siguiente al en que se cumplió la condición. 
+  4. En las hechas bajo de fianza, desde el día siguiente al otorgamiento de esta. 
 
 ##### ARTÍCULO 1486.
 - Se cuenta el termino del retracto, incluyéndose tanto el día en que empieza a correr, como el ultimo en que se acaba: el ultimo día es útil hasta las seis de la tarde. 
@@ -945,7 +949,11 @@
 - Todo inmueble, derecho, acción o renta nacional, que por leyes o decretos especiales no se venden o adjudiquen de otra manera, se venderán en remate público, so pena de nulidad. 
 
 ##### ARTÍCULO 1514.
-- A este remate deben preceder: 1. El avalúo que harán los peritos nombrados por la junta de almoneda, o uno por esta y otro por el interesado, si lo hubiere. 2. El examen y aprobación del avaluó en junta de almoneda. 3. La retasación por nuevos peritos nombrados como los primeros, si fuere desaprobado el avalúo anterior. 4. La convocatoria al remate por medio de carteles y de los periódicos, donde los haya, señalado el día en que ha de verificarse. 
+- A este remate deben preceder: 
+  1. El avalúo que harán los peritos nombrados por la junta de almoneda, o uno por esta y otro por el interesado, si lo hubiere:
+  2. El examen y aprobación del avaluó en junta de almoneda:
+  3. La retasación por nuevos peritos nombrados como los primeros, si fuere desaprobado el avalúo anterior:
+  4. La convocatoria al remate por medio de carteles y de los periódicos, donde los haya, señalado el día en que ha de verificarse. 
 
 ##### ARTÍCULO 1515.
 - La venta se hará en publica subasta y a favor del que resulte mejor postor. 
@@ -1056,7 +1064,13 @@
 - La locación se cumplirá cual se hubiese pactado en lo relativo al tiempo de su duración y a las demás calidades y circunstancias del contrato. 
 
 ##### ARTÍCULO 1551.
--- Todo convenio en que se de un arrendamiento la duración de mas de diez años, se tiene por no hecho en cuanto exceda de este termino. ARTÍCULO 1552. Puede concederse por pacto a un arrendatario el derecho de ser preferido por el tanto en la siguiente locación.ARTÍCULO 1553. Se entiende que el arrendamiento de una heredad es cuando menos por el tiempo que el arrendatario necesita para recoger la cosecha, si no se ha estipulado su duración. 
+- Todo convenio en que se de un arrendamiento la duración de mas de diez años, se tiene por no hecho en cuanto exceda de este termino. 
+
+##### ARTÍCULO 1552. 
+- Puede concederse por pacto a un arrendatario el derecho de ser preferido por el tanto en la siguiente locación. 
+
+##### ARTÍCULO 1553. 
+- Se entiende que el arrendamiento de una heredad es cuando menos por el tiempo que el arrendatario necesita para recoger la cosecha, si no se ha estipulado su duración. 
 
 ##### ARTÍCULO 1554.
 - En los arrendamientos de haciendas de caña dulce cuya duración no se ha fijado en el contrato, se supone que el término es de tres años.
@@ -1074,7 +1088,8 @@
 - El alquiler de casas por tiempo indeterminado, se reputa se por años, por semestres, o por meses, según se pague la renta al año, al semestre o mensualmente. 
 
 ##### ARTÍCULO 1559.
-- Dado por el locador el aviso prescrito en la segunda parte del artículo que antecede, se concederá al inquilino, para que desocupe la casa, un término desde uno hasta cuatro meses, según la costumbre y las circunstancias. Este término se cuenta desde el día del aviso. El inquilino tiene la facultad de devolver la casa cumplido el mes, el semestre, o el año en que deba hacerse el próximo pago de la renta, aun cuando entonces no se hallare vencido el término que se le hubiese dado para desocuparla. 
+- Dado por el locador el aviso prescrito en la segunda parte del artículo que antecede, se concederá al inquilino, para que desocupe la casa, un término desde uno hasta cuatro meses, según la costumbre y las circunstancias. Este término se cuenta desde el día del aviso. 
+- El inquilino tiene la facultad de devolver la casa cumplido el mes, el semestre, o el año en que deba hacerse el próximo pago de la renta, aun cuando entonces no se hallare vencido el término que se le hubiese dado para desocuparla. 
 
 ##### ARTÍCULO 1560.
 - En los arrendamientos cuya duración se cuneta por años forzosos y por años voluntarios, que el contratante a quien se concedió el derecho de hacerles valer, no avise al otro que finalizara el contrato cuando se acaben los años forzosos. 
@@ -1107,7 +1122,10 @@
 - Las cuestiones que se susciten, tanto sobre el derecho a la rebaja de una renta, como sobre lo que corresponda al daño causado por heladas, superabundancia de lluvia, falta de agua para el riego, o por otra calamidad que menoscabe la cosecha, en la tercera parte o mas, se resolverán: 1. Por lo que hubiesen convenido las partes en el contrato. 2. Por la costumbre del lugar, a falta de aquel convenio. 
 
 ##### ARTÍCULO 1570.
-- El derecho de pedir rebaja por las calamidades que de indican en el articulo anterior, prescribe a los seis meses, contados desde el día en que debía pagarse la renta que corresponde al tiempo en que padeció la calamidad. ARTÍCULO 1571. No hay derecho a ninguna rebaja de la renta, si el arrendatario omite a dar aviso del accidente al locador, o en ausencia de este a su apoderado, o por falta de uno y otro al juez de paz; para que se reconozca inmediatamente el daño que motiva la rebaja.Cuando se dé el aviso al juez de paz, este hará el reconocimiento con dos personas inteligentes y de probabilidad notoria. 
+- El derecho de pedir rebaja por las calamidades que de indican en el articulo anterior, prescribe a los seis meses, contados desde el día en que debía pagarse la renta que corresponde al tiempo en que padeció la calamidad. 
+
+##### ARTÍCULO 1571. 
+- No hay derecho a ninguna rebaja de la renta, si el arrendatario omite a dar aviso del accidente al locador, o en ausencia de este a su apoderado, o por falta de uno y otro al juez de paz; para que se reconozca inmediatamente el daño que motiva la rebaja.Cuando se dé el aviso al juez de paz, este hará el reconocimiento con dos personas inteligentes y de probabilidad notoria. 
 
 ##### ARTÍCULO 1572.
 - El conductor puede, por estipulación expresa, renunciar el derecho a la rebaja de la renta por casos fortuitos. Se entiende que este convenio es relativo a los casos fortuitos se entiende que este convenio es relativo a los casos fortuitos que suelen ocurrir comúnmente, cuando no se declara de un modo expreso que se comprenden también los casos raros e imprevistos. 
@@ -1125,10 +1143,17 @@
 - Cuando se hubiese arrendado una misma cosa á dos ó mas, tendrá la preferencia el que haya empezado a usarla. 
 
 ##### ARTÍCULO 1577.
-- Si ninguno la usa, se dará la preferencia en el orden siguiente: 1. Al conductor que tenga escritura publica. 2. Al que tenga mas antigua, caso de haber varias escrituras. 3 Al que hubiese pactado la renta mas baja si las escrituras son de un mismo día, o si el contrato consta de documentos privados, o si hay igualdad de circunstancias entre los concurrentes, o si cabe duda sobre las causas de preferencia señaladas en este articulo y en el anterior. 
+- Si ninguno la usa, se dará la preferencia en el orden siguiente: 
+  1. Al conductor que tenga escritura publica:
+  2. Al que tenga mas antigua, caso de haber varias escrituras:
+  3 Al que hubiese pactado la renta mas baja si las escrituras son de un mismo día, o si el contrato consta de documentos privados, o si hay igualdad de circunstancias entre los concurrentes, o si cabe duda sobre las causas de preferencia señaladas en este articulo y en el anterior. 
 
 ##### ARTÍCULO 1578.
-- Están obligados especialmente para el pago de la renta: 1. La cosecha que produzca la heredad; y en general, todo producto o fruto que se crea o elabora por medio o con el auxilio de la cosa arrendada.2. Los bienes muebles o semovientes, los enseres, las herramientas, y todos los que el arrendatario haya introducido como propios en la heredad arrendada, así como también las mejoras necesarias y útiles que en ella haya puesto.  3. Los muebles introducidos por el inquilino en la casa, las mercancías en los almacenes, los frutos en los graneros, y así otras especies en casos semejantes, de estos bienes, los que resulten ajenos o de precio no pagado, solo serán responsables, mientras se encuentran en la casa, almacén o granero, de alquiler que hayan causado con su permanencia en ellos; y serán libres de toda responsabilidad al locador, si este supo que no pertenecían al arrendatario;4. Los del subarrendatrio ó en subsidio de los del arrendatario inquilino. 
+- Están obligados especialmente para el pago de la renta: 
+  1. La cosecha que produzca la heredad; y en general, todo producto o fruto que se crea o elabora por medio o con el auxilio de la cosa arrendada:
+  2. Los bienes muebles o semovientes, los enseres, las herramientas, y todos los que el arrendatario haya introducido como propios en la heredad arrendada, así como también las mejoras necesarias y útiles que en ella haya puesto:
+  3. Los muebles introducidos por el inquilino en la casa, las mercancías en los almacenes, los frutos en los graneros, y así otras especies en casos semejantes, de estos bienes, los que resulten ajenos o de precio no pagado, solo serán responsables, mientras se encuentran en la casa, almacén o granero, de alquiler que hayan causado con su permanencia en ellos; y serán libres de toda responsabilidad al locador, si este supo que no pertenecían al arrendatario:
+  4. Los del subarrendatrio ó en subsidio de los del arrendatario inquilino. 
 
 ##### ARTÍCULO 1579.
 - Los capitales destinados para el bajo y cultivo del fundo arrendado, no se embargaran ni remataran para el pago de la renta, mientras continué el arrendamiento, sino solo cuando este se haya disuelto ó terminado. 
@@ -1155,7 +1180,12 @@
 - Entregada la cosa al conductor, se presume, si no se prueba lo contrario, que se hallaba en estado de servir y con todo lo necesario para el uso a que se destino.
 
 ##### ARTÍCULO 1587.
-- También esta obligado el locador: 1. A manifestar al conductor el vicio oculto que tenga la cosa arrendada. 2. A mantener al conductor en el uso de ella durante el tiempo de la locación. 3. A defender el uso de la cosa arrendada contra un tercero que pretenda tener o quiera ejercer algún derecho sobre ella. 4. A soportar todas las pensiones y cargas reales que graviten sobre la cosa. 5. A hacer en ella los reparos necesarios que, por pacto o costumbre, no sean de cuenta del arrendamiento. 
+- También esta obligado el locador: 
+  1. A manifestar al conductor el vicio oculto que tenga la cosa arrendada:
+  2. A mantener al conductor en el uso de ella durante el tiempo de la locación:
+  3. A defender el uso de la cosa arrendada contra un tercero que pretenda tener o quiera ejercer algún derecho sobre ella:
+  4. A soportar todas las pensiones y cargas reales que graviten sobre la cosa: 
+  5. A hacer en ella los reparos necesarios que, por pacto o costumbre, no sean de cuenta del arrendamiento. 
 
 ##### ARTÍCULO 1588.
 - El locador indemnizara al conductor de los perjuicios que este haya sufrido y le pagara las costas que le haya causado, por falta de cumplimiento delas obligaciones prescritas en los artículos 1585 y 1587.
@@ -1179,7 +1209,13 @@
 - Cuando por reparar la cosa se impida al conductor que use de una parte de ella, se rebajara de la renta una cantidad proporcionada al tiempo y a la parte de que no se ha hecho uso.  Obligaciones del conductor
 
 ##### ARTÍCULO 1595.
-- El conductor esta obligado: 1. A cuidar de la cosa arrendada como propia, y a usarla en el destino para que se le concedió.2. A pagar la renta en los plazos convenidos, y a falta de convenio, en cada semestre. 3. A dar aviso al locador de cualquiera usurpación o imposición de servidumbre que se intente contra la finca. 4. A devolver la cosa a su dueño, vencido el termino de la locacion, en el estado en que la recibió, sin mas deterioro que el del uso ordinario de ella. 5. A no abusar de modo alguno de la cosa arrendada. 6. A hacer los reparos que determina la costumbre, si no hay pacto contrario. 
+- El conductor esta obligado: 
+  1. A cuidar de la cosa arrendada como propia, y a usarla en el destino para que se le concedió:
+  2. A pagar la renta en los plazos convenidos, y a falta de convenio, en cada semestre: 
+  3. A dar aviso al locador de cualquiera usurpación o imposición de servidumbre que se intente contra la finca:
+  4. A devolver la cosa a su dueño, vencido el termino de la locacion, en el estado en que la recibió, sin mas deterioro que el del uso ordinario de ella:
+  5. A no abusar de modo alguno de la cosa arrendada:
+  6. A hacer los reparos que determina la costumbre, si no hay pacto contrario. 
 
 ##### ARTÍCULO 1596.
 - El arrendamiento indemnizara al locador de los prejuicios que le cause, por haber empleado el locador de los perjuicios que le cause, por haber empleado la cosa en otro destino diferente del convenido; por no devolverla concluido el tiempo de la locación; por no dar aviso de las usurpaciones; y en fin, de todos los prejuicios que por culpa de el haya sufrido el dueño. En esta responsabilidad se comprende la del pago de costas.
@@ -1200,7 +1236,14 @@
 - Todo subarrendatario a quien el dueño le haga una prevención por escrito, tiene obligación de retener la cantidad que adeude al conductor, y de no pagarle ni esta ni las rentas que después se devenguen, sino con conocimiento del dueño.No se concede la facultad de hacer retener lo adeudado al arrendatario, sino en la parte que baste para pagar lo que se debe al dueño por plazo cumplido próximo a cumplirse. Modos de rescindirse y de acabarse la locación
 
 ##### ARTÍCULO 1602.
-- Se rescinde el contrato de locación: 1. Si el arrendatario de una heredad no introduce capitales para la labranza, o si abandona el cultivo, o si no loase como buen padre de familia. 2. Si el inquilino no introduce en la casa los muebles suficientes y se niega a afianzar el pago de la renta. 3. Si el conductor abusa de la cosa arrendada, dándole otro destino diferente de aquel para que se le concedió expresa o tácitamente, o permitiendo en ella algún acto perjudicial a la sociedad o a la moral pública. 4. Si es preciso que el arrendamiento deje la cosa para repararla y no se arruine. 5. Si el arrendatario no ha pagado la renta del plazo anterior, y se vence otro plazo y además quince días. 6. Si necesito el arrendatario de que hubiese contra el sentencia judicial, para pagar el todo o parte de las rentas, y se vence con exceso de quince días, el plazo siguiente, sin que haya satisfecho la nueva renta devengada. 7. Si el conductor o el locador no cumplen sus respectivas obligaciones. 
+- Se rescinde el contrato de locación: 
+  1. Si el arrendatario de una heredad no introduce capitales para la labranza, o si abandona el cultivo, o si no loase como buen padre de familia:
+  2. Si el inquilino no introduce en la casa los muebles suficientes y se niega a afianzar el pago de la renta:
+  3. Si el conductor abusa de la cosa arrendada, dándole otro destino diferente de aquel para que se le concedió expresa o tácitamente, o permitiendo en ella algún acto perjudicial a la sociedad o a la moral pública:
+  4. Si es preciso que el arrendamiento deje la cosa para repararla y no se arruine:
+  5. Si el arrendatario no ha pagado la renta del plazo anterior, y se vence otro plazo y además quince días. 
+  6. Si necesito el arrendatario de que hubiese contra el sentencia judicial, para pagar el todo o parte de las rentas, y se vence con exceso de quince días, el plazo siguiente, sin que haya satisfecho la nueva renta devengada. 
+  7. Si el conductor o el locador no cumplen sus respectivas obligaciones. 
 
 ##### ARTÍCULO 1603.
 - Cuando alguna de las partes falta a las obligaciones del contrato, la otra tiene el derecho de obligarla judicialmente a su cumplimiento o de pedir que se rescinda la obligación.
@@ -1212,7 +1255,18 @@
 - En cualquier caso de rescisión, se pagara costas y perjuicios por la parte que diere causa para ella.
 
 ##### ARTÍCULO 1606.
-- se acaba el contrato de locación: 1. Por concluirse el termino de duración que fijaron las partes; sin que sea necesario aviso de despedida del locador, ni del conductor. 2. Por perderse o destruirse la cosa arrendada. 3. Por ser vencido en juicio el locador, sobre el derecho que tenia ella. 4. Por enajenación de la cosa, si se pacto esta condición. 5. Por necesitar la casa habitarla el dueño o sus hijos, si se contrato en este caso fenecería la locación. 6. Por muerte del arrendatario, si sus herederos avisan al locador que no pueden continuar en el contrato. 7. Por subarrendar el conductor contra pacto expreso. 8. Por subarrendar sin tener esta facultad expresamente concedida, en los arrendamientos al partir de frutos. 9. Por entrar en el ejercicio de sus derechos civiles el menor de edad, cuyos bienes dio en arriendo el guardador. 10. Por fenecer la sociedad conyugal, en la locación que el marido hizo de los bienes de la mujer, sin expreso consentimiento de esta.11. Por terminar el albaceazgo, en la locación que hubiese hecho algún albacea administrador, sin consentimiento expreso de los herederos. 
+- se acaba el contrato de locación: 
+  1. Por concluirse el termino de duración que fijaron las partes; sin que sea necesario aviso de despedida del locador, ni del conductor:
+  2. Por perderse o destruirse la cosa arrendada:
+  3. Por ser vencido en juicio el locador, sobre el derecho que tenia ella:
+  4. Por enajenación de la cosa, si se pacto esta condición:
+  5. Por necesitar la casa habitarla el dueño o sus hijos, si se contrato en este caso fenecería la locación:
+  6. Por muerte del arrendatario, si sus herederos avisan al locador que no pueden continuar en el contrato:
+  7. Por subarrendar el conductor contra pacto expreso:
+  8. Por subarrendar sin tener esta facultad expresamente concedida, en los arrendamientos al partir de frutos:
+  9. Por entrar en el ejercicio de sus derechos civiles el menor de edad, cuyos bienes dio en arriendo el guardador:
+  10. Por fenecer la sociedad conyugal, en la locación que el marido hizo de los bienes de la mujer, sin expreso consentimiento de esta: 
+  11. Por terminar el albaceazgo, en la locación que hubiese hecho algún albacea administrador, sin consentimiento expreso de los herederos. 
 
 ##### ARTÍCULO 1607.
 - Concluida la locación por haberse vencido el termino, si pasan ocho días sin que el locador disponga de la cosa, ni el cobrador la devuelva, se renueva el contrato sobre las mismas bases del anterior; pero queda en la clase de los de duración indemnizada y sujeto también á las reglas establecidas para estos. En la locación que se renueva por voluntad tácita de las partes, no subsisten las fianzas y seguridades que constituyó una tercera persona en el contrato anterior: á no ser que ella se obligue de nuevo expresamente.
@@ -1423,7 +1477,11 @@
 - La administración delos negocios de la compañía debe sujetarse a los dispuesto en el contrario. Si esta encargada a una o mas de los socios, los demás no pueden oponerse ni revocarle la administración, sino en caso de fraude. 
 
 ##### ARTÍCULO 1677.
-- A falta de convenios especiales sobre la administración, se observara las reglas siguientes:1. Cada socio es administrador; y como tal, puede obrar a nombre de la sociedad, sin perjuicio del derecho de los otros para oponerse a un acto antes de que se perfeccione. 2. Puede asimismo cada socio, servirse de los bienes puestos en común, empleándolos en su destino natural, sin perjudicar los intereses de la sociedad, ni impedir que los demás socios usen de igual derecho. 3. Cada uno de los socios tiene el derecho de obligar a los demás, para que concurran a los gastos que exige la conservación de las cosas de la sociedad. 4. Ninguno de los socios puede hacer innovaciones en los bienes inmuebles que dependen de la sociedad, aun cuando las consideré ventajosas a ella, si no consienten los demás. 
+- A falta de convenios especiales sobre la administración, se observara las reglas siguientes:
+  1. Cada socio es administrador; y como tal, puede obrar a nombre de la sociedad, sin perjuicio del derecho de los otros para oponerse a un acto antes de que se perfeccione:
+  2. Puede asimismo cada socio, servirse de los bienes puestos en común, empleándolos en su destino natural, sin perjudicar los intereses de la sociedad, ni impedir que los demás socios usen de igual derecho:
+  3. Cada uno de los socios tiene el derecho de obligar a los demás, para que concurran a los gastos que exige la conservación de las cosas de la sociedad:
+  4. Ninguno de los socios puede hacer innovaciones en los bienes inmuebles que dependen de la sociedad, aun cuando las consideré ventajosas a ella, si no consienten los demás. 
 
 ##### ARTÍCULO 1678.
 - El socio que no es administrador, no puede enajenar ni obligar las cosas pertenecientes á la sociedad, aunque sean muebles.
@@ -1438,7 +1496,8 @@
 - Quedan igualmente obligados todos los socios por la deuda de que ha aprovechado la sociedad, aunque se haya contraído por algún socio sin autorización solidariamente a favor de un tercero, por las deudas de la sociedad, sino en proporción a sus capitales. 
 
 ##### ARTÍCULO 1682.
-- Los socios no están obligados solidariamente a favor de un tercero, por las deudas de la sociedad, sino en proporción a sus capitales. Cuando los socios contratan directamente con un tercero sin expresar la proporción en que se obliga cada uno, le quedan responsables por iguales partes; salvo el deber que tienen, entre si, de indemnizarse según sus capitales respectivos. Por las deudas que contraiga un socio sin estas autorizado por ello, no queda responsable la sociedad sino cuanto alcance el capital del socio contratante; excepto el caso del artículo 1681.
+- Los socios no están obligados solidariamente a favor de un tercero, por las deudas de la sociedad, sino en proporción a sus capitales. Cuando los socios contratan directamente con un tercero sin expresar la proporción en que se obliga cada uno, le quedan responsables por iguales partes; salvo el deber que tienen, entre si, de indemnizarse según sus capitales respectivos. 
+- Por las deudas que contraiga un socio sin estas autorizado por ello, no queda responsable la sociedad sino cuanto alcance el capital del socio contratante; excepto el caso del artículo 1681.
 
 ##### ARTÍCULO 1683.
 - No debe contraerse obligación nueva, si expresamente la contradice uno de los socios, administradores; pero si llegare a contraerse, producirá sus efectos, legales en cuanto al acreedor, y el que la contrajo quedara responsable de los perjuicios que cause á la sociedad. 
@@ -1450,13 +1509,26 @@
 - Puede rescindirse el contrato de sociedad parcialmente, ó disolverse y extinguirse en su totalidad.
 
 ##### ARTÍCULO 1686.
-- Se rescinde parcialmente: 1. Si un socio, para sus negocios propios, usa del nombre, de las garantías o de las capitales pertenecientes á la sociedad.2. Si ejerce funciones administrativas el socio a quien no corresponde desempeñarlas, según el contrato de asociación3. Si el socio administrador comete fraude en la administración o cuentas de la sociedad. 4. Si cualquiera de los socios se ocupa de sus negocios privados, cuando esta obligado por el contrato a ocuparse en provecho de la sociedad.5. Si incurre en los casos de los artículos 1664 y 1668, según la gravedad de las circunstancias.6. Si se ha ausentado el socio que tiene obligación de prestar servicios personales a la sociedad; y requerido para regresar no lo verifica, o manifiesta que esta impedido para hacerlo.
+- Se rescinde parcialmente: 
+  1. Si un socio, para sus negocios propios, usa del nombre, de las garantías o de las capitales pertenecientes á la sociedad:
+  2. Si ejerce funciones administrativas el socio a quien no corresponde desempeñarlas, según el contrato de asociación
+  3. Si el socio administrador comete fraude en la administración o cuentas de la sociedad:
+  4. Si cualquiera de los socios se ocupa de sus negocios privados, cuando esta obligado por el contrato a ocuparse en provecho de la sociedad:
+  5. Si incurre en los casos de los artículos 1664 y 1668, según la gravedad de las circunstancias:
+  6. Si se ha ausentado el socio que tiene obligación de prestar servicios personales a la sociedad; y requerido para regresar no lo verifica, o manifiesta que esta impedido para hacerlo.
 
 ##### ARTÍCULO 1687.
 - Rescindido parcialmente el contrato, queda el socio culpable excluido de la sociedad.
 
 ##### ARTÍCULO 1688.
-- Se disuelve totalmente el contrato de sociedad: 1. Por concluirse el tiempo convenido para su duración. O por acabarse la empresa o el negocio que fue objeto de la compañía;2. Por la perdida total de los capitales que constituían el fondo común; 3. Por quiebra de la sociedad; 4. Por muerte de uno de los socios; a no ser que la escritura contenga el pacto expreso para que continúen los herederos del socio difunto; 5. Por la interdicción judicial de uno de los socios, o por cualquiera otra causa que le prive de la administración de sus bienes;6. Por quiebra de cualquiera de los socios; 7. Por voluntad de uno de ellos. 
+- Se disuelve totalmente el contrato de sociedad: 
+  1. Por concluirse el tiempo convenido para su duración. O por acabarse la empresa o el negocio que fue objeto de la compañía:
+  2. Por la perdida total de los capitales que constituían el fondo común:
+  3. Por quiebra de la sociedad:
+  4. Por muerte de uno de los socios; a no ser que la escritura contenga el pacto expreso para que continúen los herederos del socio difunto:
+  5. Por la interdicción judicial de uno de los socios, o por cualquiera otra causa que le prive de la administración de sus bienes:
+  6. Por quiebra de cualquiera de los socios:
+  7. Por voluntad de uno de ellos. 
 
 ##### ARTÍCULO 1689.
 - Para que se prorrogue una sociedad cuyo tiempo ha espirado, se necesitan las mismas formalidades que para la celebración del contrato.
@@ -1506,13 +1578,20 @@
 - La transacción debe redactarse por escrito, sea en instrumento público ó privado, ó sea en una petición dirigida al juez, firmada por los interesados y con fe de firmas de los que la hacen. 
 
 ##### ARTÍCULO 1704.
-- De cualquier modo que se celebre la transacción debe contener: 1. Los nombres de los contratante; la relación puntual y lacónica de sus pretensiones; y si hay pleito pendiente, su estado y el juez ante quien pende.2. La forma y las circunstancias del convenio, bajo del cual se hace la transacción. 3. La renuncia que los contratantes hagan de cualquier acción, que tenga el uno contra el otro, sobre la cosa que es materia de la transacción. 4. La pena convencional, si quieren imponérsela. 
+- De cualquier modo que se celebre la transacción debe contener: 
+  1. Los nombres de los contratante; la relación puntual y lacónica de sus pretensiones; y si hay pleito pendiente, su estado y el juez ante quien pende:
+  2. La forma y las circunstancias del convenio, bajo del cual se hace la transacción:
+  3. La renuncia que los contratantes hagan de cualquier acción, que tenga el uno contra el otro, sobre la cosa que es materia de la transacción:
+  4. La pena convencional, si quieren imponérsela. 
 
 ##### ARTÍCULO 1705.
 - La transacción celebrada por escritura publica, producirá su efecto, desde que se otorgue legalmente:La que se haga por escritura privada, desde que se reduzca á instrumento público y se protocolice;Y la que conste por petición al juez, desde que se legalicen las firmas. 
 
 ##### ARTÍCULO 1706.
-- Para que la transacción sea valida se requiere. 1. Que las partes que transigen tengan la capacidad de disponer libremente de los objetos comprendidos en la transacción.2. Que las cosas sobre las cuales se transige sean dudosas o litigiosas. 3. Que las partes se prometan, cedan o den algo. 
+- Para que la transacción sea valida se requiere. 
+  1. Que las partes que transigen tengan la capacidad de disponer libremente de los objetos comprendidos en la transacción:
+  2. Que las cosas sobre las cuales se transige sean dudosas o litigiosas:
+  3. Que las partes se prometan, cedan o den algo. 
 
 ##### ARTÍCULO 1707.
 - La transacción hecha por uno de los interesados no obliga ni favorece á los demás.
@@ -1554,7 +1633,11 @@
 - Los depositarios solo podrán transigir sobre sus derechos y gastos causados en la conservación del depósito.
 
 ##### ARTÍCULO 1720.
-- Se prohíbe transigir: 1. Sobre lo que se deja en testamento, mientras vive el testador, y hasta que no se haga la apertura, si es testamento cerrado. 2. Sobre delitos futuros. 3. Sobre la pena impuesta en causa criminal. 4. Sobre causas matrimoniales; bien que se puede transigir sobre esponsales. 
+- Se prohíbe transigir:
+  1. Sobre lo que se deja en testamento, mientras vive el testador, y hasta que no se haga la apertura, si es testamento cerrado: 
+  2. Sobre delitos futuros:
+  3. Sobre la pena impuesta en causa criminal:
+  4. Sobre causas matrimoniales; bien que se puede transigir sobre esponsales. 
 
 ##### ARTÍCULO 1721.
 - Las transacciones en que no hayan concurrido los requisitos del artículo 1706, son nulas.
@@ -1569,7 +1652,12 @@
 - Si alguno transige sobre cosas prohibidas, hace una transacción nula. 
 
 ##### ARTÍCULO 1725.
-- Es además nula la transacción: 1. Si hubo error en cuanto a las personas que transigieron, o sobre las cosas que fueron materia de la transacción.2. Si intervino dolo, fuerza o violencia. 3. Si se celebro por un documento nulo, y en la transacción no se hizo merito de la nulidad.4. Si se hizo en virtud de documentos que han resultado falsos. 5. Si fue sobre un pleito en que había recaído sentencia ejecutoriada, de la que no tenían noticia las partes, o cuando menos una de ellas.
+- Es además nula la transacción: 
+  1. Si hubo error en cuanto a las personas que transigieron, o sobre las cosas que fueron materia de la transacción:
+  2. Si intervino dolo, fuerza o violencia: 
+  3. Si se celebro por un documento nulo, y en la transacción no se hizo merito de la nulidad:
+  4. Si se hizo en virtud de documentos que han resultado falsos:
+  5. Si fue sobre un pleito en que había recaído sentencia ejecutoriada, de la que no tenían noticia las partes, o cuando menos una de ellas.
 
 ##### ARTÍCULO 1726.
 - La pena convencional que se establezca en la transacción, no excederá de la quinta parte del valor que tenga la cosa.
@@ -1717,7 +1805,14 @@
 - Se requiere para este contrato: 1. Cosa asegurada.2. Riesgo a que se halle expuesta la cosa.3. Premio estipulado. 
 
 ##### ARTÍCULO 1773.
-- Deben los contratantes expresar en la escritura: 1. Las calidades específicas y el valor de la cosa asegurada; y si el seguro fuere de cosas que han de llevarse de un lugar a otro, se indicará además el número de los bultos, sus marcas y contenido, el valor que tienen en el lugar de donde se llevan, y el camino que deberán seguir los porteadores. 2. La parte que se asegura del valor de la cosa. 3. La relación específica de todos los riesgos. 4. La designación de las fechas o circunstancias en que empieza a correr riesgo, y en que termina.5. El precio que ha de ganar el asegurador; y el lugar, tiempo y modo en que debe verificarse el pago.6. El plazo, lugar y forma en que se pagará el asegurado, el daño parcial o total que sufriere la cosa.7. La fecha y la hora en que se firma la escritura. 
+- Deben los contratantes expresar en la escritura: 
+  1. Las calidades específicas y el valor de la cosa asegurada; y si el seguro fuere de cosas que han de llevarse de un lugar a otro, se indicará además el número de los bultos, sus marcas y contenido, el valor que tienen en el lugar de donde se llevan, y el camino que deberán seguir los porteadores. 
+  2. La parte que se asegura del valor de la cosa. 
+  3. La relación específica de todos los riesgos:
+  4. La designación de las fechas o circunstancias en que empieza a correr riesgo, y en que termina:
+  5. El precio que ha de ganar el asegurador; y el lugar, tiempo y modo en que debe verificarse el pago:
+  6. El plazo, lugar y forma en que se pagará el asegurado, el daño parcial o total que sufriere la cosa:
+  7. La fecha y la hora en que se firma la escritura. 
 
 ##### ARTÍCULO 1774.
 - Es nulo el contrato, si en el momento de concluirlo, sabe el asegurador la pérdida de la cosa, ó sabe el asegurador que ésta se halla fuera de riesgo.
@@ -1771,7 +1866,13 @@
 - Se puede asegurar también la vida de las personas. 
 
 ##### ARTÍCULO 1791.
-- La escritura del seguro de la vida debe contener: 1. El Nombre, domicilio, edad, sexo, y estado de la persona asegurada; 2. Las enfermedades de que adolece, o su sanidad; 3. El nombre y domicilio del que asegura; 4. El precio del seguro; 5. La cantidad que se ha de dar en caso de muerte a los herederos, o a la persona que se designe en la escritura;6. Todas las demás condiciones que estipulen los contratantes. 
+- La escritura del seguro de la vida debe contener: 
+  1. El Nombre, domicilio, edad, sexo, y estado de la persona asegurada:
+  2. Las enfermedades de que adolece, o su sanidad: 
+  3. El nombre y domicilio del que asegura:
+  4. El precio del seguro: 
+  5. La cantidad que se ha de dar en caso de muerte a los herederos, o a la persona que se designe en la escritura: 
+  6. Todas las demás condiciones que estipulen los contratantes. 
 
 ##### ARTÍCULO 1792.
 - En caso de quiebra declarada del asegurador, pendiente el riesgo de las cosas aseguradas, puede el asegurado exigirle fianzas.
@@ -1899,7 +2000,11 @@
 - Cuando se presta solo en consideración á la persona del comodatario, no pasan los derechos de este á sus herederos. 
 
 ##### ARTÍCULO 1832.
-- Son obligaciones del comodante: 1. Avisar si la cosa prestada tiene algún vicio oculto, conforme al articulo 1807, y bajo la responsabilidad allí establecida; 2. No pedir lo que presto, antes del tiempo estipulado, y en defecto de convecino, antes de haber servido en el uso para que fue prestada;3. Pagas los gastos extraordinarios; 4. Devolver la cosa en el termino estipulado, y en defecto de convención, después del uso que se hubiese determinado en el contrato. 
+- Son obligaciones del comodante: 
+  1. Avisar si la cosa prestada tiene algún vicio oculto, conforme al articulo 1807, y bajo la responsabilidad allí establecida:
+  2. No pedir lo que presto, antes del tiempo estipulado, y en defecto de convecino, antes de haber servido en el uso para que fue prestada:
+  3. Pagas los gastos extraordinarios: 
+  4. Devolver la cosa en el termino estipulado, y en defecto de convención, después del uso que se hubiese determinado en el contrato. 
 
 ##### ARTÍCULO 1836.
 - El comodatario que demora la devolución de la cosa, responde del daño y de la pérdida, aunque provengan de caso fortuito. 
@@ -1964,10 +2069,17 @@
 - El depósito de una cosa, cuyo valor no exceda de doscientos pesos, debe hacerse por escrito.Exceptúase el deposito necesario, que pueda hacerse verbalmente, cualquiera que sea el valor de la cosa depositada. 
 
 ##### ARTÍCULO 1856.
-- Son obligaciones del depositante: 1. Satisfacer al depositario los gastos hechos en la custodia y conservación de la cosa; 2. Resarcirle los daños y perjuicios que el deposito le hubiese causado. 
+- Son obligaciones del depositante: 
+  1. Satisfacer al depositario los gastos hechos en la custodia y conservación de la cosa: 
+  2. Resarcirle los daños y perjuicios que el deposito le hubiese causado. 
 
 ##### ARTÍCULO 1857.
-- Son obligaciones del depositario: 1. Cuidar de la cosa depositada. 2. Abstenerse de hacer uso de ella, sin consentimiento expreso del que la deposito; bajo de responsabilidad por su perdida, deterioro y destrucción, y por los provechos que reportare de este uso. 3. No registrar las cosas que se han depositado en arca, cofre, fardo o paquete, cerrados o sellados. 4. Devolver con sus frutos y rentas la misma cosa depositada, cuando la pida el depositante o lo mande el juez. 5. Indemnizar los daños y perjuicios que por su dolo o culpa hubiese sufrido el depositante.
+- Son obligaciones del depositario: 
+  1. Cuidar de la cosa depositada: 
+  2. Abstenerse de hacer uso de ella, sin consentimiento expreso del que la deposito; bajo de responsabilidad por su perdida, deterioro y destrucción, y por los provechos que reportare de este uso. 
+  3. No registrar las cosas que se han depositado en arca, cofre, fardo o paquete, cerrados o sellados:
+  4. Devolver con sus frutos y rentas la misma cosa depositada, cuando la pida el depositante o lo mande el juez: 
+  5. Indemnizar los daños y perjuicios que por su dolo o culpa hubiese sufrido el depositante.
 
 ##### ARTÍCULO 1858.
 - El depositario solo tiene la guarda de la cosa y no el uso. 
@@ -2000,7 +2112,12 @@
 - Si el depósito se hizo por un administrador, cuyo cargo terminó, se devolverá la cosa al dueño ó al que de nuevo lo represente. 
 
 ##### ARTÍCULO 1868.
-- El depositario no debe restituir el deposito a la misma persona de quien lo recibió:1. Si algún juez manda retenerlo; 2. Si aparece que la cosa pertenecerá a otra persona, o que había sido robada;  3. Si la cosa depositada es una arma, y la pide el depositante en un acceso de locura o furor, o para usar de ella en daño propio o de tercero; 4. Si el depositante era menor, o mujer casada, u otra persona incapaz de contratar; 5. Si el depositante se ha hecho incapaz por locura u otra causa de interdicción judicial, después del deposito.
+- El depositario no debe restituir el deposito a la misma persona de quien lo recibió:
+  1. Si algún juez manda retenerlo: 
+  2. Si aparece que la cosa pertenecerá a otra persona, o que había sido robada:  
+  3. Si la cosa depositada es una arma, y la pide el depositante en un acceso de locura o furor, o para usar de ella en daño propio o de tercero: 
+  4. Si el depositante era menor, o mujer casada, u otra persona incapaz de contratar: 
+  5. Si el depositante se ha hecho incapaz por locura u otra causa de interdicción judicial, después del deposito.
 
 ##### ARTÍCULO 1869.
 - En el caso segundo del articulo anterior, el depositario esta obligado á dar cuenta inmediata al juez, para que, previos los debidos tramites, resuelvan en justicia. 
@@ -2048,7 +2165,9 @@
 - El depositario de una persona se sujetara a las ordenes que reciba con respecto a ella. 
 
 ##### ARTÍCULO 1884.
-- Si el depositario hace trabajar al esclavo que le confiaron, es responsable del valor de su servicio. (*)  (*) Este articulo no tiene aplicación, por lo dicho en la nota del Artículo 28 inciso 4. TITULO IV De los censos
+- Si el depositario hace trabajar al esclavo que le confiaron, es responsable del valor de su servicio. (*)  (*) Este articulo no tiene aplicación, por lo dicho en la nota del Artículo 28 inciso 4. 
+
+#### TITULO IV. De los censos
 
 ##### ARTÍCULO 1885.
 - Los censos son enfitéuticos, consignativos o reservativos.Del censo enfitéutico
@@ -2093,16 +2212,37 @@
 - No se debe laudemio en los casos siguientes: 1. Cuando en la cosa enfitéutica se constituye dote para alguna hija, ni cuando se entregara a los hijos por anticipación de legitima;2. Cuando se transfiere por derecho de sucesión a los herederos forzosos; 3. Cuando el que la adquiere es el mismo dueño directo; 
 
 ##### ARTÍCULO 1898.
-- El dueño del dominio directo tiene derechos: 1. A exigir del enfiteuta el canon o rédito convenido; 2. A retraer el dominio útil, si lo vende el enfiteuta, guardándose respectivamente las disposiciones sobre retracto, contenidas en el titulo de compra - venta; 3. A cobrar el laudemio conforme al articulo 1896;  4. A recuperar el dominio útil por razón de comiso, o por haber concluido el termino estipulado;5. A todo lo demás que se hubiese pactado entre los contratantes. 
+- El dueño del dominio directo tiene derechos: 
+  1. A exigir del enfiteuta el canon o rédito convenido:
+  2. A retraer el dominio útil, si lo vende el enfiteuta, guardándose respectivamente las disposiciones sobre retracto, contenidas en el titulo de compra - venta: 
+  3. A cobrar el laudemio conforme al articulo 1896:  
+  4. A recuperar el dominio útil por razón de comiso, o por haber concluido el termino estipulado:
+  5. A todo lo demás que se hubiese pactado entre los contratantes. 
 
 ##### ARTÍCULO 1899.
-- Esta obligado el dueño directo: 1. A dejar libre y expedito al enfiteuta el uso y el aprovechamiento de la finca. 2. A la evicción y saneamiento, en el caso de que algún tercero, alegando derecho sobre la cosa enfitéutica, perturbe al enfiteuta en el goce del dominio útil, o le prive de el por sentencia judicial. 3. A hacer que se notifique judicialmente al enfiteuta la venta que hiciere del dominio directo, para que pueda usar del derecho de retracto. 
+- Esta obligado el dueño directo: 
+  1. A dejar libre y expedito al enfiteuta el uso y el aprovechamiento de la finca:
+  2. A la evicción y saneamiento, en el caso de que algún tercero, alegando derecho sobre la cosa enfitéutica, perturbe al enfiteuta en el goce del dominio útil, o le prive de el por sentencia judicial: 
+  3. A hacer que se notifique judicialmente al enfiteuta la venta que hiciere del dominio directo, para que pueda usar del derecho de retracto. 
 
 ##### ARTÍCULO 1900.
-- El enfiteuta tiene derecho: 1. A usar y gozar libremente de la cosa enfitéutica; 2. A defenderla en juicio o demandar en razón de ella; 3. A percibir los frutos ordinarios y extraordinarios que ella produzca, o que resulten de sus incrementos;  4. A mejorarla sin restricción alguna; 5. A retraer el dominio directo, si este fuere vendido; 6. A cobrar las mejoras que sean abonables, según los artículos 1892 y 1893, por el valor que tengan al acabarse la enfiteusis; 7. A celebrar cualquier contrato sobre la cosa enfitéutica, sin obligar ni gravar de ningún modo el dominio directo; 8. A pedir al dueño directo el saneamiento de la cosa enfitéutica. 
+- El enfiteuta tiene derecho: 
+  1. A usar y gozar libremente de la cosa enfitéutica: 
+  2. A defenderla en juicio o demandar en razón de ella: 
+  3. A percibir los frutos ordinarios y extraordinarios que ella produzca, o que resulten de sus incrementos: 
+  4. A mejorarla sin restricción alguna:
+  5. A retraer el dominio directo, si este fuere vendido: 
+  6. A cobrar las mejoras que sean abonables, según los artículos 1892 y 1893, por el valor que tengan al acabarse la enfiteusis: 
+  7. A celebrar cualquier contrato sobre la cosa enfitéutica, sin obligar ni gravar de ningún modo el dominio directo:
+  8. A pedir al dueño directo el saneamiento de la cosa enfitéutica. 
 
 ##### ARTÍCULO 1901.
-- Las obligaciones del enfiteuta son: 1. Conservar la cosa enfitéutica, a lo menos en el estado en que la recibió; 2. Pagar el canon en el tiempo, modo y lugar estipulados; 3. Hacer que se notifique judicialmente al señor directo la venta o quiera hacer de la cosa enfitéutica, para que use de los derechos de retracto y de laudemio en los casos de la ley; 4. No enajenarla en favor de manos muertas, pena d e nulidad; 5. Cumplir las demás obligaciones estipuladas en el contrato. 
+- Las obligaciones del enfiteuta son: 
+  1. Conservar la cosa enfitéutica, a lo menos en el estado en que la recibió:
+  2. Pagar el canon en el tiempo, modo y lugar estipulados:
+  3. Hacer que se notifique judicialmente al señor directo la venta o quiera hacer de la cosa enfitéutica, para que use de los derechos de retracto y de laudemio en los casos de la ley:
+  4. No enajenarla en favor de manos muertas, pena d e nulidad: 
+  5. Cumplir las demás obligaciones estipuladas en el contrato. 
 
 ##### ARTÍCULO 1902.
 - Si el enfiteuta no paga el canon en el termino de cuatro años, la cosa cae en comiso; y el señor directo puede reasumirla, previas decisión judicial. 
@@ -2117,7 +2257,12 @@
 - Cuando son dos o mas los enfiteutas o sus herederos, responden personalmente al pago del canon, cada uno por su parte y porción determinada en el contrato o en la herencia. Mas, su responsabilidad es solidaria, en cuanto basten para cubrirla, las mejoras y los derechos que tengan en la cosa enfitéutica, sin consideración alguna a la persona a quien correspondan. 
 
 ##### ARTÍCULO 1906.
-- Se extingue la enfiteusis: 1. Por el fenecimiento del termino señalado para su duración; 2. Por la perdida de la cosa enfitéutica, sea totalmente o sea tan considerable, que de ella no quede sino menos que la octava parte; 3. Por la consolidación o reunión de los dominios directo y útil en una misma persona; 4. Por la pena de comiso, declarada judicialmente a la solicitud del dueño directo; 5. Por la prescripción.  
+- Se extingue la enfiteusis: 
+  1. Por el fenecimiento del termino señalado para su duración:
+  2. Por la perdida de la cosa enfitéutica, sea totalmente o sea tan considerable, que de ella no quede sino menos que la octava parte: 
+  3. Por la consolidación o reunión de los dominios directo y útil en una misma persona: 
+  4. Por la pena de comiso, declarada judicialmente a la solicitud del dueño directo:
+  5. Por la prescripción.  
 
 ##### ARTÍCULO 1907.
 - Nunca revive el censo enfitéutico extinguido en alguno de los casos del artículo anterior.  De los censos consignativos y reservativo.
@@ -2141,7 +2286,10 @@
 - Los censatarios son responsables, a prorroga o solidariamente, según las reglas contenidas en el articulo 1905.
 
 ##### ARTÍCULO 1914.
-- El censo se extingue: 1. Por destruirse o hacerse infructífera la finca en que esta fundado; mas si el deterioro fue parcial, y tanto que la finca no produzca lo suficiente para el pago de la pensión, se disminuirá el canon hasta donde alcance el producto liquido; 2. Por redención del capital, que puede hacerse del todo en una vez, o por partes que no sean menores del décimo, sino hay avenimiento del censualista; 3. Por prescripción. 
+- El censo se extingue: 
+  1. Por destruirse o hacerse infructífera la finca en que esta fundado; mas si el deterioro fue parcial, y tanto que la finca no produzca lo suficiente para el pago de la pensión, se disminuirá el canon hasta donde alcance el producto liquido: 
+  2. Por redención del capital, que puede hacerse del todo en una vez, o por partes que no sean menores del décimo, sino hay avenimiento del censualista:
+  3. Por prescripción. 
 
 ##### ARTÍCULO 1915.
 - El censualista tiene derecho de retraer el fundo gravado, si se vendiere; y el censatario, el de retraer el derecho a la pensión, si lo enajenare el censualista. No se concede este retracto en favor de manos muertas.  En concurrencia de varios censualistas, prefiere el del censo mas antiguo; y entre los de una misma antigüedad, el de mayor capital. 
@@ -2195,7 +2343,12 @@
 - El mandatario puede aceptar o rehusar la comisión que se le da. 
 
 ##### ARTÍCULO 1931.
-- El mandatario esta obligado: 1. A desempeñar el mandato que hubiese admitido, mientras dure el encargo y no se le revoque; siendo responsable de los daños, y perjuicios que resulten de la enajenación;2. A concluir el negocio o encargo que estuviese empezado a la muerte del mandante, si la suspensión puede perjudicar a los interese de este; 3. A responder de las perdidas y perjuicios que cause al mandante por dolo o culpa en el manejo de los negocios; 4. A sujetarse a las instrucciones que hubiese recibido del demandante; 5. A dar cuentas de su administración.  
+- El mandatario esta obligado: 
+  1. A desempeñar el mandato que hubiese admitido, mientras dure el encargo y no se le revoque; siendo responsable de los daños, y perjuicios que resulten de la enajenación:
+  2. A concluir el negocio o encargo que estuviese empezado a la muerte del mandante, si la suspensión puede perjudicar a los interese de este:
+  3. A responder de las perdidas y perjuicios que cause al mandante por dolo o culpa en el manejo de los negocios:
+  4. A sujetarse a las instrucciones que hubiese recibido del demandante:
+  5. A dar cuentas de su administración.  
 
 ##### ARTÍCULO 1932.
 - El mandatario esta obligado á responder siempre por la culpa lata; y por la leve, solo cuando recibe salario. 
@@ -2478,7 +2631,10 @@
 - El que constituye una hipoteca, concede al acreedor sobre los bienes gravados un derecho real, que subsiste aun cuando pasen á terceros poseedores.
 
 ##### ARTÍCULO 2023.
-- Pueden ser hipotecados: 1. Los bienes inmuebles que son de libre disposición, y sus accesorios reputados inmuebles conforme a este Código;2. El usufructo y sus accesorios, durante la vida del usufructuario; 3. El dominio directo o útil de una cosa enfitéutica. 
+- Pueden ser hipotecados: 
+  1. Los bienes inmuebles que son de libre disposición, y sus accesorios reputados inmuebles conforme a este Código:
+  2. El usufructo y sus accesorios, durante la vida del usufructuario 
+  3. El dominio directo o útil de una cosa enfitéutica. 
 
 ##### ARTÍCULO 2024.
 - No pueden ser hipotecados las cosa que están fuera del comercio; como las consagradas al cultivo divino, las públicas y las destinadas al uso común de los pueblos.
@@ -2508,7 +2664,15 @@
 - Las hipotecas no pueden registrarse si no en el oficial correspondiente al lugar donde esté situado el fundo que se hipoteca, cualquiera que sea el lugar donde se contraiga la obligación que se asegura.
 
 ##### ARTÍCULO 2033.
-- Adquieren hipoteca por disposición de la ley, y sin que sea preciso registrar el titulo de la obligación principal.1. Los acreedores por gastos, contribuciones, salarios y demás que forman la primera clase, en concurso de otros, según el código de enjuiciamientos;2. Los dueños de heredades, de casas, ó de edificios, en los frutos, mejoras abonables, y existencias propias de los arrendatarios, para la seguridad de las rentas y para la reparación de los daños. La responsabilidad de los bienes ajenos ó de precio no pagado, que hubiese introducido el inquilino en la casa, se arreglara á lo dispuesto en el inciso 3 del artículo 1578;3. Los acreedores refaccionarios, en la finca, nave ó establecimiento industrial, cuya conservación, reparación o defensa se verifico con las obras, trabajo, materiales o dinero de aquellos; 4. El estado, la iglesia los pueblos y los establecimientos públicos, en los inmuebles de sus deudores y fiadores, para seguridad de las contribuciones, arrendamientos y otras responsabilidades civiles, procedentes de la recaudación o administración que estuvo a cargo de ellos. No se extiende este derecho de hipoteca sobre todos los bienes de los deudores y fiadores, cuando se les ha admitido una seguridad determinada para el cumplimiento de la obligación; 5. La mujer, en los inmuebles de su marido, por razón de la dote y bienes parafernales, conforme a las disposiciones que rigen en la sociedad conyugal; 6. Los hijos, para seguridad de los bienes cuya propiedad les pertenece y son administrados por su padre o madre, en los bienes de estos; y en los de su madre y de su padrastro, si aquella hubiese continuado en la administración después de contraer nuevo matrimonio;7. Los menores, incapaces ó ausentes, en los bienes de sus guardadores y fiadores, para seguridad de la administración que se les confía. Tienen también hipoteca legal, en la cosa comprada con dinero de los mismos menores, incapaces ó ausentes;8. Todo el que presto dinero para la compra de un inmueble, en la cosa comprada; si al adquirirse expreso en el contrato la procedencia del dinero que servia de precio.
+- Adquieren hipoteca por disposición de la ley, y sin que sea preciso registrar el titulo de la obligación principal.
+  1. Los acreedores por gastos, contribuciones, salarios y demás que forman la primera clase, en concurso de otros, según el código de enjuiciamientos:
+  2. Los dueños de heredades, de casas, ó de edificios, en los frutos, mejoras abonables, y existencias propias de los arrendatarios, para la seguridad de las rentas y para la reparación de los daños. La responsabilidad de los bienes ajenos ó de precio no pagado, que hubiese introducido el inquilino en la casa, se arreglara á lo dispuesto en el inciso 3 del artículo 1578:
+  3. Los acreedores refaccionarios, en la finca, nave ó establecimiento industrial, cuya conservación, reparación o defensa se verifico con las obras, trabajo, materiales o dinero de aquellos: 
+  4. El estado, la iglesia los pueblos y los establecimientos públicos, en los inmuebles de sus deudores y fiadores, para seguridad de las contribuciones, arrendamientos y otras responsabilidades civiles, procedentes de la recaudación o administración que estuvo a cargo de ellos. No se extiende este derecho de hipoteca sobre todos los bienes de los deudores y fiadores, cuando se les ha admitido una seguridad determinada para el cumplimiento de la obligación:
+  5. La mujer, en los inmuebles de su marido, por razón de la dote y bienes parafernales, conforme a las disposiciones que rigen en la sociedad conyugal:
+  6. Los hijos, para seguridad de los bienes cuya propiedad les pertenece y son administrados por su padre o madre, en los bienes de estos; y en los de su madre y de su padrastro, si aquella hubiese continuado en la administración después de contraer nuevo matrimonio:
+  7. Los menores, incapaces ó ausentes, en los bienes de sus guardadores y fiadores, para seguridad de la administración que se les confía. Tienen también hipoteca legal, en la cosa comprada con dinero de los mismos menores, incapaces ó ausentes:
+  8. Todo el que presto dinero para la compra de un inmueble, en la cosa comprada; si al adquirirse expreso en el contrato la procedencia del dinero que servia de precio.
 
 ##### ARTÍCULO 2034.
 - La hipoteca judicial resulta de la sentencia en que se imponga este gravamen sobre los bienes del deudor. 
@@ -2517,7 +2681,10 @@
 - Quedarán responsables los bienes en que se constituya la hipoteca judicial, sólo desde que se registre la sentencia en el libro de hipotecas.
 
 ##### ARTÍCULO 2036.
-- Se establece la hipoteca judicial. 1. Cuando litigándose sobre si es o no hipotecaria una obligación, se declara que lo es, según el convenio de las partes o según las disposiciones de los Códigos;2. Cuando por estar vencido el plazo de una obligación que aún no se ha pagado, o por haber desmejorado notablemente de fortuna el deudor de la obligación cuyo plazo no se ha cumplido, o por otra causa tal que amenace peligro al acreedor; pide éste, y se decide por el juez, que por razón de seguridad se le constituya una hipoteca;3. Cuando declarándose en la sentencia una obligación, se manda que, para la seguridad de su cumplimiento, se constituya una hipoteca en los bienes de la persona responsable. 
+- Se establece la hipoteca judicial. 
+  1. Cuando litigándose sobre si es o no hipotecaria una obligación, se declara que lo es, según el convenio de las partes o según las disposiciones de los Códigos:
+  2. Cuando por estar vencido el plazo de una obligación que aún no se ha pagado, o por haber desmejorado notablemente de fortuna el deudor de la obligación cuyo plazo no se ha cumplido, o por otra causa tal que amenace peligro al acreedor; pide éste, y se decide por el juez, que por razón de seguridad se le constituya una hipoteca:
+  3. Cuando declarándose en la sentencia una obligación, se manda que, para la seguridad de su cumplimiento, se constituya una hipoteca en los bienes de la persona responsable. 
 
 ##### ARTÍCULO 2037.
 - El juez designará los bienes en que se constituya la hipoteca, si el deudor es contumaz en señalarlos o en mejoras los que sean insuficientes.
@@ -2538,7 +2705,11 @@
 - La hipoteca establecida por convenio de partes, no pueden constituirse sino por escritura pública, registrada conforme a este Código.
 
 ##### ARTÍCULO 2043.
-- Se requiere para la validez de la hipoteca judicial y convencional: 1. Que el gravamen sea de cantidad determinada; 2. Que la finca gravada, se designe expresamente, y de modo que no pueda confundirse con otra;3. Que se registren en el oficio de hipotecas; 4. Que este registro se verifique en el término señalado en este título. 
+- Se requiere para la validez de la hipoteca judicial y convencional: 
+  1. Que el gravamen sea de cantidad determinada: 
+  2. Que la finca gravada, se designe expresamente, y de modo que no pueda confundirse con otra:
+  3. Que se registren en el oficio de hipotecas: 
+  4. Que este registro se verifique en el término señalado en este título. 
 
 ##### ARTÍCULO 2044.
 - Por la fecha del registro se decide de la antigüedad de las hipotecas. Son iguales en tiempo las que aparecen registradas en un mismo día. 
@@ -2556,7 +2727,11 @@
 - El acreedor puede exigir el pago, a su elección: o del deudor, por la acción personal que tiene contra de él; o del tercero poseedor de la cosa hipotecada, usando de la acción real. El uso de la primera acción no excluye el de la segunda; ni el dirigirla contra el deudor, obsta para que se haga la ejecución en la cosa hipotecada que está en poder de un tercero.
 
 ##### ARTÍCULO 2049.
-- El tercer poseedor de la cosa hipotecada tiene derecho. 1. De libertarla de la responsabilidad, pagando el crédito que resultare exequible por sentencia judicial;2. De pedir el saneamiento al vendedor, por las responsabilidades hipotecarias; o por todo el valor de la cosa, si fuesen equivalentes los gravámenes, o se le desapropiase de ella por consecuencia de la hipoteca; 3. De pedir la rescisión del contrato por el cual adquirió la cosa, si el vendedor no la liberta del gravamen hipotecario;4. De cobrar al vendedor el valor de los frutos, costas y perjuicios a que éste es responsable en los casos de saneamiento.
+- El tercer poseedor de la cosa hipotecada tiene derecho. 
+  1. De libertarla de la responsabilidad, pagando el crédito que resultare exequible por sentencia judicial:
+  2. De pedir el saneamiento al vendedor, por las responsabilidades hipotecarias; o por todo el valor de la cosa, si fuesen equivalentes los gravámenes, o se le desapropiase de ella por consecuencia de la hipoteca: 
+  3. De pedir la rescisión del contrato por el cual adquirió la cosa, si el vendedor no la liberta del gravamen hipotecario:
+  4. De cobrar al vendedor el valor de los frutos, costas y perjuicios a que éste es responsable en los casos de saneamiento.
 
 ##### ARTÍCULO 2050.
 - No puede el tercero poseedor de la cosa hipotecada gozar del derecho de pedir el saneamiento, sino conforme a lo dispuesto en el título de la compra-venta.
@@ -2565,10 +2740,18 @@
 - Habrá en cada capital de departamento y a cargo de un escribano público, un oficio de hipotecas para el registro de todas las que se constituyan sobre bienes ciertos y determinados.Por las leyes especiales y según lo permitan las circunstancias de los pueblos, se determinará el establecimiento del oficio de hipotecas, en los lugares que no sean capitales de departamento.
 
 ##### ARTÍCULO 2052.
-- Cada escribano de hipotecas registrará todas las que se impongan sobre bienes situados en su respectivo departamento: y llevará con tal objeto un libro en papel común, que tenga rubricadas todas sus hojas por el juez de primera instancia menos antiguo del lugar, y puesta en la primera página una anotación en que conste la fecha en que se abre este libro, el número de sus hojas, y los nombres del juez que las rubricó y del escribano a quien se confía el registro. Esta anotación será firmada por los visitadores de hipotecas designados en el artículo 2067, por el juez que hubiese rubricado el libro, y por el escribano que lo recibe.En este libro tomará razón el escribano, de las sentencias y de las escrituras públicas en que se imponga alguna hipoteca, escribiendo los asientos de cada tomo de razón, a renglón siguiente del anterior; firmándolo junto con la persona que le hubiese presentado la constancia legal del documento hipotecario; y poniendo al margen, el número que corresponda al asiento, y la suma de su contenido. La numeración de los asientos volverá á empezar cuando se abra otro libro, con las mismas formalidades, por haberse llenado el anterior.
+- Cada escribano de hipotecas registrará todas las que se impongan sobre bienes situados en su respectivo departamento: y llevará con tal objeto un libro en papel común, que tenga rubricadas todas sus hojas por el juez de primera instancia menos antiguo del lugar, y puesta en la primera página una anotación en que conste la fecha en que se abre este libro, el número de sus hojas, y los nombres del juez que las rubricó y del escribano a quien se confía el registro. Esta anotación será firmada por los visitadores de hipotecas designados en el artículo 2067, por el juez que hubiese rubricado el libro, y por el escribano que lo recibe.
+- En este libro tomará razón el escribano, de las sentencias y de las escrituras públicas en que se imponga alguna hipoteca, escribiendo los asientos de cada tomo de razón, a renglón siguiente del anterior; firmándolo junto con la persona que le hubiese presentado la constancia legal del documento hipotecario; y poniendo al margen, el número que corresponda al asiento, y la suma de su contenido. La numeración de los asientos volverá á empezar cuando se abra otro libro, con las mismas formalidades, por haberse llenado el anterior.
 
 ##### ARTÍCULO 2053.
-- En la toma de razón se expresará: 1.- El dueño del inmueble hipotecado; 2.- El valor de la obligación que se asegura con la hipoteca; 3.- El nombre de la persona a favor de la cual se constituye; 4.- La vecindad de los contratantes; 5.- La situación y los linderos de la finca hipotecada, y cuantas señales la determinen de modo que no pueda confundirse con otra;6.- La circunstancia de estar ó no hipotecado anteriormente el inmueble que se grava; 7.- El lugar y la fecha en que extendió la escritura de obligación, y el escribano que la autorizó;8.- El lugar y la fecha en que se toma razón. 
+- En la toma de razón se expresará: 
+  1. El dueño del inmueble hipotecado: 
+  2. El valor de la obligación que se asegura con la hipoteca:
+  3. El nombre de la persona a favor de la cual se constituye: 
+  4. La vecindad de los contratantes: 
+  5. La situación y los linderos de la finca hipotecada, y cuantas señales la determinen de modo que no pueda confundirse con otra:
+  6. La circunstancia de estar ó no hipotecado anteriormente el inmueble que se grava:
+  7. El lugar y la fecha en que extendió la escritura de obligación, y el escribano que la autorizó;8.- El lugar y la fecha en que se toma razón. 
 
 ##### ARTÍCULO 2054.
 - Si la hipoteca fuere judicial, se expresará en la toma de razón, además de lo prescrito en el artículo anterior, la sentencia que se expidió, el juez que la pronunció, la fecha en que lo hizo, el actuario que intervino, la confirmación superior que causó la ejecutoria, o el auto en que se hubiese declarado que la sentencia había pasado en autoridad de cosa juzgada. 
@@ -2610,7 +2793,10 @@
 - Son igualmente responsables los escribanos de hipotecas: 1. Por no haber registrado alguna de ellas; 2. Por los defectos de sus certificaciones que induzcan a error y causen daños y perjuicios;3. Por los vacíos que dejen entre uno y otro asiento del libro de hipotecas. 
 
 ##### ARTÍCULO 2067.
-- El último día de cada trimestre, el juez de primera instancia más antiguo, el agente fiscal y el primer síndico, examinarán bajo su responsabilidad, el libro corriente de hipotecas, y podrán por acta autorizada con sus firmas en el mismo libro:1. El resumen de los registros que se hubiesen practicado durante los últimos tres meses;2. Los defectos que se encuentren en el libro ó en las tomas de razón, ó la declaración de no haber ninguno;3. Las órdenes que libre el juez, ó las medidas que sea conveniente tomar para que la fe pública se conserve plenamente asegurada;
+- El último día de cada trimestre, el juez de primera instancia más antiguo, el agente fiscal y el primer síndico, examinarán bajo su responsabilidad, el libro corriente de hipotecas, y podrán por acta autorizada con sus firmas en el mismo libro:
+  1. El resumen de los registros que se hubiesen practicado durante los últimos tres meses:
+  2. Los defectos que se encuentren en el libro ó en las tomas de razón, ó la declaración de no haber ninguno:
+  3. Las órdenes que libre el juez, ó las medidas que sea conveniente tomar para que la fe pública se conserve plenamente asegurada.
 
 ##### ARTÍCULO 2068.
 - Aunque no estuviere vencido el trimestre, se cerrará el libro luego que esté lleno de asientos de hipotecas y en esta diligencia se observarán las mismas formalidades prescritas en el artículo anterior, poniéndose la acta después del último asiento.
@@ -2795,7 +2981,9 @@
 - No se puede recobrar lo pagado en virtud de una obligación natural y que no se debía por obligación civil, como la deuda de un menor o de una mujer casada.
 
 ##### ARTÍCULO 2127.
-- Tampoco se puede recobrar lo que se hubiese dado con objeto de alimentos, ó por causa de piedad, ó por efecto de entusiasmo, si antes ó en el acto de la entrega no se protestó, por documento público y con noticia del agraciado ó de quien lo representaba, el derecho de reclamar el pago. TÍTULO II DE LA COMUNIDAD Y DE LA PARTICION DE HERENCIA
+- Tampoco se puede recobrar lo que se hubiese dado con objeto de alimentos, ó por causa de piedad, ó por efecto de entusiasmo, si antes ó en el acto de la entrega no se protestó, por documento público y con noticia del agraciado ó de quien lo representaba, el derecho de reclamar el pago. 
+
+#### TÍTULO II. De la comunidad y de la participacion de herencia
 
 ##### ARTÍCULO 2128.
 - Desde que sucedan á una persona dos o más herederos, cada uno es propietario pro-indiviso, de los bienes de la herencia, en razón de la parte que tenga derecho a heredar.
@@ -2987,7 +3175,7 @@
 - Cuasidelitos son unos hechos ilícitos cometidos solo por culpa y sin dolo. 
 
 ##### ARTÍCULO 2191.
-- Cualquiera que por sus hechos, descuido ó imprudencia cause un perjuicio á otro, está obligado á subsanarlo.El padre y á su falta la madre están igualmente obligados por lo perjuicios que causen los hijos que tienen bajo su patria potestad.El guardador lo está por los `perjuicios que causen sus menores ó los incapaces que tiene á su cargo.  El maestro, por los que causen sus aprendices.Y en general, el que tenga á otro bajo su cuidado, por los daños que estos causen.
+- Cualquiera que por sus hechos, descuido ó imprudencia cause un perjuicio á otro, está obligado á subsanarlo.El padre y á su falta la madre están igualmente obligados por lo perjuicios que causen los hijos que tienen bajo su patria potestad.El guardador lo está por los perjuicios que causen sus menores ó los incapaces que tiene á su cargo. El maestro, por los que causen sus aprendices.Y en general, el que tenga á otro bajo su cuidado, por los daños que estos causen.
 
 ##### ARTÍCULO 2192.
 - El dueño de un animal, ó él que lo tiene á su cuidado, debe reparar los daños que este cause; á no ser que se hubiese perdido ó extraviado sin culpa del dueño.  Esta responsabilidad se extiende á cualquiera otro que hubiese tenido culpa en el daño causado por el animal.  
@@ -3012,9 +3200,11 @@
 
 ##### ARTÍCULO 2198.
 - Se obliga también á reparar los daños que causen:
-  1. El que tiene alguna cosa puesta ó suspendida en un lugar por donde pasan ó en que se paran los hombres, y cuya caída puede causar daño;  
-  2. El que corre por las calles á bestia, ó en cualquier especie de carro;
-  3. El que va dentro del carro y ordena la carrera al conductor;4. El que arrea bestias por las calles haciéndolas correr;5. El que caza con armas de fuego ó pone traspasa en el camino.
+  1. El que tiene alguna cosa puesta ó suspendida en un lugar por donde pasan ó en que se paran los hombres, y cuya caída puede causar daño:
+  2. El que corre por las calles á bestia, ó en cualquier especie de carro:
+  3. El que va dentro del carro y ordena la carrera al conductor:
+  4. El que arrea bestias por las calles haciéndolas correr:
+  5. El que caza con armas de fuego ó pone traspasa en el camino.
 
 ##### ARTÍCULO 2199.
 - La estimación del daño es sujeta á reducción, si el que lo sufrió se ha expuesto á él imprudentemente.  

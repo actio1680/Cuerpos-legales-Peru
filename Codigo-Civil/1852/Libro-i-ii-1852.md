@@ -1,6 +1,6 @@
 ## CÓDIGO CIVIL DEL PERÚ 1852
 
-[> Leer presentación](https://actio1680.github.io/paginas/cc1852)
+[> Leer presentación](https://actio1680.github.io/proyecto2/cc1852)
 
 ### DOCUMENTO DIGITAL[^1]
 

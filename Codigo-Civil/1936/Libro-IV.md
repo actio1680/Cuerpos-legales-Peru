@@ -1,4 +1,8 @@
+## CÓDIGO CIVIL DEL PERÚ 1936
+
 [> Leer presentación](https://actio1680.github.io/proyecto2/cc1936)
+
+### DOCUMENTO DIGITAL[^1]
 
 ## LIBRO IV. DE LOS DERECHOS REALES
 

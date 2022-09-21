@@ -1,5 +1,3 @@
-| Código Civil del Perú 1984: Antecedentes y actualizaciones |
-| --- |
 
 ### LIBRO V. Derechos reales
 #### SECCIÓN PRIMERA. Disposciones generales
@@ -16,13 +14,11 @@
 > ***[Modificación]***
 >
 > (D. Leg. 653, DOEP - 1 de agosto de 1991)
-> 
 > Artículo 883.- DEROGADO.
 
-> ***[Anterior]***
+> ***[Concordancias]***
 >
 > Código Civil 1936
-> 
 > [Artículo 852.-](https://github.com/Will5678/cuerpos_legales_peru/blob/main/Codigo-Civil/1936/Libro-IV.md#art%C3%ADculo-812--son-inmuebles)
 > - Por los actos jurídicos sólo pueden establecerse los derechos reales reconocidos en este Código. No se 
 > puede establecer la prohibición de enajenar, salvo en los casos permitidos por la ley.

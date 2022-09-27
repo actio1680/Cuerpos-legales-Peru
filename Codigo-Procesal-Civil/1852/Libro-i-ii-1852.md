@@ -1,6 +1,6 @@
 ## CÓDIGO DE ENJUICIAMIENTOS EN MATERIA CIVIL 1852
 
-[> Leer presentación](https://actio1680.github.io/proyecto2/cpcivil1852.md)
+[> Leer presentación](https://actio1680.github.io/proyecto2/cpcivil1852)
 
 ### DOCUMENTO DIGITAL[^1]
 

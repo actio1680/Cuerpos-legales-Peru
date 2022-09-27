@@ -2205,13 +2205,16 @@
 - Las contribuciones prediales se pagaran por el dueño del dominio útil, quien descontara al dueño directo la parte proporcional al canon enfitéutico.
 
 ##### ARTÍCULO 1895.
-- La enfiteusis no se constituye sino por escritura publica sino por Escritura Pública, y en ella pueden los contratantes estipular todas las cláusulas y condiciones que no estén prohibidas por la ley. 
+- La enfiteusis no se constituye sino por Escritura Pública, y en ella pueden los contratantes estipular todas las cláusulas y condiciones que no estén prohibidas por la ley. 
 
 ##### ARTÍCULO 1896.
 - Pueden los contratantes convenir en que se pague algún laudemio al dueño del dominio directo, en cada vez que se enajene el fundo enfitéutico. 
 
 ##### ARTÍCULO 1897.
-- No se debe laudemio en los casos siguientes: 1. Cuando en la cosa enfitéutica se constituye dote para alguna hija, ni cuando se entregara a los hijos por anticipación de legitima;2. Cuando se transfiere por derecho de sucesión a los herederos forzosos; 3. Cuando el que la adquiere es el mismo dueño directo; 
+- No se debe laudemio en los casos siguientes: 
+  1. Cuando en la cosa enfitéutica se constituye dote para alguna hija, ni cuando se entregara a los hijos por anticipación de legitima:
+  2. Cuando se transfiere por derecho de sucesión a los herederos forzosos: 
+  3. Cuando el que la adquiere es el mismo dueño directo.
 
 ##### ARTÍCULO 1898.
 - El dueño del dominio directo tiene derechos: 
@@ -2267,7 +2270,9 @@
   5. Por la prescripción.  
 
 ##### ARTÍCULO 1907.
-- Nunca revive el censo enfitéutico extinguido en alguno de los casos del artículo anterior.  De los censos consignativos y reservativo.
+- Nunca revive el censo enfitéutico extinguido en alguno de los casos del artículo anterior.  
+
+##### De los censos consignativos y reservativo
 
 ##### ARTÍCULO 1908.
 - El censo consignativo consiste en el derecho de cobrar, por tiempo indeterminado, cierto rédito o canon anual; en virtud de haberse impuesto el capital respectivo sobre un fundo, cuyo poseedor no esta obligado a redimirlo. El censo reservativo consiste en el mismo derecho de cobrar el canon, pero en virtud de la cesión de un fundo, hecha con esta condición. 

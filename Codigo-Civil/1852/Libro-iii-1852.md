@@ -2170,7 +2170,9 @@
 #### TITULO IV. De los censos
 
 ##### ARTÍCULO 1885.
-- Los censos son enfitéuticos, consignativos o reservativos.Del censo enfitéutico
+- Los censos son enfitéuticos, consignativos o reservativos.
+
+##### Del censo enfitéutico
 
 ##### ARTÍCULO 1886.
 - Censo enfitéutico, es un contrato por el cual una persona transfiere a otra el dominio útil de un fundo, por cierto rédito o canon anual, conservando el dominio directo. 

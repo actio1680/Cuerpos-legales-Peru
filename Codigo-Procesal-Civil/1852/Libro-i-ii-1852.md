@@ -9,7 +9,7 @@
 #### TITULO PRIMERO. De la jurisdicción y sus especies
 
 ##### ARTÍCULO 1. 
-- La jurisdiccion ó el poder de administrar justicia corresponde á los magistrados y jueces , elegidos ó nombrados conforme á las leyes
+- La jurisdiccion ó el poder de administrar justicia corresponde á los magistrados y jueces , elegidos ó nombrados conforme á las leyes.
 
 ##### ARTÍCULO 2.
 - Egercen tambien jurisdiccion las personas que los interesados nombran, conforme á este código, para que como árbitros conozcan en algun negocio particular.
@@ -49,7 +49,8 @@
   5. Los de comercio: 
   6. Los de minería: 
   7. Los de diezmos: 
-  8. Los del fuero eclesiástico: 9. Los del fuero militar. 
+  8. Los del fuero eclesiástico: 
+  9. Los del fuero militar. 
 
 ##### ARTÍCULO 12. 
 - Tienen jurisdiccion voluntaria los árbitros, en los juicios de compromiso; y los jueces ordinarios, cuando egercitan su jurisdiccion interponiendo su autoridad en asuntos convenidos por los interesados. 

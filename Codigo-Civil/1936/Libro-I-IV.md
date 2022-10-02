@@ -94,7 +94,6 @@ XIX.-
 
 #### TÍTULO I. Del principio y fin de la personalidad
 
-#### TÍTULO I.
 ##### ARTÍCULO 1.
 - El nacimiento determina la personalidad. Al que está por nacer se le reputa nacido para todo lo que le favorece, a condición de que nazca vivo.
 
@@ -102,6 +101,92 @@ XIX.-
 - Los que tienen un derecho susceptible de desaparecer o de disminuirse por el nacimiento de un póstumo pueden designar persona que se cerciore de la realidad del nacimiento. Igual derecho corresponde al marido en los casos de divorcio o de nulidad del matrimonio.
 
 - Si la persona designada es rechazada el juez hará el nombramiento, el cual debe recaer en persona facultativa si la hubiere.
+
+##### ARTÍCULO 3.
+- La madre debe dar aviso de la proximidad del parto a los que puedan usar de la facultad concedida por el artículo anterior.
+
+##### ARTÍCULO 4.
+- La mujer grávida puede solicitar que se reconozca su estado.
+
+##### ARTÍCULO 5.
+- Los varones y las mujeres gozan de los mismos derecho civiles, salvo las restricciones establecidas respecto de las mujeres casadas.
+
+##### ARTÍCULO 6.
+- La muerte pone fin a la personalidad.
+
+##### ARTÍCULO 7.
+- Si no se puede probar cual de dos o más personas murió primero, se las reputa fallecidas al mismo tiempo y entre ellas no habrá trasmisión de derechos hereditarios. 
+
+#### TITULO II. De la capacidad e incapacidad 
+
+
+##### ARTÍCULO 8.
+- Son personas capaces de ejercer los derechos civiles las que han cumplido 21 años.
+
+##### ARTÍCULO 9.
+- Son absolutamente incapaces:   
+  1. Los menores de 16 años;
+  2. Los que adolecen de enfermedad mental que los priva de discernimiento;   
+  3. Los sordo-mudos que no saben expresar su voluntad de una manera indubitable;   
+  4. Los desaparecidos cuya ausencia está judicialmente declarada.   
+
+##### ARTÍCULO 10.
+- Son relativamente incapaces los mayores de 16 años, y los sujetos a curatela no comprendidos en el artículo anterior.
+
+##### ARTÍCULO 11.
+- La incapacidad de las personas mayores de 18 años cesa por emancipación, por matrimonio y por obtener título oficial que autorice para ejercer una profesión u oficio.
+
+##### ARTÍCULO 12.
+- Los casos en que los menores de 16 años pueden practicar algunos actos civiles están determinados por la ley. 
+
+#### TITULO III. De la protección del nombre  
+
+##### ARTÍCULO 13.
+- Aquel cuyo apellido es contestado puede pedir el reconocimiento de su derecho.
+
+##### ARTÍCULO 14.
+- El que es perjudicado por la usurpación de su nombre tiene acción para hacerla cesar y para que se le indemnicen los daños y perjuicios que la suplantación le ha causado.
+
+##### ARTÍCULO 15.
+- Nadie puede cambiar de nombre o apellido ni añadir otro a los suyos, sin autorización obtenida por los trámites prescritos en el Código de Procedimientos Civiles para la rectificación de las partidas del estado civil.
+
+##### ARTÍCULO 16.
+- La resolución que autoriza el cambio o adición del nombre se publicará en el periódico destinado a los avisos judiciales y se anotará al margen de la partida de nacimiento.
+
+##### ARTÍCULO 17.
+- El cambio o adición del nombre no altera la condición civil del que lo obtiene ni constituye prueba de la filiación.   
+
+##### ARTÍCULO 18.
+- La persona perjudicada por un cambio de nombre puede impugnarlo judicialmente dentro de un año a partir del día en que se publicó la resolución. 
+
+
+#### TITULO IV. Del domicilio  
+
+
+##### ARTÍCULO 19.
+- El domicilio se constituye por la residencia en un lugar con ánimo de permanecer en él.
+
+##### ARTÍCULO 20.
+- Si una persona vive alternativamente o tiene ocupaciones habituales en varios lugares se considera domiciliada en cualquiera de ellos.
+
+##### ARTÍCULO 21.
+- La persona que no tiene residencia habitual se considera domiciliada en el lugar donde se encuentra.   
+
+##### ARTÍCULO 22.
+- Se cambia de domicilio por declaración expresa ante la Municipalidad o por el trascurso de dos años de residencia voluntaria en otro lugar.
+
+##### ARTÍCULO 23.
+- Los incapaces tienen por domicilio el de sus representantes legales.   
+
+##### ARTÍCULO 24.
+- La mujer casada tiene por domicilio el de su marido.   
+
+##### ARTÍCULO 25.
+- Los funcionarios públicos están domiciliados en el lugar donde ejercen sus funciones.
+
+
+
+
 
 
 (continuaaa)

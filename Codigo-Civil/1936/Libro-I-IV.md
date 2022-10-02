@@ -89,7 +89,7 @@ XIX.-
 ##### XXV.- 
 - Los jueces respecto de las Cortes Superiores y éstas respecto de la Corte Suprema tienen la obligación a que se refiere el artículo anterior.
 
-## LIBRO I. Del derecoh de las personas     
+## LIBRO I. Del derecho de las personas     
 ### SECCIÓN PRIMERA. De las personas naturales
 
 #### TÍTULO I. Del principio y fin de la personalidad

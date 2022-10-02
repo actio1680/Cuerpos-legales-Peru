@@ -222,5 +222,5 @@ Código. No se puede establecer la prohibición de enajenar, salvo en los casos 
 
 ---
 
-[^1]: Perú. (1939). Código Civil. Promulgado por Decreto Supremo de 30 de Agosto de 1936 en uso de la autorización contenida en la Ley 8305. Imprenta americana. [Enlace](https://www.congreso.gob.pe/Docs/biblioteca/Codigos/006679/index.html)
+[^1]: Perú. (1936). Código Civil. Promulgado por Decreto Supremo de 30 de Agosto de 1936 en uso de la autorización contenida en la Ley 8305. Imprenta americana. [Enlace](https://www.congreso.gob.pe/Docs/biblioteca/Codigos/006679/index.html)
 

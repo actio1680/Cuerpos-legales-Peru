@@ -1100,6 +1100,7 @@ Las causas 2 y 4 serán apreciadas por el juez teniendo en cuenta la educación 
 
 ##### ARTÍCULO 281.
 - Cualquiera de los cónyuges puede pedir durante el juicio que se le autorice para vivir separado de la casa común. Obtenida la autorización, ambos dispondrán de libertad para fijar su domicilio.   
+
 ##### ARTÍCULO 282.
 - Alcanzada la separación provisional, el cónyuge pobre podrá pedir que se le asigne una pensión alimenticia y la cantidad que necesite para su defensa.
 
@@ -1165,6 +1166,518 @@ Las causas 2 y 4 serán apreciadas por el juez teniendo en cuenta la educación 
 
 ##### ARTÍCULO 300.
 - El hijo se presume legítimo aunque la madre declare contra su legitimidad o sea condenada como adúltera.
+
+
+##### ARTÍCULO 301.
+- El marido que no se crea padre del hijo de su mujer, puede negarlo:   
+  1. Cuando el hijo naciere antes de cumplidos ciento ochenta días de la celebración del matrimonio;  
+  2. Cuando sea manifiestamente imposible, dadas las circunstancias, que haya cohabitado con su mujer en los primeros ciento veintiún días de los trescientos precedentes al del nacimiento del hijo;  
+  3. Cuando hubiere estado judicialmente separado en la época de la de la concepción. No podrá alegarse esta causa, si los cónyuges hubiesen cohabitado durante la época referida;  
+  5. Cuando adoleciere de impotencia absoluta.   
+
+##### ARTÍCULO 302.
+- En los casos 1, 2 y 3, del artículo anterior, no podrá el marido intentar la acción sino en el término de noventa días contados, desde el día del parto si estuvo presente en el lugar, o desde el día de su regreso si estuvo ausente o desde que se descubrió el fraude si se le hubiera ocultado el parto.
+
+##### ARTÍCULO 303.
+- La acción para negar la paternidad corresponde al marido. Sin embargo, sus herederos y sus ascendientes legítimos podrán continuar el juicio si él lo hubiera dejado abierto.
+
+##### ARTÍCULO 304.
+- Cuando el marido estuviere bajo curatela por causa de enfermedad mental, de debilidad mental o de sordo-mudez, la acción podrá ser ejercida por sus ascendientes legítimos. Si éstos no la intentaren podrá hacerlo el marido al salir de la curatela.
+
+##### ARTÍCULO 305.
+- La acción se intentará conjuntamente contra el hijo y su madre.   
+
+##### ARTÍCULO 306.
+- El marido no puede negar al hijo por nacer.   
+
+##### ARTÍCULO 307.
+- El marido no puede negar al hijo que alumbró su mujer fuera de tiempo:   
+  1. Si antes del matrimonio tuvo conocimiento de la preñez;  
+  2. Si lo hubiese reconocido como suyo, expresa o tácitamente;  
+  3. Si hubiese expirado el término señalado en el artículo 302;  
+  4.- Si el hijo ha muerto.   
+
+##### ARTÍCULO 308.
+- El hijo puede pedir que se declare su filiación. Esta acción es imprescriptible.
+
+##### ARTÍCULO 309.
+- La acción se intentará conjuntamente contra el padre y la madre.   
+
+##### ARTÍCULO 310.
+- La acción pasa a los herederos del hijo:   
+  1.-Si el hijo murió antes de cumplir veinticinco años sin haber interpuesto la demanda;   
+  2.-Si el hijo devino incapaz antes de cumplir veinticinco años y murió en el mismo estado.   
+En este caso y en el del inciso anterior, tendrán los herederos dos años de término para interponer la acción;  
+3.-Si el hijo dejó abierto el juicio de filiación.   
+
+##### ARTÍCULO 311.
+- La filiación legítima se prueba con la partida del registro de nacimientos, o por otro documento público en el caso del inciso 2 del artículo 307, o por sentencia en los casos del artículo 301.  
+- A falta de estas pruebas, bastará la posesión constante del estado de hijo legítimo.   
+
+##### ARTÍCULO 312.
+- En defecto de partida de nacimiento, de otro documento público, de sentencia o de posesión de estado, la filiación legítima podrá probarse por cualquier medio, siempre que haya un principio de prueba escrita que provenga de uno de los padres.
+
+##### ARTÍCULO 313.
+- Cuando se reúnan en favor de la filiación legítima la posesión y el título que da el registro de nacimientos, no podrá ser contestada por ninguno ni aún por el mismo hijo. 
+
+#### TITULO III. De la legitimación  
+##### ARTÍCULO 314.
+- La legitimación de los hijos nacidos fuera de matrimonio tiene lugar:   
+  1. Por el subsiguiente matrimonio de los padres, en cuyo caso opera de pleno derecho;  
+  2. Por declaración judicial.   
+
+##### ARTÍCULO 315.
+- Si los contrayentes tuvieren hijos legítimos o descendientes de éstos, el subsiguiente matrimonio sólo legitimará a los concebidos en tiempo en que el padre y la madre no tenían impedimento para casarse.
+
+##### ARTÍCULO 316.
+- El subsiguiente matrimonio legitima a los hijos aunque sea nulo, si uno de los cónyuges, por lo menos tuvo buena fe al tiempo de celebrarlo.
+
+##### ARTÍCULO 317.
+- Los hijos legitimados por subsiguiente matrimonio tienen los mismos derechos que los legítimos.
+
+##### ARTÍCULO 318.
+- Los descendientes del que murió antes de celebrarse el matrimonio de sus padres se reputan descendientes de un hijo legitimado.
+
+##### ARTÍCULO 319.
+- Para la legitimación por declaración judicial se requiere:   
+  1. Que no sea posible la legitimación por subsiguiente matrimonio;   
+  2. Que el padre o la madre que la pide no tenga hijos legítimos ni legitimados por subsiguiente matrimonio, ni descendientes de ellos;  
+  3. Que el padre no tenga hijos reconocidos de la misma madre o descendientes de éstos, salvo que legitime a todos aquellos.
+
+##### ARTÍCULO 320.
+- El hijo mayor de diez y ocho años no podrá ser legitimado por declaración judicial, sin su consentimiento.
+
+##### ARTÍCULO 321.
+- La legitimación por declaración judicial puede ser demandada por los padres o por uno de ellos.   
+- También puede ser demandada por el hijo cuyo padre o madre, muerto o devenido incapaz, haya manifestado en su testamento o por instrumento público la voluntad de legitimarlo.  Después de la muerte del hijo la acción pasa a sus descendientes.   
+
+##### ARTÍCULO 322.
+- La demanda se presentará a la Corte Superior del distrito judicial en que tenga su domicilio el demandante. La Corte, en sala plena, después de oír al ministerio fiscal, declarará la legitimación si concurren los requisitos exigidos por este Código.
+
+##### ARTÍCULO 323.
+- La legitimación por declaración judicial produce los mismos efectos que la operada por subsiguiente matrimonio, pero únicamente respecto del padre o de la madre que la ha solicitado.
+
+##### ARTÍCULO 324.
+- La legitimación podrá ser impugnada por los herederos presuntos del padre o de la madre, dentro del término de tres meses, a partir del día en que hayan tenido conocimiento de ella, cuando el hijo no proceda de sus pretendidos padres o cuando no concurran los requisitos señalados por este título.  
+- Podrán también impugnar la legitimación, el propio hijo legitimado y su padre. La acción que les corresponde es imprescriptible.
+
+##### ARTÍCULO 325.
+- La legitimación se anotará en el registro civil del lugar del nacimiento del hijo, al margen de la partida respectiva. 
+
+#### TITULO IV. De la adopción  
+
+##### ARTÍCULO 326.
+- Para la adopción se requiere:   
+  1. Que el adoptante sea mayor de cincuenta años y que goce de buena reputación;   
+  2. Que el adoptante sea mayor que el adoptado, cuando menos en dieciocho años;   
+  3. Que el adoptante no tenga descendientes con derecho a heredar;   
+  4. Que cuando el adoptante sea casado concurra el consentimiento de su cónyuge;   
+  5. Que el adoptado preste su consentimiento, si es mayor de catorce años;   
+  6. Que consientan los padres del adoptado, si se halla bajo la patria potestad;   
+  7. Que se oiga al tutor o al curador del adoptado y al consejo de familia, si el adoptado es menor de dieciocho años o incapaz y no tiene padres;   
+  8. Que consienta el cónyuge del adoptado;   
+  9. Que sea declarada por el juez, si la cree conveniente para el adoptado.   
+Este último requisito se refiere sólo al menor de edad.   
+
+##### ARTÍCULO 327.
+- La filiación del adoptado no servirá de causa para impugnar la adopción.   
+
+##### ARTÍCULO 328.
+- La adopción no puede hacerse bajo modalidad alguna.   
+
+##### ARTÍCULO 329.
+- Ninguno puede ser adoptado por más de una persona, a no ser por dos cónyuges.   
+
+##### ARTÍCULO 330.
+- El tutor no puede adoptar a la persona sujeta a su tutela sino después de haber cumplido ésta veintiún años y estar aprobada la cuenta final del cargo y satisfecho el alcance que resulte de ella.  
+- Sin este último requisito, tampoco puede el curador adoptar al incapaz.   
+
+##### ARTÍCULO 331.
+- Si la persona a quien se pretende adoptar tiene bienes y está bajo patria potestad o bajo guarda, no podrá verificarse la adopción sin que se inventaríen y tasen dichos bienes y sin que el adoptante constituya garantía suficiente a juicio de la persona de quien el presunto adoptado dependa.   
+
+##### ARTÍCULO 332.
+- Por la adopción adquiere el adoptado la calidad de hijo legítimo del adoptante.
+
+##### ARTÍCULO 333.
+- El parentesco proveniente de la adopción se limita al adoptante y al adoptado y a los descendientes legítimos de éste.
+
+##### ARTÍCULO 334.
+- La adopción confiere al adoptado el apellido del adoptante, añadido al de su padre.
+
+##### ARTÍCULO 335.
+- El adoptado conserva los derechos y deberes que le corresponden en su familia natural, pero está bajo la patria potestad del adoptante.
+
+##### ARTÍCULO 336.
+- No se concede a los padres el usufructo de los bienes de sus hijos adoptivos.
+
+##### ARTÍCULO 337.
+- El adoptante debe alimentos al adoptado y a los descendientes de éste. La obligación es recíproca, y para el adoptante precede a la de los padres del adoptado.
+
+##### ARTÍCULO 338.
+- El adoptado y sus descendientes son herederos del adoptante; pero éste no hereda al adoptado sino por testamento.
+
+##### ARTÍCULO 339.
+- Cuando el adoptado muere sin descendencia, vuelven al adoptante que le sobrevive los bienes existentes en especie que de éste haya recibido.
+
+##### ARTÍCULO 340.
+- No cesan los efectos de la adopción aunque sobrevengan hijos al adoptante.  
+- Tampoco cesa si el adoptante reconoce hijos ilegítimos.   
+
+##### ARTÍCULO 341.
+- El menor o el incapaz que haya sido adoptado podrá impugnar la adopción dentro del año siguiente a su mayoría o a la fecha en que desapareció su incapacidad.   
+
+##### ARTÍCULO 342.
+- La revocación de la adopción será declarada por el juez, a instancia del adoptado, si existen justos motivos, y a instancia del adoptante, en caso de ingratitud del adoptado.
+
+##### ARTÍCULO 343.
+- La adopción y su revocación se inscribirán en el registro civil, al margen de la partida de nacimiento.
+
+##### ARTÍCULO 344.
+- Los efectos de la adopción pueden limitarse a la obligación de alimentar al menor, educarlo y darle una carrera u oficio.  En caso de muerte del adoptante, esta obligación pasa a sus herederos.   
+
+##### ARTÍCULO 345.
+- Para la adopción menos plena se requiere que el adoptado sea menor de quince años.   
+
+##### ARTÍCULO 346.
+- Si el menor no tuviere padres conocidos, prestará su consentimiento el jefe del establecimiento donde se hallare o el director de la beneficencia pública del lugar.
+
+##### ARTÍCULO 347.
+- La relación legal entre adoptante y adoptado cesa, en el caso de la adopción menos plena, al llegar éste a su mayoría. Sin embargo, si el adoptado no se encontrare aún en estado de ganarse la vida, subsistirá para el adoptante la obligación de darle una carrera u oficio. 
+
+#### TITULO V. De la filiación ilegítima  
+
+##### ARTÍCULO 348.
+- Son hijos ilegítimos los nacidos fuera de matrimonio.   
+
+##### ARTÍCULO 349.
+- La filiación materna ilegítima se establece por el hecho del nacimiento.   
+
+##### ARTÍCULO 350.
+- El reconocimiento y la sentencia declaratoria de la paternidad son los únicos medios de prueba de la filiación paterna ilegítima.
+
+##### ARTÍCULO 351.
+- La filiación paterna y la materna ilegítimas pueden resultar del matrimonio nulo, en el caso de que ambos contrayentes hubieran procedido de mala fe.
+
+##### ARTÍCULO 352.
+- El hijo ilegítimo puede ser reconocido por el padre y la madre conjuntamente, o por uno solo de ellos.
+
+##### ARTÍCULO 353.
+- En caso de muerte o de incapacidad permanente del padre o de la madre, el hijo ilegítimo puede ser reconocido por el abuelo paterno o por el abuelo materno, respectivamente, cuando éstos son padres legítimos del premuerto o del incapaz.
+
+##### ARTÍCULO 354.
+- El reconocimiento de los hijos ilegítimos se hará en el registro de nacimientos o en escritura pública o en testamento.
+
+##### ARTÍCULO 355.
+- El reconocimiento en el registro civil se hará al inscribir el nacimiento. Podrá hacerse también mediante declaración posterior, por acta en el mismo registro, firmada por el que lo practica, ante dos testigos, y autorizada por el funcionario respectivo.
+
+##### ARTÍCULO 356.
+- Cuando el padre o la madre hiciere el reconocimiento separadamente, no podrá revelar el nombre de la persona con quien hubiere tenido el hijo.  
+- Este artículo no rige respecto del padre que reconoce al hijo simplemente concebido.   
+
+##### ARTÍCULO 357.
+- El menor capaz para testar puede reconocer a su hijo en el testamento que otorgue.   
+
+##### ARTÍCULO 358.
+- Puede reconocerse al hijo que ha muerto dejando descendientes.   
+
+##### ARTÍCULO 359.
+- El reconocimiento es irrevocable y no admite modalidad.   
+
+##### ARTÍCULO 360.-
+El hijo ilegítimo reconocido por uno de los cónyuges no podrá vivir en la casa conyugal sin el consentimiento del otro.
+
+##### ARTÍCULO 361.
+- El hijo ilegítimo llevará el apellido del padre o de la madre, según quien lo hubiera reconocido o el del padre si fue reconocido por ambos.
+
+##### ARTÍCULO 362.
+- El reconocimiento de un hijo ilegítimo mayor de edad no confiere al que lo hace derecho sucesorio ni derecho a alimentos, sino en el caso de que el hijo tenga respecto de él la posesión constante de estado o consienta en el reconocimiento.   
+
+##### ARTÍCULO 363.
+- El reconocimiento puede ser impugnado por el padre o la madre que no ha intervenido en él; por el propio hijo, o sus descendientes si hubiera muerto; y por quienes tengan interés legítimo.
+
+##### ARTÍCULO 364.
+- El plazo para impugnar el reconocimiento será de tres meses, a partir del día en que se tuvo conocimiento del acto.
+
+##### ARTÍCULO 365.
+- El hijo menor puede en todo caso impugnar el reconocimiento dentro del año siguiente a su mayoría o a su emancipación.
+
+##### ARTÍCULO 366.
+- La paternidad ilegítima puede ser judicialmente declarada:   
+  1. Cuando exista escrito indubitado del padre en que la reconozca;   
+  2. Cuando el hijo se halle en la posesión constante del estado de hijo ilegítimo del padre, justificada por actos directos de éste o de su familia;  
+  3. En los casos de violación, estupro o rapto, cuando la época del delito coincida con la de la concepción;  
+  4. Cuando el presunto padre hubiera vivido en concubinato con la madre durante la época de la concepción;  
+  5. En el caso de seducción de la madre, cumplida con abuso de autoridad o con promesa de matrimonio, en época contemporánea de la concepción, y siempre que para el segundo supuesto exista principio de prueba escrita.
+
+##### ARTÍCULO 367.
+- Fuera de los casos expresados en el artículo anterior, el hijo ilegítimo sólo podrá reclamar una pensión alimenticia, hasta la edad de dieciocho años, del que hubiera tenido relaciones sexuales con su madre durante la época de la concepción.  
+- Esta acción subsistirá aunque la madre hubiera transigido o renunciado a incoarla, si lo hizo en condiciones manifiestamente perjudiciales para los intereses del hijo.
+
+##### ARTÍCULO 368.
+- Si cumplida la edad de dieciocho años no se hallare el hijo, por incapacidad física o mental, en condiciones de proveer a su subsistencia, le deberá el padre la pensión alimenticia mientras dure la incapacidad.
+
+##### ARTÍCULO 369.
+- En los casos de los artículos 366 y 367, la madre tiene derecho a alimentos durante los sesenta días anteriores y los sesenta siguientes al parto, así como al pago de todos los gastos ocasionados por éste y por el embarazo.
+
+##### ARTÍCULO 370.
+- La madre tiene derecho a ser indemnizada del daño moral en los casos de promesa de matrimonio, de cohabitación delictuosa o de minoridad al tiempo de la concepción.   
+##### ARTÍCULO 371.
+- Las acciones concedidas en los artículos 366, inciso 4, 367, 369 y 370 son improcedentes :   
+1. Si durante la época de la concepción la madre llevó una vida notoriamente desarreglada, o tuvo comercio carnal con persona distinta del padre;  
+2. Si durante la época de la concepción fue manifiestamente imposible al demandado tener acceso carnal con la madre  
+
+##### ARTÍCULO 372.
+- Si la madre estaba casada en la época de la concepción sólo puede admitirse la acción para que se declare la paternidad en el caso de que el marido hubiera negado al hijo y obtenido sentencia favorable.  
+- El plazo para intentar la acción corre desde la fecha de la sentencia.   
+
+##### ARTÍCULO 373.
+- En el caso del inciso 4 del artículo 366, y para los efectos de los artículos 367 y 370, se presume la paternidad, salvo que concurran las circunstancias expresadas en el artículo 371.
+
+##### ARTÍCULO 374.
+- La maternidad ilegítima puede ser judicialmente declarada cuando se prueba el hecho del parto y la identidad del hijo.
+
+##### ARTÍCULO 375.
+- La acción para que se declare la paternidad o la maternidad no corresponde sino al hijo  
+
+##### ARTÍCULO 376.
+- La madre, aunque sea menor de edad, puede intentar la acción en nombre del hijo, durante la minoría de este. El tutor, en su caso, no podrá hacerlo sin autorización del consejo de familia.
+
+##### ARTÍCULO 377.
+- La acción no pasa a los herederos del hijo. Sin embargo, sus descendientes pueden continuar el juicio que dejó abierto.
+
+##### ARTÍCULO 378.
+- La acción puede ser intentada contra el padre o sus herederos.   
+
+##### ARTÍCULO 379.
+- No podrá intentarse la acción para que se declare la paternidad después de trascurridos tres años de la mayoría del hijo. Sin embargo, en el caso del inciso 2 del artículo 366, la acción subsiste hasta la expiración del año siguiente al fallecimiento del presunto padre.
+
+##### ARTÍCULO 380.
+- La acción para que se declare la maternidad es imprescriptible.   
+
+##### ARTÍCULO 381.
+- La acción que corresponde al hijo, en los casos de los artículos 367 y 368, es personal; pero sus herederos pueden continuarla una vez iniciada.
+
+##### ARTÍCULO 382.
+- El plazo para interponer la acción es de tres años, que comenzarán a contarse desde el día del nacimiento, o desde la cesación de los socorros suministrados directa o indirectamente por el demandado.
+
+##### ARTÍCULO 383.
+- Las acciones concedidas a la madre en los artículos 369 y 370 son personales y deben ser intentadas dentro del año siguiente al parto.
+
+##### ARTÍCULO 384.
+- Las acciones a que se refieren los artículos 366, 369 y 370, podrán intentarse antes del nacimiento del hijo.
+
+##### ARTÍCULO 385.
+- Las acciones contempladas en los artículos 366, 369 y 370, se interpondrán ante el juez del domicilio que el demandante tenía al tiempo del nacimiento, o ante el juez del domicilio del demandado.   
+
+##### ARTÍCULO 386.
+- Las acciones concedidas contra el padre en los artículos 367, 369 y 370 pueden interponerse también contra sus herederos. Estos, sin embargo, no tendrán que pagar al hijo más de lo que habría recibido corno heredero si hubiese sido reconocido.
+
+##### ARTÍCULO 387.
+- Todo el que tenga interés legítimo puede contradecir la demanda para que se declare la paternidad o la maternidad.
+
+##### ARTÍCULO 388.
+- La sentencia que declara la paternidad o la maternidad ilegítima produce los mismos efectos que el reconocimiento.
+
+##### ARTÍCULO 389.
+- El fallo que condona al pago de alimentos, en virtud del artículo 367, produce los mismos efectos que el reconocimiento en lo concerniente a los impedimentos matrimoniales derivados del parentesco. 
+
+#### TITULO VI  De la patria potestad  
+
+##### ARTÍCULO 390.
+- Los padres, por la patria potestad, tienen el deber y el derecho de cuidar de la persona y bienes de sus hijos menores.
+
+##### ARTÍCULO 391.
+- La patria potestad se ejerce por el padre y la madre, durante el matrimonio. En caso de disentimiento prevalecerá la opinión del padre.
+
+##### ARTÍCULO 392.
+- Cuando la patria potestad se ejerza a la vez por el padre y la madre, el representante legal del hijo y el administrador de sus bienes será el padre.
+
+##### ARTÍCULO 393.
+- En caso de divorcio o de nulidad de matrimonio, la patria potestad se ejerce por el cónyuge a quien se confían los hijos.
+
+##### ARTÍCULO 394.
+- La patria potestad sobre los hijo ilegítimos voluntariamente reconocidos por el padre se ejerce por él.  Sin embargo, el juez, a pedido de la madre, podrá confiarle la patria potestad, o resolver que la ejerza hasta determinada edad del hijo, si el interés de éste así lo exige.
+
+##### ARTÍCULO 395.
+- La patria potestad sobre los hijos ilegítimos no reconocidos voluntariamente por el padre corresponde a la madre, aunque ésta sea menor de edad.  
+- Esto no obstante, el juez podrá confiar a un curador la guarda de la persona o de los bienes del hijo si así lo exige el interés de éste.
+
+##### ARTÍCULO 396.
+- En todo caso, los padres tienen derecho a conservar con los hijos que no estén bajo su patria potestad las relaciones personales indicadas por las circunstancias.
+
+##### ARTÍCULO 397.
+- Los hijos están obligados a respetar, obedecer y honrar a sus padres.   
+
+##### ARTÍCULO 398.
+- Son deberes y derechos de los que ejercen la patria potestad:   
+  1. Alimentar y educar a los hijos, con arreglo a su situación;   
+  2. Dirigir la instrucción profesional de los hijos conforme a su vocación y aptitudes;   
+  3. Corregir moderadamente a los hijos. Cuando esto no bastare podrán ocurrir a la autoridad;  
+  4. Aprovechar de los servicios de los hijos, atendiendo a su edad y condición;   
+  5. Tener a los hijos en su compañía y recogerlos del lugar donde estuviesen sin su permiso ocurriendo a la autoridad si fuere necesario.   
+  6. Representar a los hijos en los actos de la vida civil;   
+  7. Administrar los bienes de los hijos;   
+  8. Hacer suyos los frutos de los bienes de los hijos menores de dieciocho años. Tratándose de minas se observará lo dispuesto en el artículo 957.
+
+##### ARTÍCULO 399.
+- Subsiste la obligación impuesta en el inciso 1del artículo anterior respecto de los hijos que estén siguiendo con éxito una carrera u oficio, y de las hijas solteras que no se encontraren en estado de ganarse la vida.
+
+##### ARTÍCULO 400.
+- El usufructo legal continuará hasta la mayoría del hijo, si éste se casare sin el consentimiento de sus padres.   
+
+##### ARTÍCULO 401.
+- Están exceptuados del usufructo legal:   
+  1. Los bienes donados o dejados en testamento a los hijos con la condición de que el usufructo no corresponda a los padres;  
+  2. Los bienes donados o dejados en testamento a los hijos para un fin cierto y determinado;  
+  3. La herencia que haya pasado a los hijos por indignidad de los padres o por haber sido éstos desheredados; 
+  4. Los bienes de los hijos que les sean entregados por su padres para que ejerzan una profesión o industria; 
+  5. Las sumas depositadas en cuenta de ahorros a nombre de los hijos;   
+  6. Lo que los hijos adquieran por su trabajo, profesión o industria, ejercidos con el consentimiento de sus padres.
+
+##### ARTÍCULO 402.
+- Las cargas del usufructo legal son:   
+1. Las obligaciones que pesan sobre todo usufructuario, excepto la de prestar garantía.  
+2. Los gastos de subsistencia y educación de los hijos.   
+
+##### ARTÍCULO 403.
+- Si una empresa comprendida en el usufructo legal dejare pérdida algún año, corresponderán al hijo los beneficios de los años siguientes hasta que la pérdida se compense.
+
+##### ARTÍCULO 404.
+- Por hechos o por deudas de los padres no puede embargarse el goce del usufructo legal sino dejando lo necesario para llenar las cargas de éste.
+
+##### ARTÍCULO 405.
+- Los padres no pueden trasmitir su derecho de usufructo pero si renunciar a él en cualquier momento.
+
+##### ARTÍCULO 406.
+- El cónyuge que ejerza la patria potestad después de disuelto el matrimonio está obligado a hacer inventario judicial de los bienes de los hijos, o pena de perder el usufructo legal.
+
+##### ARTÍCULO 407.
+- No están obligados los padres a dar garantías para asegurar la responsabilidad de su administración, salvo que el juez, a perdido del consejo de familia, resuelva que las constituya, por requerirlo el interés del hijo. En este caso regirá, en cuando fuere aplicable, el artículo 500.
+
+##### ARTÍCULO 408.
+- Los padres no están obligados a dar cuenta de su administración sino al terminar ésta, a no ser que el juez, a solicitud del consejo de familia resuelva otra cosa.   
+
+##### ARTÍCULO 409.
+- Tratándose de los bienes comprendidos en el usufructo, y por el tiempo que éste dure, los padres responden solamente de la propiedad.
+
+##### ARTÍCULO 410.
+- Los artículos 536, 537 y 551, son a aplicables a las cuentas que tienen que rendir los padres que administran bienes de sus hijos.
+
+##### ARTÍCULO 411.
+- Los padres deben invertir el dinero de los hijos con arreglo a los artículos 505 y 507.
+
+##### ARTÍCULO 412.
+- El juez, a pedido del consejo de familia, puede modificar o suspender en cualquier tiempo las resoluciones que hubiese dictado de conformidad con los artículos 407 y 408.   
+
+##### ARTÍCULO 413.
+- Los padres no pueden enajenar ni gravar los bienes de los hijos, ni contraer en nombre de ellos obligaciones que excedan de los límites de la administración, salvo por causas justificadas de utilidad o de necesidad y previa autorización judicial. Necesitan también de esta autorización para practicar los actos enumerados en el artículo 522, excepto los comprendidos en los incisos 2, 5, 8, 9, 10 y 14.
+
+##### ARTÍCULO 414.
+- Pueden demandar la nulidad de los actos practicados con infracción del artículo anterior:  
+  1. El hijo, dentro de los dos años siguientes a su mayor edad o a su emancipación;   
+  2. Los herederos del hijo, dentro de los dos años siguientes a la muerte de éste, cuando muera antes de llegar a su mayoría;  
+  3. El representante legal del hijo, si durante la minoría cesa la patria potestad. En este caso el plazo corre desde la fecha en que el padre pierda la patria potestad.
+
+##### ARTÍCULO 415.
+- Están excluidos de la administración legal, los bienes donados o dejados en testamento a los hijos bajo la condición de que sus padres no los administren, y los adquiridos por los hijos conforme a los incisos 4 y 6 del artículo 401.
+
+##### ARTÍCULO 416.
+- La administración y el usufructo legales cesan por la declaración de quiebra.
+
+##### ARTÍCULO 417.
+- Siempre que el padre o la madre tenga un interés opuesto al de sus hijos, se nombrará a éstos un curador especial.  
+- El juez, a petición del padre o de la madre, del mismo menor, del ministerio fiscal, de cualquier otra persona o de oficio conferirá el cargo al pariente a quien correspondería la tutela legítima. A falta de éste, el consejo de familia elegirá a otro pariente o a un extraño.
+
+##### ARTÍCULO 418.
+- El padre o la madre que quiera contraer nuevo matrimonio deberá pedir al juez, antes de celebrarlo, que convoque al consejo de familia para que éste decida si conviene o no que siga con la administración de los bienes de sus hijos del matrimonio anterior.  
+- En los casos de resolución afirmativa los nuevos cónyuges serán solidariamente responsables.  
+- En caso negativo, así como cuando el padre o a la madre se excusare de administrar los bienes de los hijos, el consejo de familia nombrará un curador.
+
+##### ARTÍCULO 419.
+- El padre del hijo ilegítimo reconocido y la madre del hijo ilegítimo quedan sujetos a lo dispuesto en el artículo anterior.   
+
+##### ARTÍCULO 420.
+- El padre o la madre que se casare sin cumplir la obligación que le impone el artículo 418, perderá la administración y el usufructo de los bienes de los hijos del anterior matrimonio, quedando los nuevos cónyuges solidariamente responsables como los tutores.
+
+##### ARTÍCULO 421.
+- El juez podrá confiar a un curador, en todo o en parte, la administración de los bienes de los hijos sujetos a la patria potestad exclusiva de la madre:  
+  1. Cuando lo pide la madre misma indicando la persona del curador;   
+  2. Cuando el padre lo hubiese nombrado en su testamento y el juez estimare conveniente esta medida. El nombramiento podrá recaer en una persona jurídica.
+
+##### ARTÍCULO 422.
+- El juez puede autorizar a los hijos, por causas graves, para que vivan separados del padre o de la madre que hubiese contraído matrimonio, poniéndoseles bajo el cuidado de otra persona.   
+
+##### ARTÍCULO 423.
+- Si el padre o la madre vuelve a enviudar recobrará la administración y el usufructo de los bienes de los hijos del anterior matrimonio, que hubiera perdido conforme al artículo 420.
+
+##### ARTÍCULO 424.
+- Si el que ejerce la patria potestad pone en peligro los bienes de los hijos  pierde la administración y el usufructo legal.
+
+##### ARTÍCULO 425.
+- La patria potestad se acaba:   
+  1. Por la muerte de los padres o del hijo;   
+  2. Por cesar la incapacidad del hijo conforme al artículo 11;  
+  3. Por la adopción;  
+  4. Por cumplir el hijo veintiún años de edad.   
+
+##### ARTÍCULO 426.
+- Cuando la patria potestad se acabe por la muerte del hijo, deberá cuidar el padre de los negocios comprendidos en la administración legal hasta que el heredero provea a ello.
+
+##### ARTÍCULO 427.
+- La patria potestad se pierde por condenación a penas que produzcan tal efecto.
+
+##### ARTÍCULO 428.
+- Les padres pueden ser privados de la patria potestad:   
+  1. Si dan órdenes, consejos o ejemplos corruptores a sus hijos;  
+  2. Si los tratan con dureza excesiva;  
+  3. Si los abandonan.   
+
+##### ARTÍCULO 429.
+- Cuando la conducta de los padres no bastare para declarar la pérdida de la patria potestad, el juez podrá limitar ésta hasta donde lo exija el interés bien entendido de los hijos.
+
+##### ARTÍCULO 430.
+- Los efectos de la pérdida o de la limitación de la patria potestad se extenderán a los hijos nacidos después de que haya sido declarada.
+
+##### ARTÍCULO 431.
+- Si el padre o la madre que ha perdido la patria potestad contrajere matrimonio, podrá pedir al juez, en caso de nacer hijos, que le otorgue la patria potestad sobre éstos.
+
+##### ARTÍCULO 432.
+- En los casos de los artículos 424, 428, 429, y 434, el consejo de familia proveerá de un curador al hijo, para el juicio en que han de justificarse las causas de pérdida, privación, limitación o suspensión de la patria potestad.
+
+##### ARTÍCULO 433.
+- El juez, a solicitud de parte o de oficio, nombrará curador para los hijos y proveerá a su seguridad y a la de sus bienes conforme al artículo 1054 del Código de Procedimiento Civiles, en caso de que el consejo de familia no cumpla con lo dispuesto en el artículo anterior, o de que resulte perjuicio de no tomarse inmediatamente las precauciones necesarias.
+
+##### ARTÍCULO 434.
+- La patria potestad se suspende:   
+  1. Por la incapacidad o por la ausencia de los padres, judicialmente declarada;   
+  2. Por la interdicción civil;  
+  3. Cuando se compruebe que los padres se hallan impedidos de hecho para ejercerla;   
+  4. En el caso señalado por el artículo 255.   
+
+##### ARTÍCULO 435.
+- La pérdida, privación, limitación o suspensión de la patria potestad no altera los deberes de los padres para con los hijos.   
+
+##### ARTÍCULO 436.
+- Los padres que hubiesen perdido la patria potestad, o a los cuales se les hubiese suspendido o limitado su ejercicio, podrán pedir la restitución de ella, cuando cesen las causas que motivaron la pérdida, suspensión o limitación.  
+- Esta acción no podrá intentarse sino pasados tres años de la sentencia correspondiente.
+
+##### ARTÍCULO 437.
+- El juez podrá restituir la patria potestad total o parcialmente, según convenga al menor.
+
+##### ARTÍCULO 438.
+- La capacidad del hijo sometido a la patria potestad, es la misma que la del menor bajo tutela. 
+
+#### TITULO VII. De los alimentos  
+
+##### ARTÍCULO 439.
+- Se entiende por alimentos todo lo que es indispensable para el sustento, habitación, vestido y asistencia médica según la posición social de la familia.  
+- Los alimentos comprenden también la educación del alimentista y su instrucción profesional cuando es menor de edad.
+
+##### ARTÍCULO 440.
+- El mayor de dieciocho años sólo tiene derecho a alimentos cuando no puede adquirirlos con su trabajo.  
+- Si la causa que lo ha reducido a la miseria fuese su propia inmoralidad, sólo podrá exigir lo estrictamente necesario para la subsistencia.  
+- No se aplica lo dispuesto en el párrafo anterior cuando el alimentista es ascendiente del obligado a prestar los alimentos.
+
 
 
 

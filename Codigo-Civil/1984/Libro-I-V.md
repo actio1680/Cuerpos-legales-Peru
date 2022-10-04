@@ -1,3 +1,8 @@
+## CÓDIGO CIVIL DEL PERÚ 1984
+
+[> Leer presentación](https://actio1680.github.io/proyecto2/cc1984)
+
+### DOCUMENTO DIGITAL[^1]
 
 ### LIBRO V. Derechos reales
 #### SECCIÓN PRIMERA. Disposciones generales
@@ -5,10 +10,10 @@
 ##### ARTÍCULO 881.- Noción de derechos reales
 - Son derechos reales los regulados en este Libro y otras leyes.
 
-##### Artículo 882.- IMPROCEDENCIA DE PROHIBICIÓN DE ENAJENAR O GRAVAR
+##### ARTÍCULO 882.- IMPROCEDENCIA DE PROHIBICIÓN DE ENAJENAR O GRAVAR
 - No se puede establecer contractualmente la prohibición de enajenar o gravar, salvo que la ley lo permita.
 
-##### Artículo 883.- NORMAS QUE RIGEN LOS PREDIOS RÚSTICOS
+##### ARTÍCULO 883.
 - Los derechos reales sobre predios rústicos se rigen por la legislación de la materia.
 
 > ***[Modificación]***
@@ -23,30 +28,35 @@
 > - Por los actos jurídicos sólo pueden establecerse los derechos reales reconocidos en este Código. No se 
 > puede establecer la prohibición de enajenar, salvo en los casos permitidos por la ley.
 
-##### Artículo 884.-NORMAS QUE RIGEN LA PROPIEDAD INCORPORAL
+##### ARTÍCULO 884.
 - Las propiedades incorporales se rigen por su legislación especial.
 
 
 #### SECCIÓN SEGUNDA. Bienes
 #### TÍTULO I. Clases de bienes
 
-##### Artículo 885.- BIENES INMUEBLES
-
-Son inmuebles:
-
-1. El suelo, el subsuelo y el sobresuelo.
-2. El mar, los lagos, los ríos, los manantiales, las corrientes de agua y las aguas vivas o estanciales.
-3. Las minas, canteras y depósitos de hidrocarburos.
-4. Las naves y aeronaves.
-5. Los diques y muelles.
-6. Los pontones, plataformas y edificios flotantes.
-7. Las concesiones para explotar servicios públicos.
-8. Las concesiones mineras obtenidas por particulares.
-9. Las estaciones y vías ferrocarriles y el material rodante afectado al servicio.
-10. Los derechos sobre inmuebles inscribibles en el registro.
-11. Los demás bienes a los que la ley les confiere tal calidad300.
+##### ARTÍCULO 885.
+- Son inmuebles:
+  1. El suelo, el subsuelo y el sobresuelo.
+  2. El mar, los lagos, los ríos, los manantiales, las corrientes de agua y las aguas vivas o estanciales.
+  3. Las minas, canteras y depósitos de hidrocarburos.
+  4. Las naves y aeronaves.
+  5. Los diques y muelles.
+  6. Los pontones, plataformas y edificios flotantes.
+  7. Las concesiones para explotar servicios públicos.
+  8. Las concesiones mineras obtenidas por particulares.
+  9. Las estaciones y vías ferrocarriles y el material rodante afectado al servicio.
+  10. Los derechos sobre inmuebles inscribibles en el registro.
+  11. Los demás bienes a los que la ley les confiere tal calidad.
 
 
------------------------
+
+[Subir](#top)
+
+---
+
+[^1]: Perú. (1984). Código Civil. Promulgado por Decreto Supremo de .... Imprenta americana. [Enlace]()
+
+
 
 

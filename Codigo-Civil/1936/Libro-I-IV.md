@@ -5,88 +5,88 @@
 ### DOCUMENTO DIGITAL[^1]
 #### TITULO PRELIMINAR
 
-##### I .- 
+##### ARTÍCULO I. 
 - Ninguna ley se deroga sino por otra ley.
 
-##### II.- 
+##### ARTÍCULO II. 
 - La ley no ampara el abuso del derecho.
 
-##### III.- 
+##### ARTÍCULO III.
 - No se puede pactar contra las leyes que interesan al orden público o a las buenas costumbres.
 
-##### IV.- 
+##### ARTÍCULO IV.
 - Para ejercitar o contestar una acción es necesario tener legítimo interés económico o moral. El interés moral sólo autoriza la acción cuando se refiere directamente al agente o a su familia, salvo disposición expresa de la ley.
 
-##### V.- 
+##### ARTÍCULO V.
 - El estado y la capacidad civil de las personas se rigen por la ley del domicilio, pero se aplicará la ley peruana cuando se trate de peruanos.
 
 - Las mismas leyes regularán los derechos de familia y las relaciones personales de los cónyuges así como el régimen de los bienes de éstos.
 
-##### VI.- 
+##### ARTÍCULO VI.
 - Los bienes, cualquiera que sea su clase, están regidos por la ley de su situación.
 
-##### VII.- 
+##### ARTÍCULO VII.
 - La naturaleza y efectos de la obligación se rigen por la ley del lugar donde fue contraída.
 
-##### VIII.- 
+##### ARTÍCULO VIII.
 - La sucesión, en lo concerniente a los derechos de los herederos y a la validez intrínseca del testamento, se rige por la ley personal del causante, salvo las disposiciones de la ley peruana que se aplicarán a los nacionales, a los extranjeros domiciliados, y cuando se trate de la herencia vacante.
 
-##### IX.- 
+##### ARTÍCULO IX.
 - La existencia y capacidad civil de las personas jurídicas extranjeras, de derecho
 privado, se rigen por la ley del país en el cual se han constituido.
 
 - La capacidad de las personas jurídicas extranjeras nunca podrá ser contraria al orden
 público ni más extensa que la concedida a las nacionales.
 
-##### X.- 
+##### ARTÍCULO X.
 - Las leyes extranjeras no son aplicables cuando son contrarias al orden público o a las buenas costumbres.
 
-##### XI.- 
+##### ARTÍCULO XI.
 - Las partes litigantes pueden ofrecer las pruebas que tengan por conveniente sobre la existencia de la ley extranjera y su sentido, pero si la actuación de la prueba corresponde al juez, éste puede negar o restringir los medios que no considere idóneos.
 
-##### XII.- 
+##### ARTÍCULO XII.
 - Los jueces pueden solicitar del Poder Ejecutivo que, por la vía diplomática, obtenga de los tribunales del Estado cuya ley se trata de aplicar, un informe sobre la existencia de la ley y su sentido.
 
-##### XIII.- 
+##### ARTÍCULO XIII.
 - La Corte Suprema está autorizada para contestar las consultas que se le dirijan por un tribunal extranjero, por la vía diplomática, sobre puntos del derecho nacional.
 
-##### XIV.- 
+##### ARTÍCULO XIV.
 - Ningún habitante del Perú puede eximirse de las obligaciones contraídas en la República conforme a las leyes.
 
-##### XV.- 
+##### ARTÍCULO XV.
 - La Constitución designa quienes son peruanos y quienes extranjeros. Las leyes sobre extranjería y sobre naturalización regularán todo lo concerniente a dichos estados.
 
-##### XVI.- 
+##### ARTÍCULO XVI.
 - El derecho de propiedad y los demás derechos civiles son comunes a peruanos y extranjeros, salvo las prohibiciones y limitaciones que por motivo de necesidad nacional se establezcan para los extranjeros y las personas jurídicas extranjeras.
 
-##### XVII.- 
+##### ARTÍCULO XVII.
 - Tanto los peruanos como los extranjeros domiciliados en el Perú, donde quiera que se hallen, pueden ser citados ante los tribunales de la República, para el cumplimiento de los contratos celebrados con peruano o extranjero domiciliado en el Perú.
 
-##### XVIII.- 
+##### ARTÍCULO XVIII.
 - El extranjero que se halle en el Perú, aunque no sea domiciliado, puede ser obligado al cumplimiento de los contratos celebrados con peruanos, aun en país extranjero, sobre objetos que no estén prohibidos por las leyes de la República.
 
-XIX.- 
+##### ARTÍCULO XIX. 
 - Los residentes en el extranjero, estén o no domiciliados en la República, pueden ser demandados:
   1. Cuando se les exija el cumplimiento de obligaciones que hayan contraído o que deban ejecutarse en el Perú;
   2. Cuando se entable acción real concerniente a bienes ubicados en la República;
   3. Cuando se ha estipulado que los tribunales del Perú decidan la controversia.
 
-##### XX.- 
+##### ARTÍCULO XX.
 - La forma de los actos jurídicos y de los instrumentos se rige por la ley del lugar en que se otorgan o por la ley que regula la relación jurídica objeto del acto. Cuando los instrumentos son otorgados ante funcionarios diplomáticos o consulares del Perú, se observarán las solemnidades establecidas por la ley peruana.
 
-##### XXI.- 
+##### ARTÍCULO XXI.
 - Los jueces no pueden dejar de aplicar las leyes.
 
-##### XXII.- 
+##### ARTÍCULO XXII.
 - Cuando hay incompatibilidad entre una disposición constitucional y una legal se prefiere la primera.
 
-##### XXIII.- 
+##### ARTÍCULO XXIII.
 - Los jueces no pueden dejar de administrar justicia por deficiencia de la ley. En tal caso deben aplicar los principios del derecho.
 
-##### XXIV.- 
+##### ARTÍCULO XXIV.
 - La Corte Suprema dará cuenta al Congreso de los vacíos y defectos de la legislación.
 
-##### XXV.- 
+##### ARTÍCULO XXV.
 - Los jueces respecto de las Cortes Superiores y éstas respecto de la Corte Suprema tienen la obligación a que se refiere el artículo anterior.
 
 ## LIBRO PRIMERO. Del derecho de las personas     

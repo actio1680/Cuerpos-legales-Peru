@@ -39,11 +39,11 @@ invocada en la demanda.
 tales casos, deben aplicar los principios generales del derecho y, preferentemente, los que
 inspiran el derecho peruano.
 
-##### ARTÍCULO IX.- 
+##### ARTÍCULO IX.
 - Las disposiciones del Código Civil se aplican supletoriamente a las relaciones y situaciones
 jurídicas reguladas por otras leyes, siempre que no sean incompatibles con su naturaleza.
 
-##### ARTÍCULO X.- 
+##### ARTÍCULO X.
 - La Corte Suprema de Justicia, el Tribunal de Garantías Constitucionales y el Fiscal de la Nación están obligados a dar cuenta al Congreso de los vacíos o defectos de la legislación.
 - Tienen la misma obligación los jueces y fiscales respecto de sus correspondientes superiores.
 
@@ -96,10 +96,10 @@ jurídicas reguladas por otras leyes, siempre que no sean incompatibles con su n
 ### LIBRO V. Derechos reales
 #### SECCIÓN PRIMERA. Disposciones generales
 
-##### ARTÍCULO 881.- Noción de derechos reales
+##### ARTÍCULO 881. 
 - Son derechos reales los regulados en este Libro y otras leyes.
 
-##### ARTÍCULO 882.- IMPROCEDENCIA DE PROHIBICIÓN DE ENAJENAR O GRAVAR
+##### ARTÍCULO 882. 
 - No se puede establecer contractualmente la prohibición de enajenar o gravar, salvo que la ley lo permita.
 
 ##### ARTÍCULO 883.

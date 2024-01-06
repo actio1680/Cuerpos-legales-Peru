@@ -2591,7 +2591,9 @@
 - Vencido el plazo, convencional ó legal, sin haberse pagado la deuda, podrá el acreedor pedir judicialmente la venta de la prenda, para ser pagado con el precio de ella. 
 
 ##### ARTÍCULO 2008.
-- Si se mandare vender la prenda, se verificará en pública subasta; y del precio se pagará, el crédito del acreedor, y el sobrante, si lo hubiere, se entregará al deudor.  De la anticresis
+- Si se mandare vender la prenda, se verificará en pública subasta; y del precio se pagará, el crédito del acreedor, y el sobrante, si lo hubiere, se entregará al deudor.
+
+#### De la anticresis
 
 ##### ARTÍCULO 2009.
 - Cuando se dá en prenda una cosa inmueble, concediendo al acreedor el derecho de recibir los frutos, el contrato se llama anticresis. 
